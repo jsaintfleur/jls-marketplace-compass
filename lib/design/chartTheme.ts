@@ -9,12 +9,12 @@ export const chartTheme = {
     boxShadow: "var(--shadow-2)",
   },
   series: [
-    "var(--accent-600)",
+    "var(--data-primary)",
     "var(--info)",
     "var(--success)",
     "var(--warning)",
     "var(--danger)",
     "#64748b",
   ],
-  uncertainty: "color-mix(in srgb, var(--accent-600) 18%, transparent)",
+  uncertainty: "var(--data-band)",
 } as const;

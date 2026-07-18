@@ -14,10 +14,10 @@ export const mapTheme = {
     water: "#082f49",
   },
   choroplethStops: [
-    [20, "var(--accent-100)"],
-    [40, "var(--accent-300)"],
-    [60, "var(--accent-500)"],
-    [80, "var(--accent-700)"],
-    [100, "var(--accent-900)"],
+    [20, "var(--data-sequential-1)"],
+    [40, "var(--data-sequential-2)"],
+    [60, "var(--data-sequential-3)"],
+    [80, "var(--data-sequential-4)"],
+    [100, "var(--data-sequential-5)"],
   ],
 } as const;

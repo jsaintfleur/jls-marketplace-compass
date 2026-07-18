@@ -63,7 +63,7 @@ export function FeatureImportanceChart({
                 width={w}
                 height={rowH}
                 rx="4"
-                className="fill-brand-600"
+                className="fill-[var(--data-primary)]"
               />
               <text
                 x={labelW + Math.max(w, 2) + 8}

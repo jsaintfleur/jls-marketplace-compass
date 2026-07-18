@@ -1,7 +1,7 @@
 "use client";
 
 import type { ButtonHTMLAttributes, ReactNode } from "react";
-import { useEffect, useId, useState } from "react";
+import { useEffect, useState } from "react";
 
 type Tone = "neutral" | "accent" | "success" | "warning" | "danger" | "info";
 
@@ -67,7 +67,7 @@ export function SectionHeader({
 }) {
   return (
     <div className="mb-6 max-w-3xl">
-      {eyebrow ? <p className="mb-2 text-xs font-bold uppercase tracking-[0.18em] text-[var(--accent-700)]">{eyebrow}</p> : null}
+      {eyebrow ? <p className="mb-2 text-xs font-bold uppercase tracking-[0.18em] text-[var(--accent-text)]">{eyebrow}</p> : null}
       <h2 className="text-2xl font-semibold tracking-tight text-[var(--text-primary)] md:text-3xl">{title}</h2>
       {children ? <div className="mt-2 text-sm leading-6 text-[var(--text-tertiary)] md:text-base">{children}</div> : null}
     </div>
@@ -254,8 +254,14 @@ export function SourceAttribution({ children }: { children: ReactNode }) {
 }
 
 export function ThemeToggle() {
-  const id = useId();
   const [dark, setDark] = useState(false);
+
+  const applyTheme = (nextDark: boolean) => {
+    setDark(nextDark);
+    document.documentElement.classList.toggle("dark", nextDark);
+    document.documentElement.classList.toggle("light", !nextDark);
+    window.localStorage.setItem("jls-theme", nextDark ? "dark" : "light");
+  };
 
   useEffect(() => {
     const saved = window.localStorage.getItem("jls-theme");
@@ -263,21 +269,33 @@ export function ThemeToggle() {
     const shouldUseDark = saved ? saved === "dark" : prefersDark;
     setDark(shouldUseDark);
     document.documentElement.classList.toggle("dark", shouldUseDark);
+    document.documentElement.classList.toggle("light", !shouldUseDark);
   }, []);
 
   return (
-    <label htmlFor={id} className="inline-flex items-center gap-2 text-sm font-semibold text-[var(--text-secondary)]">
-      <input
-        id={id}
-        type="checkbox"
-        checked={dark}
-        onChange={(event) => {
-          setDark(event.target.checked);
-          document.documentElement.classList.toggle("dark", event.target.checked);
-          window.localStorage.setItem("jls-theme", event.target.checked ? "dark" : "light");
-        }}
-      />
-      Dark mode
-    </label>
+    <button
+      type="button"
+      role="switch"
+      aria-checked={dark}
+      aria-label={dark ? "Use light mode" : "Use dark mode"}
+      onClick={() => applyTheme(!dark)}
+      className="ds-focus-ring inline-flex items-center gap-2 rounded-full text-sm font-semibold text-[var(--chrome-muted)] transition hover:text-[var(--chrome-text)]"
+    >
+      <span
+        aria-hidden
+        className={`relative inline-flex h-6 w-11 shrink-0 rounded-full border p-0.5 transition ${
+          dark
+            ? "border-[var(--accent-600)] bg-[var(--accent-600)]"
+            : "border-[var(--border-default)] bg-[var(--bg-inset)]"
+        }`}
+      >
+        <span
+          className={`block h-4 w-4 rounded-full bg-white shadow-[var(--shadow-1)] transition ${
+            dark ? "translate-x-5" : "translate-x-0"
+          }`}
+        />
+      </span>
+      <span>{dark ? "Light" : "Dark"} mode</span>
+    </button>
   );
 }
