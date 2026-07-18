@@ -183,6 +183,7 @@
   --accent-text: #7f9ae0;
   --accent-badge-bg: rgba(127, 154, 224, 0.16);
   --accent-border: rgba(127, 154, 224, 0.32);
+  --chrome-muted: #e2e8f0;
 }
 
 .ds-focus-ring:focus-visible {

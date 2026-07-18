@@ -1,50 +1,55 @@
+import { SectionHeader } from "@/lib/design/primitives";
+
 export const metadata = { title: "About — Marketplace Compass" };
 
 export default function AboutPage() {
   return (
-    <div className="mx-auto max-w-3xl px-6 pb-8 pt-14">
-      <h1 className="text-3xl font-semibold tracking-tight text-ink">About Marketplace Compass</h1>
-
-      <div className="mt-5 space-y-4 text-[15px] leading-relaxed text-ink-soft">
+    <main className="mx-auto max-w-4xl px-5 pb-10 pt-12 sm:px-6">
+      <SectionHeader eyebrow="About Marketplace Compass" title="A retention cockpit for model-aware growth teams">
         <p>
-          Marketplaces and e-commerce operators sit on a firehose of order data but
-          make retention, service, and expansion calls on gut feel. The gap is not more
-          dashboards — it is a defensible link from <em>what a customer has done</em> to{" "}
-          <em>what to do next</em>: who is about to lapse, which segment deserves the
-          next campaign, and where growth actually compounds.
+          Marketplace Compass helps CRM and growth teams turn transaction history into campaign
+          priorities, segment actions, and threshold economics without hiding model limits.
+        </p>
+      </SectionHeader>
+
+      <div className="space-y-5 text-[15px] leading-relaxed text-[var(--text-secondary)]">
+        <p>
+          The product pairs a repeat-purchase model with calibration, lift, and a segment playbook.
+          Its most important design choice is honesty: a logistic baseline slightly wins ROC-AUC, so
+          the dashboard emphasizes ranking, economics, and validation rather than pretending the
+          fancier model is always better.
         </p>
         <p>
-          Marketplace Compass turns raw transactions into a repeat-purchase model, an
-          RFM segmentation, and a CLV proxy — presented as an operations cockpit where
-          every number is traceable to public data and every model limit is stated
-          plainly, including where a simple baseline beats the fancier model.
+          It is built for planning, not blind automation. A retention lead can set a threshold, size
+          a campaign, choose segment-specific actions, and export a scored customer file for review.
         </p>
 
-        <h2 className="pt-4 text-xl font-semibold tracking-tight text-ink">Who it&apos;s for</h2>
-        <p>
-          Retention and lifecycle-marketing leads, marketplace and e-commerce operators,
-          growth and CRM analysts, and customer-experience teams deciding where to spend
-          finite service and win-back budget.
-        </p>
-
-        <h2 className="pt-4 text-xl font-semibold tracking-tight text-ink">About the author</h2>
-        <p>
-          Marketplace Compass is part of a five-product data portfolio by{" "}
-          <b>Jean-Luc Saint-Fleur</b>, spanning housing, financial services, healthcare,
-          retail, and transportation &amp; climate. Each product pairs a real business
-          problem, credible public data, a defensible analytical method, and an
-          executive-ready interface — and is honest about what the data can and cannot
-          support.
-        </p>
-
-        <div className="mt-6 rounded-xl border border-slate-200 bg-panel p-5 text-sm">
-          <p className="font-semibold text-ink">Built with</p>
-          <p className="mt-1.5 text-ink-muted">
-            Next.js 15 · TypeScript · Tailwind CSS · dependency-free SVG charts ·
-            Python (Pandas, scikit-learn) · UCI Online Retail II. Deployed on Vercel.
+        <section className="rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)] p-5 shadow-[var(--shadow-1)]">
+          <h2 className="text-xl font-semibold tracking-tight text-[var(--text-primary)]">Who it is for</h2>
+          <p className="mt-3">
+            CRM leads, lifecycle marketers, retention analysts, growth PMs, marketplace operators,
+            and customer-experience teams deciding where finite offer budget should go.
           </p>
-        </div>
+        </section>
+
+        <section className="rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)] p-5 shadow-[var(--shadow-1)]">
+          <h2 className="text-xl font-semibold tracking-tight text-[var(--text-primary)]">About the author</h2>
+          <p className="mt-3">
+            Marketplace Compass is part of a five-product data portfolio by <b>Jean-Luc Saint-Fleur</b>,
+            spanning housing, financial services, healthcare, retail, and transportation. Each product
+            pairs a real business problem, credible public data, defensible analytics, and an
+            executive-ready interface.
+          </p>
+        </section>
+
+        <section className="rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)] p-5 shadow-[var(--shadow-1)]">
+          <h2 className="text-xl font-semibold tracking-tight text-[var(--text-primary)]">Built with</h2>
+          <p className="mt-3">
+            Next.js 15, TypeScript, Tailwind CSS, Recharts, Python, Pandas, scikit-learn, and UCI
+            Online Retail II public data. Deployed on Vercel.
+          </p>
+        </section>
       </div>
-    </div>
+    </main>
   );
 }

@@ -10,12 +10,12 @@ export function KpiCard({
   hint?: string;
 }) {
   return (
-    <div className="rounded-xl border border-slate-200 bg-panel p-5 shadow-card">
+    <div className="rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)] p-5 shadow-[var(--shadow-1)]">
       <div className="flex items-center justify-between">
-        <p className="text-xs font-medium uppercase tracking-wide text-ink-muted">{label}</p>
+        <p className="text-xs font-semibold uppercase tracking-[0.14em] text-[var(--text-tertiary)]">{label}</p>
         {hint ? (
           <span
-            className="cursor-help text-ink-faint"
+            className="cursor-help text-[var(--text-tertiary)]"
             title={hint}
             aria-label={hint}
             role="img"
@@ -27,8 +27,8 @@ export function KpiCard({
           </span>
         ) : null}
       </div>
-      <p className="mt-2 text-3xl font-semibold tracking-tight text-ink tabular-nums">{value}</p>
-      {sub ? <p className="mt-1 text-sm text-ink-muted">{sub}</p> : null}
+      <p className="mt-2 text-3xl font-semibold tracking-tight text-[var(--text-primary)] tabular-nums">{value}</p>
+      {sub ? <p className="mt-1 text-sm text-[var(--text-tertiary)]">{sub}</p> : null}
     </div>
   );
 }

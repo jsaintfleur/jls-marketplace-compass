@@ -17,11 +17,11 @@ function MetricRow({
   better: Dir;
 }) {
   const hgbWins = better === "up" ? hgb > base : hgb < base;
-  const win = "font-semibold text-[var(--data-primary)]";
-  const dim = "text-ink-soft";
+  const win = "font-semibold text-[var(--accent-text)]";
+  const dim = "text-[var(--text-secondary)]";
   return (
-    <tr className="border-t border-slate-100">
-      <td className="py-2.5 pr-3 text-ink-soft">{label}</td>
+    <tr className="border-t border-[var(--border-subtle)]">
+      <td className="py-2.5 pr-3 text-[var(--text-secondary)]">{label}</td>
       <td className={`py-2.5 pr-3 text-right tabular-nums ${hgbWins ? win : dim}`}>
         {fmt(hgb)}
       </td>
@@ -36,28 +36,28 @@ export function ModelCard({ m }: { m: ModelMetrics }) {
   const hgb = m.model;
   const base = m.baseline;
   return (
-    <div className="rounded-xl border border-slate-200 bg-panel p-6 shadow-card">
+    <div className="rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)] p-6 shadow-[var(--shadow-1)]">
       <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
           <p className="text-xs font-semibold uppercase tracking-wide text-[var(--accent-text)]">
             Model card
           </p>
-          <h2 className="mt-1 text-lg font-semibold tracking-tight text-ink">
+          <h2 className="mt-1 text-lg font-semibold tracking-tight text-[var(--text-primary)]">
             Repeat-purchase model
           </h2>
-          <p className="mt-1 max-w-md text-sm text-ink-muted">
+          <p className="mt-1 max-w-md text-sm text-[var(--text-tertiary)]">
             Predicts whether a customer buys again within 90 days of the cutoff.
             Evaluated on a strict temporal holdout (no shuffle, no leakage).
           </p>
         </div>
-        <span className="rounded-full bg-[var(--accent-badge-bg)] px-3 py-1 text-xs font-medium text-[var(--accent-text)]">
+        <span className="rounded-full border border-[var(--border-default)] bg-[var(--bg-inset)] px-3 py-1 text-xs font-medium text-[var(--accent-text)]">
           Temporal holdout · n={m.n_test.toLocaleString("en-US")}
         </span>
       </div>
 
       <table className="mt-5 w-full text-sm">
         <thead>
-          <tr className="text-xs uppercase tracking-wide text-ink-muted">
+          <tr className="text-xs uppercase tracking-wide text-[var(--text-tertiary)]">
             <th className="pb-1 text-left font-medium">Metric</th>
             <th className="pb-1 text-right font-medium">HGB (model)</th>
             <th className="pb-1 text-right font-medium">Logistic (baseline)</th>
@@ -77,7 +77,7 @@ export function ModelCard({ m }: { m: ModelMetrics }) {
         </tbody>
       </table>
 
-      <p className="mt-4 rounded-lg border border-amber-200 bg-amber-50/70 p-3 text-[13px] leading-relaxed text-amber-900/90">
+      <p className="mt-4 rounded-[var(--radius-lg)] border border-[#d97706] bg-[#fff7ed] p-3 text-[13px] leading-relaxed text-[#7c2d12] dark:bg-[#451a03] dark:text-[#fed7aa]">
         <b>Honest read:</b> the logistic baseline slightly edges the gradient-boosted
         model on ROC-AUC ({fmtDecimal(base.roc_auc)} vs {fmtDecimal(hgb.roc_auc)}, a{" "}
         {fmtDecimal(Math.abs(m.auc_uplift_vs_baseline))} gap), while HGB wins on
@@ -87,6 +87,20 @@ export function ModelCard({ m }: { m: ModelMetrics }) {
         {fmtMultiple(hgb.top_decile_lift)}. On this dataset a well-regularized linear
         model is a genuinely strong baseline; we report it rather than hide it.
       </p>
+      <div className="mt-4 grid gap-3 text-sm sm:grid-cols-2">
+        <div className="rounded-[var(--radius-md)] bg-[var(--bg-inset)] p-3">
+          <p className="font-semibold text-[var(--text-primary)]">Business use</p>
+          <p className="mt-1 text-[var(--text-tertiary)]">
+            Use scores to rank retention outreach and suppress low-value incentives.
+          </p>
+        </div>
+        <div className="rounded-[var(--radius-md)] bg-[var(--bg-inset)] p-3">
+          <p className="font-semibold text-[var(--text-primary)]">Limit</p>
+          <p className="mt-1 text-[var(--text-tertiary)]">
+            Validate calibration with later cohorts before automating campaign spend.
+          </p>
+        </div>
+      </div>
     </div>
   );
 }

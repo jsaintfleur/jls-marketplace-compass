@@ -8,10 +8,10 @@ type Tone = "neutral" | "accent" | "success" | "warning" | "danger" | "info";
 const toneClass: Record<Tone, string> = {
   neutral: "border-[var(--border-default)] bg-[var(--bg-panel)] text-[var(--text-secondary)]",
   accent: "border-transparent bg-[var(--accent-600)] text-white",
-  success: "border-transparent bg-[var(--success)] text-white",
-  warning: "border-transparent bg-[var(--warning)] text-white",
+  success: "border-[#0b7a3b] bg-[#ecfdf3] text-[#05331a] dark:bg-[#05331a] dark:text-[#d0f8de]",
+  warning: "border-[#d97706] bg-[#fff7ed] text-[#7c2d12] dark:bg-[#451a03] dark:text-[#fed7aa]",
   danger: "border-transparent bg-[var(--danger)] text-white",
-  info: "border-transparent bg-[var(--info)] text-white",
+  info: "border-transparent bg-[#075985] text-white",
 };
 
 export function Button({
@@ -160,7 +160,7 @@ export function DataTable({
   rows: (string | number)[][];
 }) {
   return (
-    <div className="overflow-x-auto rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)]">
+    <div tabIndex={0} className="ds-focus-ring overflow-x-auto rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)]">
       <table className="min-w-[42rem] w-full text-sm">
         <caption className="sr-only">{caption}</caption>
         <thead className="bg-[var(--bg-inset)] text-left text-xs uppercase tracking-[0.12em] text-[var(--text-tertiary)]">

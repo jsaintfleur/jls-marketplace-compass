@@ -11,10 +11,10 @@ import type { Segment } from "@/lib/types";
 export function SegmentsTable({ segments }: { segments: Segment[] }) {
   const rows = [...segments].sort((a, b) => b.total_monetary - a.total_monetary);
   return (
-    <div className="overflow-hidden rounded-xl border border-slate-200">
+    <div tabIndex={0} className="ds-focus-ring overflow-x-auto rounded-[var(--radius-xl)] border border-[var(--border-default)] bg-[var(--bg-panel)]">
       <table className="w-full text-sm">
         <thead>
-          <tr className="bg-slate-50 text-left text-xs uppercase tracking-wide text-ink-muted">
+          <tr className="bg-[var(--bg-inset)] text-left text-xs uppercase tracking-wide text-[var(--text-tertiary)]">
             <th className="px-4 py-2.5 font-medium">Segment</th>
             <th className="px-4 py-2.5 text-right font-medium">Customers</th>
             <th className="px-4 py-2.5 text-right font-medium">% base</th>
@@ -25,7 +25,7 @@ export function SegmentsTable({ segments }: { segments: Segment[] }) {
         </thead>
         <tbody>
           {rows.map((s) => (
-            <tr key={s.segment} className="border-t border-slate-100 align-top">
+            <tr key={s.segment} className="border-t border-[var(--border-subtle)] align-top">
               <td className="px-4 py-3">
                 <div className="flex items-center gap-2">
                   <span
@@ -34,26 +34,26 @@ export function SegmentsTable({ segments }: { segments: Segment[] }) {
                     aria-hidden="true"
                   />
                   <div>
-                    <span className="font-medium text-ink">{s.segment}</span>
-                    <span className="block text-xs text-ink-muted">
-                      {SEGMENT_META[s.segment]?.blurb}
+                    <span className="font-medium text-[var(--text-primary)]">{s.segment}</span>
+                    <span className="block text-xs text-[var(--text-tertiary)]">
+                      {s.recommended_action ?? SEGMENT_META[s.segment]?.blurb}
                     </span>
                   </div>
                 </div>
               </td>
-              <td className="px-4 py-3 text-right tabular-nums text-ink-soft">
+              <td className="px-4 py-3 text-right tabular-nums text-[var(--text-secondary)]">
                 {fmtInt(s.customers)}
               </td>
-              <td className="px-4 py-3 text-right tabular-nums text-ink-soft">
+              <td className="px-4 py-3 text-right tabular-nums text-[var(--text-secondary)]">
                 {fmtPct(s.pct_of_base)}
               </td>
-              <td className="px-4 py-3 text-right tabular-nums text-ink-soft">
+              <td className="px-4 py-3 text-right tabular-nums text-[var(--text-secondary)]">
                 {fmtCurrency(s.avg_monetary)}
               </td>
-              <td className="px-4 py-3 text-right tabular-nums text-ink-soft">
+              <td className="px-4 py-3 text-right tabular-nums text-[var(--text-secondary)]">
                 {fmtDecimal(s.avg_frequency, 1)}
               </td>
-              <td className="px-4 py-3 text-right tabular-nums font-medium text-ink">
+              <td className="px-4 py-3 text-right tabular-nums font-medium text-[var(--text-primary)]">
                 {fmtPct(s.avg_predicted_repeat_prob)}
               </td>
             </tr>

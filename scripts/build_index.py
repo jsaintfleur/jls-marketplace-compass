@@ -17,7 +17,10 @@ Model task: customer-level repeat-purchase prediction with a strict TEMPORAL spl
 
 import json
 import os
+import shutil
+import zipfile
 from datetime import timedelta
+from urllib.request import urlretrieve
 
 import numpy as np
 import pandas as pd
@@ -29,10 +32,16 @@ from sklearn.metrics import roc_auc_score, average_precision_score, brier_score_
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_XLSX = os.path.join(ROOT, "data", "raw", "online_retail_II.xlsx")
+RAW_DIR = os.path.join(ROOT, "data", "raw")
 PROC_DIR = os.path.join(ROOT, "data", "processed")
 META_DIR = os.path.join(ROOT, "data", "metadata")
+PUBLIC_DIR = os.path.join(ROOT, "public", "data")
+UCI_ZIP_URL = "https://archive.ics.uci.edu/static/public/502/online+retail+ii.zip"
+UCI_ZIP = os.path.join(RAW_DIR, "online_retail_II.zip")
 os.makedirs(PROC_DIR, exist_ok=True)
 os.makedirs(META_DIR, exist_ok=True)
+os.makedirs(PUBLIC_DIR, exist_ok=True)
+os.makedirs(RAW_DIR, exist_ok=True)
 
 # ---- config ----
 LABEL_WINDOW_DAYS = 90
@@ -53,8 +62,22 @@ FEATURES = [
 ]
 
 
+def ensure_raw_workbook():
+    if os.path.exists(RAW_XLSX):
+        return
+    print("Raw workbook missing; downloading UCI Online Retail II ...")
+    urlretrieve(UCI_ZIP_URL, UCI_ZIP)
+    with zipfile.ZipFile(UCI_ZIP) as zf:
+        candidates = [n for n in zf.namelist() if n.lower().endswith((".xlsx", ".xls"))]
+        if not candidates:
+            raise FileNotFoundError("UCI zip did not contain an Excel workbook")
+        with zf.open(candidates[0]) as src, open(RAW_XLSX, "wb") as dst:
+            shutil.copyfileobj(src, dst)
+
+
 def load_clean():
     print("Loading both sheets ...")
+    ensure_raw_workbook()
     xl = pd.ExcelFile(RAW_XLSX)
     frames = [pd.read_excel(xl, sheet_name=s) for s in xl.sheet_names]
     df = pd.concat(frames, ignore_index=True)
@@ -112,6 +135,70 @@ def top_decile_lift(y_true, y_score):
     top_rate = y_true[order][:k].mean()
     base = y_true.mean()
     return float(top_rate / base) if base > 0 else float("nan")
+
+
+def calibration_bins(y_true, y_score, n_bins=10):
+    df = pd.DataFrame({"y": y_true, "p": y_score})
+    df["bin"] = pd.qcut(df["p"].rank(method="first"), n_bins, labels=False, duplicates="drop")
+    rows = []
+    for b, grp in df.groupby("bin"):
+        rows.append({
+            "bin": int(b) + 1,
+            "n": int(len(grp)),
+            "predicted_rate": float(grp["p"].mean()),
+            "observed_rate": float(grp["y"].mean()),
+            "abs_error": float(abs(grp["p"].mean() - grp["y"].mean())),
+        })
+    return rows
+
+
+def lift_curve(y_true, y_score, n_bins=10):
+    df = pd.DataFrame({"y": y_true, "p": y_score}).sort_values("p", ascending=False).reset_index(drop=True)
+    total_pos = max(1, int(df["y"].sum()))
+    rows = []
+    for decile in range(1, n_bins + 1):
+        k = max(1, int(round(len(df) * decile / n_bins)))
+        top = df.iloc[:k]
+        rows.append({
+            "population_pct": decile * 10,
+            "customers": int(k),
+            "captured_repeaters": int(top["y"].sum()),
+            "capture_rate": float(top["y"].sum() / total_pos),
+            "precision": float(top["y"].mean()),
+            "lift": float(top["y"].mean() / df["y"].mean()) if df["y"].mean() > 0 else None,
+        })
+    return rows
+
+
+def threshold_policy(y_true, y_score, benefit=25.0, cost=4.0):
+    rows = []
+    total_pos = max(1, int(np.sum(y_true)))
+    for threshold in np.round(np.arange(0.05, 0.96, 0.05), 2):
+        targeted = y_score >= threshold
+        tp = int(np.sum((y_true == 1) & targeted))
+        fp = int(np.sum((y_true == 0) & targeted))
+        n_targeted = int(np.sum(targeted))
+        rows.append({
+            "threshold": float(threshold),
+            "targeted_customers": n_targeted,
+            "targeted_pct": float(n_targeted / len(y_true)),
+            "captured_repeaters": tp,
+            "top_decile_capture": float(tp / total_pos),
+            "precision": float(tp / n_targeted) if n_targeted else 0.0,
+            "expected_net_value": float(tp * benefit - fp * cost),
+            "benefit_per_saved_customer": benefit,
+            "cost_per_offer": cost,
+        })
+    return rows
+
+
+SEGMENT_ACTIONS = {
+    "Champions": "Protect margin with VIP service, early access, and referral prompts.",
+    "Loyal": "Nudge replenishment and bundles; avoid over-discounting customers already likely to return.",
+    "Potential": "Use welcome-back merchandising and low-friction second-purchase offers.",
+    "At-Risk": "Prioritize service recovery, win-back messaging, and friction diagnosis.",
+    "Hibernating": "Use low-cost reactivation only; suppress expensive incentives unless predicted value clears the threshold.",
+}
 
 
 def main():
@@ -195,6 +282,20 @@ def main():
         "baseline": {"name": "LogisticRegression", **m_lr},
         "auc_uplift_vs_baseline": float(m_hgb["roc_auc"] - m_lr["roc_auc"]),
         "feature_importance_auc_drop": imp_sorted,
+        "calibration": calibration_bins(yte, p_hgb),
+        "lift_curve": lift_curve(yte, p_hgb),
+        "threshold_policy": {
+            "assumptions": {
+                "benefit_per_saved_customer": 25.0,
+                "cost_per_offer": 4.0,
+                "note": "Illustrative unit economics for threshold selection; sliders recompute these values client-side.",
+            },
+            "rows": threshold_policy(yte, p_hgb),
+        },
+        "uncertainty": {
+            "calibration_mean_abs_error": float(np.mean([r["abs_error"] for r in calibration_bins(yte, p_hgb)])),
+            "holdout_only": "Metrics are from one temporal holdout; confidence should be validated with later cohorts before production use.",
+        },
     }
     json.dump(model_metrics, open(os.path.join(PROC_DIR, "model_metrics.json"), "w"), indent=2)
 
@@ -241,6 +342,7 @@ def main():
             "total_monetary": float(grp["monetary"].sum()),
             "avg_clv_90d_proxy": float(grp["clv_90d_proxy"].mean()),
             "avg_predicted_repeat_prob": float(grp["p_repeat"].mean()),
+            "recommended_action": SEGMENT_ACTIONS.get(name, "Review segment before action."),
         })
     seg_rows.sort(key=lambda d: -d["avg_monetary"])
     segments = {
@@ -248,6 +350,16 @@ def main():
         "as_of_date": str(date_max.date()),
         "method": "RFM quantile scoring (R,F,M in 1..4), rule-based segment labels",
         "segments": seg_rows,
+        "playbook": [
+            {
+                "segment": row["segment"],
+                "customers": row["customers"],
+                "avg_predicted_repeat_prob": row["avg_predicted_repeat_prob"],
+                "avg_clv_90d_proxy": row["avg_clv_90d_proxy"],
+                "recommended_action": row["recommended_action"],
+            }
+            for row in seg_rows
+        ],
         "clv_proxy": {
             "definition": "expected 90-day value = (historical monetary / tenure_days * 90) * predicted_repeat_prob",
             "caveats": [
@@ -261,6 +373,16 @@ def main():
         },
     }
     json.dump(segments, open(os.path.join(PROC_DIR, "segments.json"), "w"), indent=2)
+
+    scored = rfm.reset_index().rename(columns={"Customer ID": "customer_id"})
+    scored_out = scored[[
+        "customer_id", "segment", "p_repeat", "clv_90d_proxy", "clv_tier",
+        "recency_days", "frequency", "monetary", "avg_basket_value",
+    ]].copy()
+    scored_out["recommended_action"] = scored_out["segment"].map(SEGMENT_ACTIONS)
+    scored_out.sort_values(["p_repeat", "clv_90d_proxy"], ascending=False).head(1000).to_csv(
+        os.path.join(PROC_DIR, "scored-customers.csv"), index=False
+    )
 
     # ---------- SUMMARY ----------
     orders_per_cust = df.groupby("Customer ID")["Invoice"].nunique()
@@ -280,6 +402,11 @@ def main():
         "model_brier": m_hgb["brier"],
         "model_top_decile_lift": m_hgb["top_decile_lift"],
         "baseline_roc_auc": m_lr["roc_auc"],
+        "calibration_mean_abs_error": model_metrics["uncertainty"]["calibration_mean_abs_error"],
+        "threshold_default": 0.50,
+        "threshold_default_expected_net_value": next(
+            r["expected_net_value"] for r in model_metrics["threshold_policy"]["rows"] if abs(r["threshold"] - 0.50) < 1e-9
+        ),
         "top_segments_by_revenue": [
             {"segment": s["segment"], "customers": s["customers"],
              "total_monetary": s["total_monetary"]}
@@ -324,6 +451,10 @@ def main():
         "generated_at": pd.Timestamp.now("UTC").isoformat(),
     }
     json.dump(sources, open(os.path.join(META_DIR, "sources.json"), "w"), indent=2)
+
+    for name in ("model_metrics.json", "segments.json", "summary.json", "scored-customers.csv"):
+        shutil.copyfile(os.path.join(PROC_DIR, name), os.path.join(PUBLIC_DIR, name))
+    shutil.copyfile(os.path.join(META_DIR, "sources.json"), os.path.join(PUBLIC_DIR, "sources.json"))
 
     print("Artifacts written to data/processed/ and data/metadata/.")
 

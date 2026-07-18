@@ -32,27 +32,403 @@
   "test_base_rate": 0.42693846446942274,
   "model": {
     "name": "HistGradientBoostingClassifier",
-    "roc_auc": 0.7829297390507658,
-    "pr_auc": 0.7514843693338991,
-    "brier": 0.19484459666487106,
-    "top_decile_lift": 2.1414929559507874
+    "roc_auc": 0.7835056241514521,
+    "pr_auc": 0.7515003637854003,
+    "brier": 0.19465600572417224,
+    "top_decile_lift": 2.1504158432672487
   },
   "baseline": {
     "name": "LogisticRegression",
     "roc_auc": 0.7879246002924227,
     "pr_auc": 0.7437938104915645,
-    "brier": 0.19257369876636823,
+    "brier": 0.1925736987663682,
     "top_decile_lift": 2.0924170757102485
   },
-  "auc_uplift_vs_baseline": -0.004994861241656934,
+  "auc_uplift_vs_baseline": -0.004418976140970643,
   "feature_importance_auc_drop": {
-    "recency_days": 0.1511231836328767,
-    "monetary": 0.052520958538646356,
-    "frequency": 0.03532206544855565,
-    "tenure_days": 0.008605714228070771,
-    "avg_basket_value": 0.0017491656935070266,
-    "country_freq": 0.0014998676740057837,
-    "is_uk": -0.00017705277374258088,
-    "unique_products": -0.0017559896797592067
+    "recency_days": 0.14225133394096479,
+    "monetary": 0.045555967961681154,
+    "frequency": 0.03895465134770759,
+    "tenure_days": 0.008509288335374454,
+    "avg_basket_value": 0.0016107574506062372,
+    "country_freq": 0.001601263208863668,
+    "is_uk": -0.0001619954997295059,
+    "unique_products": -0.0014639675724174017
+  },
+  "calibration": [
+    {
+      "bin": 1,
+      "n": 525,
+      "predicted_rate": 0.033381675568723235,
+      "observed_rate": 0.09904761904761905,
+      "abs_error": 0.06566594347889582
+    },
+    {
+      "bin": 2,
+      "n": 525,
+      "predicted_rate": 0.07011137337443017,
+      "observed_rate": 0.18476190476190477,
+      "abs_error": 0.1146505313874746
+    },
+    {
+      "bin": 3,
+      "n": 525,
+      "predicted_rate": 0.10578876489320019,
+      "observed_rate": 0.2342857142857143,
+      "abs_error": 0.1284969493925141
+    },
+    {
+      "bin": 4,
+      "n": 525,
+      "predicted_rate": 0.14457620842134797,
+      "observed_rate": 0.30095238095238097,
+      "abs_error": 0.156376172531033
+    },
+    {
+      "bin": 5,
+      "n": 525,
+      "predicted_rate": 0.19072405520414526,
+      "observed_rate": 0.30857142857142855,
+      "abs_error": 0.11784737336728329
+    },
+    {
+      "bin": 6,
+      "n": 524,
+      "predicted_rate": 0.25779655159886683,
+      "observed_rate": 0.3931297709923664,
+      "abs_error": 0.13533321939349957
+    },
+    {
+      "bin": 7,
+      "n": 525,
+      "predicted_rate": 0.3633221235118853,
+      "observed_rate": 0.4704761904761905,
+      "abs_error": 0.10715406696430518
+    },
+    {
+      "bin": 8,
+      "n": 525,
+      "predicted_rate": 0.5109787378903379,
+      "observed_rate": 0.6171428571428571,
+      "abs_error": 0.10616411925251923
+    },
+    {
+      "bin": 9,
+      "n": 525,
+      "predicted_rate": 0.6927774176365037,
+      "observed_rate": 0.7428571428571429,
+      "abs_error": 0.05007972522063919
+    },
+    {
+      "bin": 10,
+      "n": 525,
+      "predicted_rate": 0.936675126863722,
+      "observed_rate": 0.9180952380952381,
+      "abs_error": 0.018579888768483932
+    }
+  ],
+  "lift_curve": [
+    {
+      "population_pct": 10,
+      "customers": 525,
+      "captured_repeaters": 482,
+      "capture_rate": 0.21508255243195,
+      "precision": 0.9180952380952381,
+      "lift": 2.1504158432672487
+    },
+    {
+      "population_pct": 20,
+      "customers": 1050,
+      "captured_repeaters": 872,
+      "capture_rate": 0.3891120035698349,
+      "precision": 0.8304761904761905,
+      "lift": 1.9451894349886318
+    },
+    {
+      "population_pct": 30,
+      "customers": 1575,
+      "captured_repeaters": 1196,
+      "capture_rate": 0.533690316822847,
+      "precision": 0.7593650793650794,
+      "lift": 1.778628871748015
+    },
+    {
+      "population_pct": 40,
+      "customers": 2100,
+      "captured_repeaters": 1443,
+      "capture_rate": 0.643908969210174,
+      "precision": 0.6871428571428572,
+      "lift": 1.6094657997067636
+    },
+    {
+      "population_pct": 50,
+      "customers": 2624,
+      "captured_repeaters": 1649,
+      "capture_rate": 0.7358322177599286,
+      "precision": 0.6284298780487805,
+      "lift": 1.4719448593833329
+    },
+    {
+      "population_pct": 60,
+      "customers": 3149,
+      "captured_repeaters": 1811,
+      "capture_rate": 0.8081213743864346,
+      "precision": 0.5751032073674183,
+      "lift": 1.3470400426022215
+    },
+    {
+      "population_pct": 70,
+      "customers": 3674,
+      "captured_repeaters": 1969,
+      "capture_rate": 0.8786256135653726,
+      "precision": 0.5359281437125748,
+      "lift": 1.2552819394677845
+    },
+    {
+      "population_pct": 80,
+      "customers": 4199,
+      "captured_repeaters": 2092,
+      "capture_rate": 0.9335118250780902,
+      "precision": 0.4982138604429626,
+      "lift": 1.1669453607608704
+    },
+    {
+      "population_pct": 90,
+      "customers": 4724,
+      "captured_repeaters": 2189,
+      "capture_rate": 0.9767960731816153,
+      "precision": 0.46337849280270954,
+      "lift": 1.085351944989479
+    },
+    {
+      "population_pct": 100,
+      "customers": 5249,
+      "captured_repeaters": 2241,
+      "capture_rate": 1.0,
+      "precision": 0.42693846446942274,
+      "lift": 1.0
+    }
+  ],
+  "threshold_policy": {
+    "assumptions": {
+      "benefit_per_saved_customer": 25.0,
+      "cost_per_offer": 4.0,
+      "note": "Illustrative unit economics for threshold selection; sliders recompute these values client-side."
+    },
+    "rows": [
+      {
+        "threshold": 0.05,
+        "targeted_customers": 4803,
+        "targeted_pct": 0.9150314345589636,
+        "captured_repeaters": 2199,
+        "top_decile_capture": 0.9812583668005355,
+        "precision": 0.45783885071830105,
+        "expected_net_value": 44559.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.1,
+        "targeted_customers": 4011,
+        "targeted_pct": 0.7641455515336254,
+        "captured_repeaters": 2054,
+        "top_decile_capture": 0.9165551093261937,
+        "precision": 0.5120917476938419,
+        "expected_net_value": 43522.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.15,
+        "targeted_customers": 3334,
+        "targeted_pct": 0.6351686035435321,
+        "captured_repeaters": 1865,
+        "top_decile_capture": 0.8322177599286033,
+        "precision": 0.5593881223755249,
+        "expected_net_value": 40749.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.2,
+        "targeted_customers": 2796,
+        "targeted_pct": 0.5326728900742999,
+        "captured_repeaters": 1703,
+        "top_decile_capture": 0.7599286033020973,
+        "precision": 0.6090844062947067,
+        "expected_net_value": 38203.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.25,
+        "targeted_customers": 2404,
+        "targeted_pct": 0.45799199847590016,
+        "captured_repeaters": 1560,
+        "top_decile_capture": 0.6961178045515395,
+        "precision": 0.64891846921797,
+        "expected_net_value": 35624.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.3,
+        "targeted_customers": 2120,
+        "targeted_pct": 0.4038864545627739,
+        "captured_repeaters": 1445,
+        "top_decile_capture": 0.644801427933958,
+        "precision": 0.6816037735849056,
+        "expected_net_value": 33425.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.35,
+        "targeted_customers": 1885,
+        "targeted_pct": 0.35911602209944754,
+        "captured_repeaters": 1351,
+        "top_decile_capture": 0.6028558679161089,
+        "precision": 0.716710875331565,
+        "expected_net_value": 31639.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.4,
+        "targeted_customers": 1690,
+        "targeted_pct": 0.321966088778815,
+        "captured_repeaters": 1259,
+        "top_decile_capture": 0.5618027666220438,
+        "precision": 0.7449704142011835,
+        "expected_net_value": 29751.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.45,
+        "targeted_customers": 1513,
+        "targeted_pct": 0.28824538007239475,
+        "captured_repeaters": 1161,
+        "top_decile_capture": 0.5180722891566265,
+        "precision": 0.767349636483807,
+        "expected_net_value": 27617.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.5,
+        "targeted_customers": 1338,
+        "targeted_pct": 0.25490569632310917,
+        "captured_repeaters": 1052,
+        "top_decile_capture": 0.46943328871039713,
+        "precision": 0.7862481315396114,
+        "expected_net_value": 25156.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.55,
+        "targeted_customers": 1182,
+        "targeted_pct": 0.22518574966660315,
+        "captured_repeaters": 959,
+        "top_decile_capture": 0.42793395805443996,
+        "precision": 0.811336717428088,
+        "expected_net_value": 23083.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.6,
+        "targeted_customers": 1035,
+        "targeted_pct": 0.1971804153172033,
+        "captured_repeaters": 862,
+        "top_decile_capture": 0.3846497099509148,
+        "precision": 0.8328502415458937,
+        "expected_net_value": 20858.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.65,
+        "targeted_customers": 892,
+        "targeted_pct": 0.16993713088207277,
+        "captured_repeaters": 763,
+        "top_decile_capture": 0.3404730031236055,
+        "precision": 0.8553811659192825,
+        "expected_net_value": 18559.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.7,
+        "targeted_customers": 747,
+        "targeted_pct": 0.1423128214898076,
+        "captured_repeaters": 660,
+        "top_decile_capture": 0.29451137884872824,
+        "precision": 0.8835341365461847,
+        "expected_net_value": 16152.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.75,
+        "targeted_customers": 640,
+        "targeted_pct": 0.12192798628310154,
+        "captured_repeaters": 577,
+        "top_decile_capture": 0.2574743418116912,
+        "precision": 0.9015625,
+        "expected_net_value": 14173.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.8,
+        "targeted_customers": 555,
+        "targeted_pct": 0.10573442560487711,
+        "captured_repeaters": 508,
+        "top_decile_capture": 0.22668451584114235,
+        "precision": 0.9153153153153153,
+        "expected_net_value": 12512.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.85,
+        "targeted_customers": 495,
+        "targeted_pct": 0.09430367689083635,
+        "captured_repeaters": 455,
+        "top_decile_capture": 0.2030343596608657,
+        "precision": 0.9191919191919192,
+        "expected_net_value": 11215.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.9,
+        "targeted_customers": 427,
+        "targeted_pct": 0.08134882834825681,
+        "captured_repeaters": 398,
+        "top_decile_capture": 0.17759928603302097,
+        "precision": 0.9320843091334895,
+        "expected_net_value": 9834.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      },
+      {
+        "threshold": 0.95,
+        "targeted_customers": 263,
+        "targeted_pct": 0.05010478186321204,
+        "captured_repeaters": 248,
+        "top_decile_capture": 0.1106648817492191,
+        "precision": 0.9429657794676806,
+        "expected_net_value": 6140.0,
+        "benefit_per_saved_customer": 25.0,
+        "cost_per_offer": 4.0
+      }
+    ]
+  },
+  "uncertainty": {
+    "calibration_mean_abs_error": 0.10003479897566478,
+    "holdout_only": "Metrics are from one temporal holdout; confidence should be validated with later cohorts before production use."
   }
 }
