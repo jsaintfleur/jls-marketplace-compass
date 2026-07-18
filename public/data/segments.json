@@ -1,0 +1,77 @@
+{
+  "n_customers": 5878,
+  "as_of_date": "2011-12-09",
+  "method": "RFM quantile scoring (R,F,M in 1..4), rule-based segment labels",
+  "segments": [
+    {
+      "segment": "Champions",
+      "customers": 661,
+      "pct_of_base": 0.11245321537938074,
+      "avg_recency_days": 10.367624810892586,
+      "avg_frequency": 24.446293494704992,
+      "avg_monetary": 14567.994574886534,
+      "total_monetary": 9629444.413999999,
+      "avg_clv_90d_proxy": 2013.968834596116,
+      "avg_predicted_repeat_prob": 0.8785872882307604
+    },
+    {
+      "segment": "Loyal",
+      "customers": 1184,
+      "pct_of_base": 0.20142905750255188,
+      "avg_recency_days": 40.022804054054056,
+      "avg_frequency": 8.103885135135135,
+      "avg_monetary": 3456.7133141891895,
+      "total_monetary": 4092748.5640000002,
+      "avg_clv_90d_proxy": 728.7711660528447,
+      "avg_predicted_repeat_prob": 0.6268883778733294
+    },
+    {
+      "segment": "At-Risk",
+      "customers": 688,
+      "pct_of_base": 0.1170466144947261,
+      "avg_recency_days": 270.2281976744186,
+      "avg_frequency": 7.15843023255814,
+      "avg_monetary": 3358.7366642441857,
+      "total_monetary": 2310810.8249999997,
+      "avg_clv_90d_proxy": 110.938427333848,
+      "avg_predicted_repeat_prob": 0.22601475999525938
+    },
+    {
+      "segment": "Potential",
+      "customers": 1108,
+      "pct_of_base": 0.18849948962232052,
+      "avg_recency_days": 39.42328519855596,
+      "avg_frequency": 2.1976534296028882,
+      "avg_monetary": 599.4835216606498,
+      "total_monetary": 664227.742,
+      "avg_clv_90d_proxy": 457.54625495065255,
+      "avg_predicted_repeat_prob": 0.39699044452116256
+    },
+    {
+      "segment": "Hibernating",
+      "customers": 2237,
+      "pct_of_base": 0.38057162300102076,
+      "avg_recency_days": 402.1417076441663,
+      "avg_frequency": 1.7232901206973625,
+      "avg_monetary": 467.6788703620921,
+      "total_monetary": 1046197.633,
+      "avg_clv_90d_proxy": 14.181072763713015,
+      "avg_predicted_repeat_prob": 0.1042970364982114
+    }
+  ],
+  "clv_proxy": {
+    "definition": "expected 90-day value = (historical monetary / tenure_days * 90) * predicted_repeat_prob",
+    "caveats": [
+      "coarse proxy, not a survival/BG-NBD model",
+      "repeat prob from temporal-holdout HGB model applied to full-history features",
+      "tenure<1 day clipped to 1 to avoid divide-by-zero inflation"
+    ],
+    "tiers": {
+      "Platinum": 1470,
+      "Gold": 1469,
+      "Silver": 1469,
+      "Bronze": 1470
+    },
+    "platinum_avg_clv_90d": 1729.847520759986
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "dataset": "UCI Online Retail II (keyless demo)",
+  "date_range": [
+    "2009-12-01",
+    "2011-12-09"
+  ],
+  "rows_raw": 1067371,
+  "rows_clean": 805549,
+  "customers": 5878,
+  "orders": 36969,
+  "revenue": 17743429.178000003,
+  "avg_order_value": 479.9542637885797,
+  "repeat_rate_overall": 0.7238856753997959,
+  "model_roc_auc": 0.7829297390507658,
+  "model_pr_auc": 0.7514843693338991,
+  "model_brier": 0.19484459666487106,
+  "model_top_decile_lift": 2.1414929559507874,
+  "baseline_roc_auc": 0.7879246002924227,
+  "top_segments_by_revenue": [
+    {
+      "segment": "Champions",
+      "customers": 661,
+      "total_monetary": 9629444.413999999
+    },
+    {
+      "segment": "Loyal",
+      "customers": 1184,
+      "total_monetary": 4092748.5640000002
+    },
+    {
+      "segment": "At-Risk",
+      "customers": 688,
+      "total_monetary": 2310810.8249999997
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datasets": [
+    {
+      "name": "UCI Online Retail II",
+      "url": "https://archive.ics.uci.edu/static/public/502/online+retail+ii.zip",
+      "license": "CC BY 4.0",
+      "commercial_use": true,
+      "role": "keyless demo dataset (direct download, no credentials)",
+      "rows": 1067371,
+      "description": "UK online retailer transactions 2009-12 to 2011-12, two Excel sheets concatenated"
+    },
+    {
+      "name": "Olist Brazilian E-Commerce",
+      "url": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+      "license": "CC BY-NC-SA 4.0",
+      "role": "richer PRIMARY target (NOT used here) -- requires Kaggle authentication",
+      "note": "Honest substitution: Online Retail II used for the keyless demo because Olist needs Kaggle credentials unavailable in this environment. Olist adds order status/delivery timestamps and geolocation enabling the proposed models below."
+    }
+  ],
+  "labels": {
+    "computed": [
+      "Customer-level repeat-purchase / churn prediction (this pipeline, temporal holdout).",
+      "RFM segmentation (Champions / Loyal / Potential / At-Risk / Hibernating).",
+      "90-day CLV proxy tiers (Platinum/Gold/Silver/Bronze)."
+    ],
+    "proposed_requires_olist": [
+      "Order-level late-delivery risk model (needs Olist delivery timestamps).",
+      "Brazil geospatial expansion / regional demand model (needs Olist geolocation)."
+    ]
+  },
+  "generated_at": "2026-07-18T01:52:32.206622+00:00"
+}

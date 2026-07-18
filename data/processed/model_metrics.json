@@ -1,0 +1,58 @@
+{
+  "task": "customer-level repeat-purchase (churn) prediction",
+  "label_definition": "1 if customer made >=1 purchase in [cutoff, cutoff+90d), else 0",
+  "split": {
+    "type": "temporal forward-in-time holdout (no random shuffle)",
+    "train_cutoff": "2011-05-01",
+    "train_label_window": [
+      "2011-05-01",
+      "2011-07-30"
+    ],
+    "test_cutoff": "2011-09-01",
+    "test_label_window": [
+      "2011-09-01",
+      "2011-11-30"
+    ],
+    "note": "test_cutoff is strictly after the train label window end -> no temporal leakage"
+  },
+  "features": [
+    "recency_days",
+    "frequency",
+    "monetary",
+    "tenure_days",
+    "avg_basket_value",
+    "unique_products",
+    "is_uk",
+    "country_freq"
+  ],
+  "leakage_guard": "features derived only from InvoiceDate < cutoff; country encoding learned on train only",
+  "n_train": 4822,
+  "n_test": 5249,
+  "train_base_rate": 0.3531729572791373,
+  "test_base_rate": 0.42693846446942274,
+  "model": {
+    "name": "HistGradientBoostingClassifier",
+    "roc_auc": 0.7829297390507658,
+    "pr_auc": 0.7514843693338991,
+    "brier": 0.19484459666487106,
+    "top_decile_lift": 2.1414929559507874
+  },
+  "baseline": {
+    "name": "LogisticRegression",
+    "roc_auc": 0.7879246002924227,
+    "pr_auc": 0.7437938104915645,
+    "brier": 0.19257369876636823,
+    "top_decile_lift": 2.0924170757102485
+  },
+  "auc_uplift_vs_baseline": -0.004994861241656934,
+  "feature_importance_auc_drop": {
+    "recency_days": 0.1511231836328767,
+    "monetary": 0.052520958538646356,
+    "frequency": 0.03532206544855565,
+    "tenure_days": 0.008605714228070771,
+    "avg_basket_value": 0.0017491656935070266,
+    "country_freq": 0.0014998676740057837,
+    "is_uk": -0.00017705277374258088,
+    "unique_products": -0.0017559896797592067
+  }
+}
