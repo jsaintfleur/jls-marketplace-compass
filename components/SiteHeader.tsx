@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ThemeToggle } from "@/lib/design/primitives";
 
 const NAV = [
   { href: "/", label: "Executive Overview" },
@@ -19,17 +20,20 @@ export function SiteHeader() {
           </span>
           <span className="text-[15px] font-semibold tracking-tight text-ink">Marketplace Compass</span>
         </Link>
-        <nav aria-label="Primary" className="flex items-center gap-1">
-          {NAV.map((n) => (
-            <Link
-              key={n.href}
-              href={n.href}
-              className="rounded-md px-3 py-1.5 text-sm font-medium text-ink-soft transition-colors hover:bg-slate-100 hover:text-ink"
-            >
-              {n.label}
-            </Link>
-          ))}
-        </nav>
+        <div className="flex items-center gap-3">
+          <nav aria-label="Primary" className="flex items-center gap-1">
+            {NAV.map((n) => (
+              <Link
+                key={n.href}
+                href={n.href}
+                className="rounded-md px-3 py-1.5 text-sm font-medium text-ink-soft transition-colors hover:bg-[var(--bg-inset)] hover:text-ink"
+              >
+                {n.label}
+              </Link>
+            ))}
+          </nav>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
   );
