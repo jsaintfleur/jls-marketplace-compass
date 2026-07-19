@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "jls-marketplace-compass.vercel.app" }],
+      "destination": "https://compass.jeanlucs.com/",
+      "permanent": true
+    },
+    {
+      "source": "/:path+",
+      "has": [{ "type": "host", "value": "jls-marketplace-compass.vercel.app" }],
+      "destination": "https://compass.jeanlucs.com/:path+",
+      "permanent": true
+    }
+  ]
+}
