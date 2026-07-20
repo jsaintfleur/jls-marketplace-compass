@@ -1,0 +1,1001 @@
+customer_id,segment,p_repeat,clv_90d_proxy,clv_tier,recency_days,frequency,monetary,avg_basket_value,recommended_action
+12682,Champions,0.9890449669320345,2894.933146018639,Platinum,4,52,24033.91,462.19057692307695,"Protect margin with VIP service, early access, and referral prompts."
+12621,Champions,0.9887165319898953,3295.460036830569,Platinum,2,35,24775.81,707.8802857142857,"Protect margin with VIP service, early access, and referral prompts."
+12681,Champions,0.9877494280218428,3779.767675291499,Platinum,15,45,30868.28,685.9617777777778,"Protect margin with VIP service, early access, and referral prompts."
+15078,Champions,0.9876650720231533,2145.177940288036,Platinum,7,53,17761.88,335.12981132075475,"Protect margin with VIP service, early access, and referral prompts."
+12490,Champions,0.9874873351907733,1183.0146445699374,Platinum,5,21,9823.64,467.79238095238094,"Protect margin with VIP service, early access, and referral prompts."
+12540,Champions,0.9868160999758804,2700.1338969777335,Platinum,20,33,22254.49,674.3784848484848,"Protect margin with VIP service, early access, and referral prompts."
+12476,Champions,0.9867742992365451,2497.181559774476,Platinum,16,23,14115.41,613.7134782608696,"Protect margin with VIP service, early access, and referral prompts."
+13078,Champions,0.9864135982530763,3547.779329195691,Platinum,3,57,29532.45,518.1131578947369,"Protect margin with VIP service, early access, and referral prompts."
+14060,Champions,0.9862589964641381,1322.2927166284292,Platinum,5,30,9519.08,317.30266666666665,"Protect margin with VIP service, early access, and referral prompts."
+12583,Champions,0.9860796260178698,1746.8247423575003,Platinum,3,27,14447.44,535.0903703703704,"Protect margin with VIP service, early access, and referral prompts."
+15981,Champions,0.9859632116525705,1337.8763448064258,Platinum,25,21,9362.77,445.8461904761905,"Protect margin with VIP service, early access, and referral prompts."
+13001,Champions,0.9858804824190884,2914.0925880671475,Platinum,4,33,24172.100000000002,732.4878787878788,"Protect margin with VIP service, early access, and referral prompts."
+14895,Champions,0.9857729458562771,3057.0571536240227,Platinum,8,38,25119.54,661.0405263157895,"Protect margin with VIP service, early access, and referral prompts."
+17706,Champions,0.9857729458562771,2668.013336225065,Platinum,4,31,20749.98,669.3541935483871,"Protect margin with VIP service, early access, and referral prompts."
+12437,Champions,0.9857012194867514,1526.708081752298,Platinum,2,39,12683.4,325.2153846153846,"Protect margin with VIP service, early access, and referral prompts."
+15159,Champions,0.9856859593064338,4541.697963910705,Platinum,2,34,22116.73,650.4920588235294,"Protect margin with VIP service, early access, and referral prompts."
+12474,Champions,0.9851142668553182,1651.5071450595956,Platinum,17,31,12424.45,400.7887096774194,"Protect margin with VIP service, early access, and referral prompts."
+15498,Champions,0.9850208960274829,3192.8876046198325,Platinum,3,44,26039.58,591.8086363636364,"Protect margin with VIP service, early access, and referral prompts."
+17450,Champions,0.9846548777536424,49969.162549806024,Platinum,8,51,246973.09,4842.609607843137,"Protect margin with VIP service, early access, and referral prompts."
+14194,Champions,0.9844515660495815,2353.0956483801833,Platinum,5,36,18670.59,518.6275,"Protect margin with VIP service, early access, and referral prompts."
+12731,Champions,0.9842764012127705,3523.669871875558,Platinum,24,17,25775.71,1516.2182352941177,"Protect margin with VIP service, early access, and referral prompts."
+13319,Champions,0.9842742425872291,2668.7192859125835,Platinum,5,58,22082.5,380.73275862068965,"Protect margin with VIP service, early access, and referral prompts."
+15358,Champions,0.9842742425872291,2060.580006779883,Platinum,5,42,17050.41,405.96214285714285,"Protect margin with VIP service, early access, and referral prompts."
+14051,Champions,0.9839589391674124,2695.6202655567918,Platinum,1,37,22434.0,606.3243243243244,"Protect margin with VIP service, early access, and referral prompts."
+14667,Champions,0.9837885180571277,2630.691288515996,Platinum,11,54,21927.14,406.0581481481481,"Protect margin with VIP service, early access, and referral prompts."
+16191,Champions,0.983788120640187,1905.3935447365018,Platinum,3,24,15688.02,653.6675,"Protect margin with VIP service, early access, and referral prompts."
+14527,Champions,0.9835841139850842,3333.6664355009334,Platinum,3,122,27792.3,227.80573770491802,"Protect margin with VIP service, early access, and referral prompts."
+16722,Champions,0.9835165115680055,1081.0893673132002,Platinum,17,22,8989.08,408.5945454545454,"Protect margin with VIP service, early access, and referral prompts."
+16133,Champions,0.9835086112197537,3287.847678717794,Platinum,4,56,22992.260000000002,410.5760714285715,"Protect margin with VIP service, early access, and referral prompts."
+15738,Champions,0.983495270063546,1623.7349063829258,Platinum,19,41,13372.970000000001,326.17,"Protect margin with VIP service, early access, and referral prompts."
+12683,Champions,0.983443370948302,1547.9211723209482,Platinum,4,21,12696.78,604.6085714285715,"Protect margin with VIP service, early access, and referral prompts."
+15093,Champions,0.9834314672984105,1732.2230382760367,Platinum,18,23,14326.11,622.8743478260869,"Protect margin with VIP service, early access, and referral prompts."
+16839,Champions,0.9833559199318613,2964.750326767648,Platinum,9,44,22310.49,507.05659090909097,"Protect margin with VIP service, early access, and referral prompts."
+16985,Champions,0.9833513987846935,1326.0869956974088,Platinum,17,23,10923.16,474.92,"Protect margin with VIP service, early access, and referral prompts."
+16422,Champions,0.9833031986023686,8081.753894127466,Platinum,17,109,63651.47,583.9584403669725,"Protect margin with VIP service, early access, and referral prompts."
+17017,Champions,0.9831969920606193,1696.4889099628324,Platinum,3,29,14110.61,486.5727586206897,"Protect margin with VIP service, early access, and referral prompts."
+13113,Champions,0.9831687447964452,2653.9471862344194,Platinum,1,37,18625.73,503.3981081081081,"Protect margin with VIP service, early access, and referral prompts."
+13854,Champions,0.9831539562835283,1546.758392114992,Platinum,9,39,12253.96,314.2041025641025,"Protect margin with VIP service, early access, and referral prompts."
+17243,Champions,0.9830633619032301,2504.3970733277815,Platinum,1,69,20889.86,302.75159420289856,"Protect margin with VIP service, early access, and referral prompts."
+12647,Champions,0.9830153476640088,2281.7151125483797,Platinum,22,36,17924.35,497.89861111111105,"Protect margin with VIP service, early access, and referral prompts."
+16525,Champions,0.9829746675251722,2950.841403365251,Platinum,2,48,24582.64,512.1383333333333,"Protect margin with VIP service, early access, and referral prompts."
+17920,Champions,0.9828173568865204,2954.452612489468,Platinum,4,54,24516.46,454.0085185185185,"Protect margin with VIP service, early access, and referral prompts."
+16746,Champions,0.9828173568865204,2174.200591402608,Platinum,5,42,18066.4,430.152380952381,"Protect margin with VIP service, early access, and referral prompts."
+15044,Champions,0.9827377142910267,1982.316127695126,Platinum,19,35,16204.33,462.98085714285713,"Protect margin with VIP service, early access, and referral prompts."
+16713,Champions,0.9827377142910267,1776.331763888302,Platinum,19,32,14560.69,455.0215625,"Protect margin with VIP service, early access, and referral prompts."
+15615,Champions,0.9825811101857819,2564.653087450453,Platinum,10,47,21373.97,454.7653191489362,"Protect margin with VIP service, early access, and referral prompts."
+15601,Champions,0.9822874430280124,1792.0900027063694,Platinum,11,30,14960.12,498.6706666666667,"Protect margin with VIP service, early access, and referral prompts."
+15290,Champions,0.9822692861595975,1418.8312104951276,Platinum,5,26,10496.28,403.70307692307694,"Protect margin with VIP service, early access, and referral prompts."
+15189,Champions,0.9821972668786174,3043.449572842451,Platinum,1,46,17524.38,380.96478260869566,"Protect margin with VIP service, early access, and referral prompts."
+13199,Champions,0.9820198586678185,1976.011140649446,Platinum,4,67,16432.89,245.26701492537313,"Protect margin with VIP service, early access, and referral prompts."
+14299,Champions,0.981954033719596,1736.3210600459688,Platinum,8,27,14499.49,537.0181481481482,"Protect margin with VIP service, early access, and referral prompts."
+13798,Champions,0.9819508551921047,9168.436582275406,Platinum,1,110,75836.87,689.4260909090908,"Protect margin with VIP service, early access, and referral prompts."
+17735,Champions,0.9819005649004529,3066.302989497362,Platinum,2,26,17244.93,663.2665384615385,"Protect margin with VIP service, early access, and referral prompts."
+13090,Champions,0.9817284218103552,2522.4420768247896,Platinum,9,24,14103.09,587.62875,"Protect margin with VIP service, early access, and referral prompts."
+17811,Champions,0.9816840521486144,1903.6790726242104,Platinum,4,47,9609.8,204.46382978723403,"Protect margin with VIP service, early access, and referral prompts."
+17581,Champions,0.9814964051442733,2248.249358783649,Platinum,1,43,18757.75,436.2267441860465,"Protect margin with VIP service, early access, and referral prompts."
+12471,Champions,0.9814127581077239,4815.672037040121,Platinum,2,79,39963.79,505.8707594936709,"Protect margin with VIP service, early access, and referral prompts."
+14646,Champions,0.981335200758127,63346.35469157485,Platinum,2,151,528602.52,3500.678940397351,"Protect margin with VIP service, early access, and referral prompts."
+15125,Champions,0.9812919748227891,2432.966257776882,Platinum,25,24,17024.87,709.3695833333333,"Protect margin with VIP service, early access, and referral prompts."
+14292,Champions,0.9812594394288544,1291.2853268981648,Platinum,8,16,9226.25,576.640625,"Protect margin with VIP service, early access, and referral prompts."
+15856,Champions,0.981153845350868,4105.68972312401,Platinum,4,52,34220.340000000004,658.0834615384616,"Protect margin with VIP service, early access, and referral prompts."
+14607,Champions,0.9809809516772809,2939.4068584511283,Platinum,16,22,24137.63,1097.165,"Protect margin with VIP service, early access, and referral prompts."
+12524,Champions,0.9809432717723988,1468.2622527577944,Platinum,9,17,11126.11,654.4770588235294,"Protect margin with VIP service, early access, and referral prompts."
+17068,Champions,0.9808669952452376,1302.2900018552525,Platinum,12,47,9161.08,194.91659574468085,"Protect margin with VIP service, early access, and referral prompts."
+16656,Champions,0.9807478851490871,2021.5219442271502,Platinum,22,30,16833.170000000002,561.1056666666667,"Protect margin with VIP service, early access, and referral prompts."
+18172,Champions,0.9807414522212049,2116.4448970610256,Platinum,15,52,17479.84,336.15076923076924,"Protect margin with VIP service, early access, and referral prompts."
+13098,Champions,0.9805332480162978,8040.433259764118,Platinum,1,28,28882.44,1031.5157142857142,"Protect margin with VIP service, early access, and referral prompts."
+17576,Champions,0.9803452174883096,1085.722871233732,Platinum,8,41,9056.81,220.89780487804876,"Protect margin with VIP service, early access, and referral prompts."
+12709,Champions,0.9803366286836335,3758.0474108359685,Platinum,15,34,31093.34,914.51,"Protect margin with VIP service, early access, and referral prompts."
+17858,Champions,0.980271688030766,1540.3351393580133,Platinum,6,30,12797.65,426.5883333333333,"Protect margin with VIP service, early access, and referral prompts."
+13985,Champions,0.9802643849014063,1323.4705011489216,Platinum,4,22,10020.86,455.49363636363637,"Protect margin with VIP service, early access, and referral prompts."
+14110,Champions,0.9802136896726896,1550.4559880522286,Platinum,4,33,12987.95,393.57424242424247,"Protect margin with VIP service, early access, and referral prompts."
+14709,Champions,0.9801825560158456,1068.0113198501717,Platinum,15,25,8886.33,355.4532,"Protect margin with VIP service, early access, and referral prompts."
+13969,Champions,0.9801691927340537,1889.5404819358134,Platinum,7,35,13365.87,381.882,"Protect margin with VIP service, early access, and referral prompts."
+13668,Champions,0.9801691927340537,1586.1703750636648,Platinum,3,35,13089.94,373.9982857142857,"Protect margin with VIP service, early access, and referral prompts."
+15867,Champions,0.9801691927340537,1102.8667722805026,Platinum,5,31,9063.95,292.3854838709678,"Protect margin with VIP service, early access, and referral prompts."
+15984,Champions,0.9801691927340537,1047.0262943047867,Platinum,3,30,8759.32,291.9773333333333,"Protect margin with VIP service, early access, and referral prompts."
+13089,Champions,0.980162540936046,13972.845282623171,Platinum,3,203,116737.86,575.0633497536946,"Protect margin with VIP service, early access, and referral prompts."
+18223,Champions,0.9801519978399197,1678.0794822094206,Platinum,5,26,14000.85,538.4942307692307,"Protect margin with VIP service, early access, and referral prompts."
+16779,Champions,0.980043218294925,3986.940447954777,Platinum,2,53,33268.24,627.7026415094339,"Protect margin with VIP service, early access, and referral prompts."
+14735,Champions,0.9798927776410953,1466.6630357410713,Platinum,4,56,12240.16,218.5742857142857,"Protect margin with VIP service, early access, and referral prompts."
+13999,Champions,0.9798891123678789,1140.1421775782205,Platinum,10,29,9502.26,327.6641379310345,"Protect margin with VIP service, early access, and referral prompts."
+18109,Champions,0.9798519264377463,1655.6269809275527,Platinum,2,38,9893.96,260.3673684210526,"Protect margin with VIP service, early access, and referral prompts."
+15218,Champions,0.9797855027340598,1486.8801602488713,Platinum,11,22,11516.57,523.4804545454546,"Protect margin with VIP service, early access, and referral prompts."
+17315,Champions,0.9797405594324597,1938.3999586726668,Platinum,2,43,9650.6,224.4325581395349,"Protect margin with VIP service, early access, and referral prompts."
+18229,Champions,0.9797198857657695,1294.3136649920996,Platinum,12,28,10803.710000000001,385.8467857142858,"Protect margin with VIP service, early access, and referral prompts."
+15291,Champions,0.9796992012495263,1656.569524402751,Platinum,26,40,13846.56,346.164,"Protect margin with VIP service, early access, and referral prompts."
+13599,Champions,0.9796060739133974,1213.02366641051,Platinum,1,33,10167.630000000001,308.11,"Protect margin with VIP service, early access, and referral prompts."
+16549,Champions,0.9795593078848353,1871.411146783536,Platinum,10,34,13182.19,387.71147058823533,"Protect margin with VIP service, early access, and referral prompts."
+16923,Champions,0.9795593078848353,1739.588105606305,Platinum,12,32,13378.36,418.07375,"Protect margin with VIP service, early access, and referral prompts."
+13418,Champions,0.9795593078848353,1481.4811914898255,Platinum,12,31,12233.6,394.6322580645161,"Protect margin with VIP service, early access, and referral prompts."
+15555,Champions,0.9795593078848353,1454.807719969073,Platinum,12,36,12112.35,336.45416666666665,"Protect margin with VIP service, early access, and referral prompts."
+13004,Champions,0.9795593078848353,1416.748787040418,Platinum,12,36,11650.85,323.63472222222225,"Protect margin with VIP service, early access, and referral prompts."
+17677,Champions,0.979521508177686,4467.865343696863,Platinum,2,54,36692.91,679.4983333333334,"Protect margin with VIP service, early access, and referral prompts."
+17428,Champions,0.979521508177686,3800.9925981770743,Platinum,1,45,31819.760000000002,707.1057777777778,"Protect margin with VIP service, early access, and referral prompts."
+16353,Champions,0.9793457537983039,1204.0486095831134,Platinum,4,38,9999.460000000001,263.1436842105263,"Protect margin with VIP service, early access, and referral prompts."
+14367,Champions,0.9792766685910441,2957.4751472899984,Platinum,8,16,9261.52,578.845,"Protect margin with VIP service, early access, and referral prompts."
+15311,Champions,0.9792259345253977,13925.685175771756,Platinum,1,208,116771.16,561.3998076923077,"Protect margin with VIP service, early access, and referral prompts."
+18041,Champions,0.9791382013793162,1109.75692804165,Platinum,12,38,8752.38,230.32578947368418,"Protect margin with VIP service, early access, and referral prompts."
+14135,Champions,0.979094309649597,1151.5008774043833,Platinum,2,24,9643.92,401.83,"Protect margin with VIP service, early access, and referral prompts."
+13756,Champions,0.979094309649597,1120.6505207857456,Platinum,2,23,9207.5,400.32608695652175,"Protect margin with VIP service, early access, and referral prompts."
+12839,Champions,0.9789988692738224,1210.6672651388965,Platinum,3,26,10071.73,387.37423076923073,"Protect margin with VIP service, early access, and referral prompts."
+16701,Champions,0.9789988692738224,1183.9594459626576,Platinum,9,26,9916.73,381.4126923076923,"Protect margin with VIP service, early access, and referral prompts."
+15465,Champions,0.978826800734467,1527.2493781703618,Platinum,20,32,12655.65,395.4890625,"Protect margin with VIP service, early access, and referral prompts."
+12708,Loyal,0.9787685148182399,648.3582255036079,Platinum,30,18,5314.1,295.2277777777778,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15005,Champions,0.978717333985487,1683.6563971543999,Platinum,16,56,14106.2,251.89642857142857,"Protect margin with VIP service, early access, and referral prompts."
+16161,Champions,0.9786490804975151,1686.8725886589868,Platinum,2,43,12831.8,298.4139534883721,"Protect margin with VIP service, early access, and referral prompts."
+16558,Champions,0.9786490804975151,1660.2673946054038,Platinum,1,38,13873.51,365.09236842105264,"Protect margin with VIP service, early access, and referral prompts."
+14085,Champions,0.9786490804975151,1217.5509766155235,Platinum,2,33,10104.97,306.2112121212121,"Protect margin with VIP service, early access, and referral prompts."
+12901,Champions,0.9785804348207949,5737.545640880076,Platinum,9,28,17654.54,630.5192857142857,"Protect margin with VIP service, early access, and referral prompts."
+12720,Champions,0.978553582310239,1434.942287712909,Platinum,3,30,8260.67,275.35566666666665,"Protect margin with VIP service, early access, and referral prompts."
+13426,Champions,0.9784018680593861,985.1892964706551,Platinum,1,22,8167.38,371.24454545454546,"Protect margin with VIP service, early access, and referral prompts."
+16013,Champions,0.9783317141474,6910.041899614643,Platinum,4,84,57446.44,683.8861904761904,"Protect margin with VIP service, early access, and referral prompts."
+16168,Champions,0.9783299782587737,1270.7435166167013,Platinum,11,66,10636.47,161.15863636363636,"Protect margin with VIP service, early access, and referral prompts."
+15270,Champions,0.9782695859930002,1039.5637308259638,Platinum,16,21,8524.86,405.9457142857143,"Protect margin with VIP service, early access, and referral prompts."
+12989,Champions,0.9782029980054542,1636.5879602741252,Platinum,3,33,13551.75,410.65909090909093,"Protect margin with VIP service, early access, and referral prompts."
+13767,Champions,0.9781688557929087,4233.853262237644,Platinum,2,73,35540.53,486.85657534246576,"Protect margin with VIP service, early access, and referral prompts."
+15544,Champions,0.9781151654022633,1056.6789577324937,Platinum,9,20,8162.43,408.1215,"Protect margin with VIP service, early access, and referral prompts."
+15298,Champions,0.9781070272372914,1139.1311413425249,Platinum,2,23,9459.37,411.2769565217392,"Protect margin with VIP service, early access, and referral prompts."
+17377,Champions,0.9780192975381267,2184.9678657942604,Platinum,24,78,18319.41,234.86423076923077,"Protect margin with VIP service, early access, and referral prompts."
+15955,Champions,0.9779834456775105,1165.2843229426144,Platinum,24,22,8658.36,393.5618181818182,"Protect margin with VIP service, early access, and referral prompts."
+15903,Champions,0.9778637306433011,1132.0504696947896,Platinum,10,12,8939.84,744.9866666666667,"Protect margin with VIP service, early access, and referral prompts."
+14849,Champions,0.9778277139444224,1984.6272460142322,Platinum,22,43,15763.45,366.59186046511627,"Protect margin with VIP service, early access, and referral prompts."
+12553,Champions,0.9777641447283087,958.7809578758707,Platinum,8,12,4608.75,384.0625,"Protect margin with VIP service, early access, and referral prompts."
+17306,Champions,0.9777365475883535,2130.719060562088,Platinum,11,21,9782.35,465.8261904761905,"Protect margin with VIP service, early access, and referral prompts."
+12712,Loyal,0.9776822535185163,865.9100339071695,Platinum,29,21,7193.66,342.5552380952381,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13102,Champions,0.9776158082189047,1768.313489609052,Platinum,1,37,11696.92,316.132972972973,"Protect margin with VIP service, early access, and referral prompts."
+17238,Champions,0.9775922674979507,926.6344437681963,Platinum,3,32,7783.1,243.221875,"Protect margin with VIP service, early access, and referral prompts."
+17730,Champions,0.9775900576443188,1159.2594290006552,Platinum,3,20,7773.8,388.69,"Protect margin with VIP service, early access, and referral prompts."
+17841,Champions,0.9775845441836489,8462.096897523566,Platinum,2,211,70884.07,335.94345971563985,"Protect margin with VIP service, early access, and referral prompts."
+15144,Champions,0.9774384101445092,1471.438606043733,Platinum,8,29,12160.31,419.3210344827586,"Protect margin with VIP service, early access, and referral prompts."
+16186,Champions,0.9774226619516947,1087.683837937251,Platinum,23,26,9026.11,347.1580769230769,"Protect margin with VIP service, early access, and referral prompts."
+14062,Champions,0.9774217912891646,3089.6423492007443,Platinum,10,24,25604.2,1066.8416666666667,"Protect margin with VIP service, early access, and referral prompts."
+13069,Champions,0.9772682282749103,1568.4555744622594,Platinum,1,38,9683.13,254.81921052631577,"Protect margin with VIP service, early access, and referral prompts."
+12921,Champions,0.9772607999873417,4281.002961802109,Platinum,9,74,35921.04,485.41945945945946,"Protect margin with VIP service, early access, and referral prompts."
+12971,Champions,0.9772259564822953,1940.34840979237,Platinum,4,116,15972.79,137.6964655172414,"Protect margin with VIP service, early access, and referral prompts."
+12600,Loyal,0.9771912820311164,606.0091784339003,Platinum,29,21,5043.92,240.18666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13576,Champions,0.9770364882106071,1389.5792522694662,Platinum,10,28,11551.74,412.5621428571429,"Protect margin with VIP service, early access, and referral prompts."
+13178,Champions,0.9770304966124255,1709.907558630927,Platinum,26,21,14059.19,669.4852380952382,"Protect margin with VIP service, early access, and referral prompts."
+15061,Champions,0.9769480455550126,16397.480430278207,Platinum,4,127,137818.52,1085.1851968503936,"Protect margin with VIP service, early access, and referral prompts."
+13267,Champions,0.9768913256542331,1172.0606000998373,Platinum,3,36,9758.26,271.0627777777778,"Protect margin with VIP service, early access, and referral prompts."
+12747,Champions,0.9768819621838215,1114.1907291979558,Platinum,2,26,9276.539999999999,356.78999999999996,"Protect margin with VIP service, early access, and referral prompts."
+14282,Champions,0.9766998796691487,1040.736920014986,Platinum,3,25,7849.66,313.9864,"Protect margin with VIP service, early access, and referral prompts."
+16782,Champions,0.9766166448463103,1255.115247135042,Platinum,10,38,10438.41,274.695,"Protect margin with VIP service, early access, and referral prompts."
+13534,Champions,0.9765727921079087,1305.0036122167994,Platinum,2,35,7720.9,220.59714285714284,"Protect margin with VIP service, early access, and referral prompts."
+15039,Champions,0.9765636079262799,4819.714238373081,Platinum,10,93,40031.43,430.44548387096773,"Protect margin with VIP service, early access, and referral prompts."
+12395,Champions,0.9764621528035815,738.507070602538,Platinum,19,15,5067.27,337.81800000000004,"Protect margin with VIP service, early access, and referral prompts."
+17675,Champions,0.9764248296917118,4612.052273342348,Platinum,1,70,38259.6,546.5657142857143,"Protect margin with VIP service, early access, and referral prompts."
+14739,Champions,0.976385976149456,1465.0757684861326,Platinum,4,25,12287.5,491.5,"Protect margin with VIP service, early access, and referral prompts."
+14547,Champions,0.9763029606665751,6520.95527831621,Platinum,4,8,4007.54,500.9425,"Protect margin with VIP service, early access, and referral prompts."
+13269,Champions,0.976153157310014,1058.4952474211527,Platinum,1,28,8891.7,317.5607142857143,"Protect margin with VIP service, early access, and referral prompts."
+17857,Champions,0.9761401710497453,3924.9373821995114,Platinum,4,24,28682.24,1195.0933333333335,"Protect margin with VIP service, early access, and referral prompts."
+14733,Champions,0.9760139394403353,3536.5872379306666,Platinum,16,15,16184.97,1078.998,"Protect margin with VIP service, early access, and referral prompts."
+15251,Champions,0.9759524671694451,2625.3244796140684,Platinum,9,21,20324.54,967.8352380952381,"Protect margin with VIP service, early access, and referral prompts."
+14121,Loyal,0.9757639051563248,4069.155031380535,Platinum,4,4,2780.15,695.0375,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15838,Champions,0.9757578231798251,8983.257199508529,Platinum,11,34,74163.0,2181.264705882353,"Protect margin with VIP service, early access, and referral prompts."
+16523,Champions,0.975732273733687,1529.8878638764402,Platinum,2,28,11916.33,425.5832142857143,"Protect margin with VIP service, early access, and referral prompts."
+14057,Champions,0.9757113172403212,1003.2799344533686,Platinum,24,22,8408.84,382.22,"Protect margin with VIP service, early access, and referral prompts."
+13050,Champions,0.9756826212213904,1497.2250068137407,Platinum,15,35,12344.53,352.70085714285716,"Protect margin with VIP service, early access, and referral prompts."
+16684,Champions,0.9755486950906879,17648.967696581458,Platinum,4,55,147142.77,2675.3230909090908,"Protect margin with VIP service, early access, and referral prompts."
+13408,Champions,0.9755233148268962,6171.260666296215,Platinum,2,106,51733.462,488.0515283018868,"Protect margin with VIP service, early access, and referral prompts."
+13263,Champions,0.9754215363701971,1850.2827806497974,Platinum,1,39,8704.69,223.1971794871795,"Protect margin with VIP service, early access, and referral prompts."
+15482,Champions,0.97514740830466,1737.7079183279816,Platinum,16,19,14592.56,768.0294736842105,"Protect margin with VIP service, early access, and referral prompts."
+16670,Champions,0.975129997769938,966.7210063694159,Platinum,17,20,8030.150000000001,401.50750000000005,"Protect margin with VIP service, early access, and referral prompts."
+15194,Champions,0.9750953145610536,1479.8323013345364,Platinum,3,28,12427.69,443.84607142857146,"Protect margin with VIP service, early access, and referral prompts."
+13694,Champions,0.9749192082917033,23455.697824668878,Platinum,4,143,196482.81,1374.0056643356643,"Protect margin with VIP service, early access, and referral prompts."
+17511,Champions,0.9749192082917033,20877.960236489333,Platinum,3,60,175603.55,2926.725833333333,"Protect margin with VIP service, early access, and referral prompts."
+14258,Champions,0.9749053528044165,3820.9674779210427,Platinum,9,25,32051.34,1282.0536,"Protect margin with VIP service, early access, and referral prompts."
+16814,Champions,0.9745095271818776,1803.1213542449884,Platinum,14,36,12499.710000000001,347.2141666666667,"Protect margin with VIP service, early access, and referral prompts."
+16700,Champions,0.9744929980081934,1089.4962442402068,Platinum,9,25,9167.710000000001,366.70840000000004,"Protect margin with VIP service, early access, and referral prompts."
+14298,Champions,0.9744301414986802,10985.768381200547,Platinum,8,82,91194.49,1112.1279268292683,"Protect margin with VIP service, early access, and referral prompts."
+17809,Champions,0.9741333218166538,1348.672516049908,Platinum,16,20,11337.39,566.8695,"Protect margin with VIP service, early access, and referral prompts."
+13881,Champions,0.9741215066731067,6140.920878437435,Platinum,4,43,45179.1,1050.6767441860466,"Protect margin with VIP service, early access, and referral prompts."
+15640,Champions,0.9740135634919626,2896.759597461986,Platinum,4,29,23957.58,826.1234482758621,"Protect margin with VIP service, early access, and referral prompts."
+12523,Champions,0.9739172210218799,523.5383825275588,Platinum,19,23,4372.15,190.09347826086955,"Protect margin with VIP service, early access, and referral prompts."
+13468,Champions,0.9738755098926714,1594.6495623064704,Platinum,2,72,13390.51,185.97930555555556,"Protect margin with VIP service, early access, and referral prompts."
+14755,Champions,0.9737132267903671,1187.4135130224795,Platinum,10,25,9972.550000000001,398.90200000000004,"Protect margin with VIP service, early access, and referral prompts."
+12481,Champions,0.9734842247762875,1784.2267454986188,Platinum,23,15,12361.39,824.0926666666667,"Protect margin with VIP service, early access, and referral prompts."
+14543,Loyal,0.9734147410079025,1769.5694705871185,Platinum,29,39,14906.77,382.22487179487183,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14031,Champions,0.9733819394122696,4880.036202174458,Platinum,7,44,40999.17,931.7993181818182,"Protect margin with VIP service, early access, and referral prompts."
+15805,Champions,0.9733690925726833,1224.4298221128843,Platinum,23,30,10189.23,339.64099999999996,"Protect margin with VIP service, early access, and referral prompts."
+14291,Champions,0.973356459022168,947.2169779728328,Platinum,2,23,7904.1,343.6565217391304,"Protect margin with VIP service, early access, and referral prompts."
+16210,Champions,0.9730111493422119,4573.358226112171,Platinum,2,35,38489.51,1099.7002857142859,"Protect margin with VIP service, early access, and referral prompts."
+18102,Champions,0.9730077456788578,72144.70406878002,Platinum,1,145,608821.65,4198.77,"Protect margin with VIP service, early access, and referral prompts."
+17404,Champions,0.9729299633866041,5959.959401560376,Platinum,4,23,47781.12,2077.44,"Protect margin with VIP service, early access, and referral prompts."
+16945,Champions,0.9729183874247851,1023.9392391770377,Platinum,22,33,8548.16,259.0351515151515,"Protect margin with VIP service, early access, and referral prompts."
+12500,Champions,0.9727216283440632,774.6635083949128,Platinum,23,19,5955.21,313.4321052631579,"Protect margin with VIP service, early access, and referral prompts."
+13880,Champions,0.9722475966607182,683.7727388462471,Platinum,21,17,4391.66,258.33294117647057,"Protect margin with VIP service, early access, and referral prompts."
+15694,Champions,0.972191030965327,1292.234326164377,Platinum,1,24,10810.81,450.4504166666666,"Protect margin with VIP service, early access, and referral prompts."
+12841,Champions,0.9721320226856008,1271.1913007210733,Platinum,5,40,7540.68,188.517,"Protect margin with VIP service, early access, and referral prompts."
+13758,Champions,0.9717571229713393,1114.4676120014585,Platinum,12,15,9416.98,627.7986666666667,"Protect margin with VIP service, early access, and referral prompts."
+15993,Champions,0.971614140109438,5559.869802162192,Platinum,9,7,2797.57,399.65285714285716,"Protect margin with VIP service, early access, and referral prompts."
+16705,Champions,0.9714365880692624,5211.630329560267,Platinum,1,42,43515.051,1036.072642857143,"Protect margin with VIP service, early access, and referral prompts."
+14096,Champions,0.971429462279557,55855.58550817081,Platinum,4,17,65164.79,3833.2229411764706,"Protect margin with VIP service, early access, and referral prompts."
+17739,Champions,0.9712895805822759,921.9341564635993,Platinum,12,18,7730.59,429.4772222222222,"Protect margin with VIP service, early access, and referral prompts."
+15046,Champions,0.9712004934035048,983.9563862239979,Platinum,9,25,7812.389999999999,312.49559999999997,"Protect margin with VIP service, early access, and referral prompts."
+12714,Champions,0.9710870597712998,1673.586612045167,Platinum,9,12,14093.71,1174.4758333333332,"Protect margin with VIP service, early access, and referral prompts."
+17133,Champions,0.9710297455661955,2031.6129795765426,Platinum,16,12,14622.33,1218.5275,"Protect margin with VIP service, early access, and referral prompts."
+17613,Champions,0.9710071687845947,1302.0492157542014,Platinum,23,14,4559.150000000001,325.65357142857147,"Protect margin with VIP service, early access, and referral prompts."
+14961,Champions,0.9708630726799555,1948.2075797452549,Platinum,11,22,16410.15,745.9159090909092,"Protect margin with VIP service, early access, and referral prompts."
+12599,Loyal,0.9706764634117846,347.13405576858173,Platinum,29,13,2296.72,176.67076923076922,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18225,Champions,0.9704231899692835,1551.2028528842961,Platinum,3,26,13054.26,502.0869230769231,"Protect margin with VIP service, early access, and referral prompts."
+16729,Loyal,0.9704093277267347,2623.7001286289656,Platinum,38,21,7239.92,344.7580952380952,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12483,Champions,0.9703357807450562,660.5337951182819,Platinum,17,19,5120.58,269.5042105263158,"Protect margin with VIP service, early access, and referral prompts."
+13941,Champions,0.9698082435911658,1342.7176217046506,Platinum,22,15,11122.300000000001,741.4866666666668,"Protect margin with VIP service, early access, and referral prompts."
+16570,Champions,0.9696269023919033,1046.396174040167,Platinum,15,20,7434.31,371.7155,"Protect margin with VIP service, early access, and referral prompts."
+14156,Champions,0.9693767060186004,37063.47337150028,Platinum,10,156,313946.37,2012.4767307692307,"Protect margin with VIP service, early access, and referral prompts."
+16033,Champions,0.9692251377973334,1948.9452851950177,Platinum,6,27,10836.13,401.3381481481481,"Protect margin with VIP service, early access, and referral prompts."
+13018,Champions,0.9691779338867647,1312.1749327126834,Platinum,16,35,9763.16,278.9474285714286,"Protect margin with VIP service, early access, and referral prompts."
+17091,Champions,0.9690338539089068,942.2265978756676,Platinum,3,19,7811.1,411.1105263157895,"Protect margin with VIP service, early access, and referral prompts."
+13871,Champions,0.9689648984758057,956.4674075355897,Platinum,23,17,7885.85,463.8735294117647,"Protect margin with VIP service, early access, and referral prompts."
+13471,Loyal,0.9689261593505397,4697.069527318671,Platinum,1,4,2531.58,632.895,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17652,Champions,0.9688858956213952,1510.5475895554305,Platinum,25,12,4867.72,405.6433333333334,"Protect margin with VIP service, early access, and referral prompts."
+13225,Champions,0.9688153797304175,1960.9550902273654,Platinum,3,16,16260.07,1016.254375,"Protect margin with VIP service, early access, and referral prompts."
+12569,Champions,0.9688026063911847,1427.1465794841624,Platinum,2,32,4124.69,128.8965625,"Protect margin with VIP service, early access, and referral prompts."
+13629,Champions,0.9687836601855122,1750.4690122470352,Platinum,23,19,13370.86,703.7294736842106,"Protect margin with VIP service, early access, and referral prompts."
+15769,Champions,0.9684041006590122,10605.139164712251,Platinum,7,46,88704.32,1928.3547826086958,"Protect margin with VIP service, early access, and referral prompts."
+16592,Champions,0.968288771038794,943.7282136551122,Platinum,4,28,7807.91,278.8539285714286,"Protect margin with VIP service, early access, and referral prompts."
+14341,Loyal,0.9681141940973105,526.7101909901647,Platinum,45,18,4467.32,248.18444444444444,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12567,Champions,0.9679441690766022,1790.6058682565056,Platinum,23,15,13709.86,913.9906666666667,"Protect margin with VIP service, early access, and referral prompts."
+13047,Loyal,0.9679320234769965,1058.2604024922025,Platinum,32,24,8795.16,366.465,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14092,Champions,0.9678334219087387,870.9838172636677,Platinum,8,24,7229.45,301.2270833333333,"Protect margin with VIP service, early access, and referral prompts."
+17389,Champions,0.9677498120117513,6771.909780052902,Platinum,1,61,57224.68,938.1095081967213,"Protect margin with VIP service, early access, and referral prompts."
+16873,Champions,0.9677199631204533,1905.83624259664,Platinum,5,12,14617.39,1218.1158333333333,"Protect margin with VIP service, early access, and referral prompts."
+17949,Champions,0.9676383535139872,13998.668294112871,Platinum,1,118,118628.08,1005.3227118644068,"Protect margin with VIP service, early access, and referral prompts."
+13777,Champions,0.9675615057373825,6664.188426447354,Platinum,1,61,56478.42,925.875737704918,"Protect margin with VIP service, early access, and referral prompts."
+17426,Champions,0.9673726111419196,1065.5745623323453,Platinum,8,13,8077.77,621.3669230769231,"Protect margin with VIP service, early access, and referral prompts."
+17961,Champions,0.9668157968722081,353.1872429466554,Platinum,21,100,2995.54,29.9554,"Protect margin with VIP service, early access, and referral prompts."
+14911,Champions,0.9664616258952768,34836.47771167403,Platinum,1,398,295972.63,743.6498241206031,"Protect margin with VIP service, early access, and referral prompts."
+16444,Loyal,0.9663086611324951,508.8074290738357,Platinum,46,17,3656.58,215.0929411764706,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17757,Champions,0.9662923101564134,1179.0441554028732,Platinum,1,56,9422.45,168.25803571428574,"Protect margin with VIP service, early access, and referral prompts."
+13488,Champions,0.9657054069933589,1980.6973683636368,Platinum,17,23,15587.88,677.7339130434782,"Protect margin with VIP service, early access, and referral prompts."
+17716,Champions,0.9657054069933589,1881.7854799739127,Platinum,23,24,15956.97,664.87375,"Protect margin with VIP service, early access, and referral prompts."
+16672,Champions,0.965607018756775,2647.8051105051372,Platinum,2,20,8134.9400000000005,406.747,"Protect margin with VIP service, early access, and referral prompts."
+14554,Loyal,0.9656069022593113,3979.2957551922304,Platinum,10,4,2381.04,595.26,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12757,Champions,0.965561347555802,3235.95301302968,Platinum,16,13,7857.1,604.3923076923077,"Protect margin with VIP service, early access, and referral prompts."
+15502,Champions,0.9655543172427085,2191.046817033458,Platinum,16,14,13993.47,999.5335714285713,"Protect margin with VIP service, early access, and referral prompts."
+13993,Loyal,0.9654312732460556,798.8241654276021,Platinum,43,19,6775.71,356.6163157894737,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15203,Champions,0.9654234470788875,523.0141243544215,Platinum,26,15,4400.18,293.3453333333334,"Protect margin with VIP service, early access, and referral prompts."
+14056,Champions,0.9652999551014395,2512.901812872055,Platinum,1,23,8214.65,357.1586956521739,"Protect margin with VIP service, early access, and referral prompts."
+13313,Champions,0.965201354298903,406.09020040621266,Platinum,22,12,3445.32,287.11,"Protect margin with VIP service, early access, and referral prompts."
+14688,Champions,0.9651609848609184,1466.1604236748951,Platinum,8,28,7713.57,275.48464285714283,"Protect margin with VIP service, early access, and referral prompts."
+14606,Champions,0.965080749529281,3637.0520250286704,Platinum,1,192,30861.06,160.7346875,"Protect margin with VIP service, early access, and referral prompts."
+17512,Loyal,0.9650443563933797,651.4430657746728,Platinum,29,18,5467.820000000001,303.76777777777784,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16743,Loyal,0.9649674904735811,619.7704472614928,Platinum,29,14,4253.26,303.80428571428575,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17381,Champions,0.9648033847602502,6338.499959304508,Platinum,9,38,40002.37,1052.693947368421,"Protect margin with VIP service, early access, and referral prompts."
+12748,Champions,0.9646339414306794,6685.431754074145,Platinum,1,336,56599.39,168.45056547619046,"Protect margin with VIP service, early access, and referral prompts."
+12779,Loyal,0.9641845284263986,791.5003876410357,Platinum,38,14,6722.2699999999995,480.16214285714284,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15129,Loyal,0.9641147616748089,975.8361844543707,Platinum,50,23,6860.18,298.2686956521739,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16187,Loyal,0.964114476463906,2111.6469793980737,Platinum,32,15,6911.4400000000005,460.7626666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17719,Loyal,0.9639586488341139,1828.6732362145892,Platinum,38,15,5396.04,359.736,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12417,Champions,0.963914139635256,805.69813949031,Platinum,3,20,6816.91,340.8455,"Protect margin with VIP service, early access, and referral prompts."
+16912,Loyal,0.9637913821488407,531.6382695786245,Platinum,29,15,4480.31,298.68733333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14944,Loyal,0.9636542465293936,1283.8328164523277,Platinum,30,19,9784.67,514.9826315789473,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16333,Champions,0.9636068056090812,7449.028749171836,Platinum,8,22,26626.8,1210.3090909090909,"Protect margin with VIP service, early access, and referral prompts."
+16325,Loyal,0.9634600608930441,424.4139880484971,Platinum,47,12,3597.5,299.7916666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12705,Champions,0.9634368358088342,1909.8944505281613,Platinum,15,14,11762.1,840.15,"Protect margin with VIP service, early access, and referral prompts."
+15971,Champions,0.9633228615248159,699.1390680362126,Platinum,18,18,5902.83,327.935,"Protect margin with VIP service, early access, and referral prompts."
+16008,Champions,0.9631283647805923,739.627177559353,Platinum,24,15,5384.13,358.942,"Protect margin with VIP service, early access, and referral prompts."
+15024,Champions,0.9631198786770301,833.180242234038,Platinum,10,16,4075.51,254.719375,"Protect margin with VIP service, early access, and referral prompts."
+14088,Champions,0.9630663694859098,13183.971411056005,Platinum,10,16,64036.8,4002.3,"Protect margin with VIP service, early access, and referral prompts."
+15023,Champions,0.9629603604639192,1564.9694599260995,Platinum,3,20,12170.68,608.534,"Protect margin with VIP service, early access, and referral prompts."
+17139,Champions,0.962898505615109,2431.527584606159,Platinum,16,25,19584.46,783.3783999999999,"Protect margin with VIP service, early access, and referral prompts."
+18055,Champions,0.9627461828563383,2348.8239840583155,Platinum,7,14,11195.57,799.6835714285714,"Protect margin with VIP service, early access, and referral prompts."
+13137,Champions,0.9625189069087008,1330.9278119488572,Platinum,11,16,7712.7,482.04375,"Protect margin with VIP service, early access, and referral prompts."
+12662,Champions,0.9623377464996489,979.3449639749238,Platinum,1,20,6988.02,349.401,"Protect margin with VIP service, early access, and referral prompts."
+18198,Champions,0.9622271104324335,1398.3806039136948,Platinum,4,17,5425.56,319.15058823529415,"Protect margin with VIP service, early access, and referral prompts."
+14769,Champions,0.9614931944104692,1885.0966512089408,Platinum,3,17,15771.88,927.7576470588235,"Protect margin with VIP service, early access, and referral prompts."
+13327,Loyal,0.9610087854370954,1185.137360332187,Platinum,39,20,9879.48,493.974,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14415,Champions,0.9609671028482233,1446.4269486472504,Platinum,1,23,12091.6,525.7217391304348,"Protect margin with VIP service, early access, and referral prompts."
+15785,Loyal,0.960929491285754,713.1234279171832,Platinum,33,16,5969.93,373.120625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16103,Champions,0.9609237710637746,763.8780585278112,Platinum,7,22,6191.71,281.44136363636363,"Protect margin with VIP service, early access, and referral prompts."
+15513,Loyal,0.9607949198849025,3452.7091680015515,Platinum,33,35,27750.55,792.8728571428571,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13831,Champions,0.9606025819033704,832.9468002722067,Platinum,16,18,7023.58,390.19888888888886,"Protect margin with VIP service, early access, and referral prompts."
+13491,Loyal,0.9605769655018987,538.5919662788699,Platinum,52,27,4566.56,169.13185185185188,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17611,Champions,0.9603321263816231,980.4733360273684,Platinum,7,28,8371.98,298.9992857142857,"Protect margin with VIP service, early access, and referral prompts."
+12928,Loyal,0.9603308649379606,676.4921569902726,Platinum,35,12,4304.89,358.74083333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17865,Loyal,0.9602429860000717,3084.335684272989,Platinum,31,46,26374.39,573.356304347826,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17663,Champions,0.9601721205727977,692.3713467711877,Platinum,26,17,5175.83,304.4605882352941,"Protect margin with VIP service, early access, and referral prompts."
+14466,Loyal,0.9598007382139085,552.9047169925057,Platinum,29,13,4646.9,357.45384615384614,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16218,Loyal,0.9596472514152664,683.5516053796108,Platinum,30,13,4439.97,341.53615384615387,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14882,Loyal,0.9595981262271346,506.2050642171052,Platinum,27,14,3628.15,259.1535714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17044,Champions,0.959526478254071,1409.321859718527,Platinum,25,12,11962.3,996.8583333333332,"Protect margin with VIP service, early access, and referral prompts."
+14866,Champions,0.9594710275324241,3822.646243505178,Platinum,11,19,20850.22,1097.38,"Protect margin with VIP service, early access, and referral prompts."
+14211,Loyal,0.9594607139661484,520.0330883498539,Platinum,53,18,4402.29,244.57166666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15240,Loyal,0.9594581069537205,524.6931295730665,Platinum,45,12,4459.98,371.66499999999996,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16748,Champions,0.9593867302869613,430.22541398728845,Platinum,18,14,3637.33,259.8092857142857,"Protect margin with VIP service, early access, and referral prompts."
+14680,Champions,0.9593291761243008,6735.050381630785,Platinum,25,58,57412.77,989.8753448275861,"Protect margin with VIP service, early access, and referral prompts."
+15611,Champions,0.9593090515230747,378.88521970046463,Platinum,10,26,2997.28,115.28,"Protect margin with VIP service, early access, and referral prompts."
+13450,Loyal,0.9592241875784603,589.8570181777253,Platinum,27,13,4120.04,316.92615384615385,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18061,Champions,0.9592056683439005,761.1183593943164,Platinum,22,28,6488.97,231.7489285714286,"Protect margin with VIP service, early access, and referral prompts."
+16626,Champions,0.9591102410478684,1426.7357544162971,Platinum,1,17,4413.1,259.59411764705885,"Protect margin with VIP service, early access, and referral prompts."
+14030,Champions,0.9590414552994074,978.256620457499,Platinum,18,20,8262.29,413.1145,"Protect margin with VIP service, early access, and referral prompts."
+13458,Champions,0.9589804896435373,2660.266994933335,Platinum,7,16,11959.27,747.454375,"Protect margin with VIP service, early access, and referral prompts."
+18092,Champions,0.9588314238630352,1897.0135792467247,Platinum,2,18,16179.44,898.8577777777778,"Protect margin with VIP service, early access, and referral prompts."
+15527,Champions,0.9586855720076936,664.4692072428287,Platinum,19,23,5575.64,242.41913043478263,"Protect margin with VIP service, early access, and referral prompts."
+16497,Loyal,0.9586216058079308,784.8391383750476,Platinum,50,23,6695.28,291.0991304347826,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17519,Champions,0.958571767971227,596.4836701172329,Platinum,17,15,5109.47,340.6313333333334,"Protect margin with VIP service, early access, and referral prompts."
+14515,Champions,0.9584997752019234,586.9870018976782,Platinum,18,12,3749.2599999999998,312.43833333333333,"Protect margin with VIP service, early access, and referral prompts."
+13013,Champions,0.9584653599106828,1500.1689901486986,Platinum,1,29,12625.77,435.3713793103448,"Protect margin with VIP service, early access, and referral prompts."
+15570,Champions,0.9583679794494956,1293.2467523729613,Platinum,7,25,9311.04,372.44160000000005,"Protect margin with VIP service, early access, and referral prompts."
+15547,Champions,0.9583679794494956,1194.8810374021755,Platinum,7,26,10154.39,390.55346153846153,"Protect margin with VIP service, early access, and referral prompts."
+17690,Loyal,0.9581186318951606,952.9001548956247,Platinum,30,20,7448.1,372.40500000000003,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13983,Loyal,0.9581186318951606,839.6800753432382,Platinum,30,21,7108.45,338.497619047619,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14159,Champions,0.9580783053339534,928.726139982575,Platinum,20,20,7938.01,396.9005,"Protect margin with VIP service, early access, and referral prompts."
+15058,Champions,0.9578735220494723,450.18984712939147,Platinum,25,16,3410.03,213.126875,"Protect margin with VIP service, early access, and referral prompts."
+17364,Champions,0.9577825910496055,1421.4145257365137,Platinum,1,28,12070.42,431.0864285714286,"Protect margin with VIP service, early access, and referral prompts."
+17838,Loyal,0.9576765812929982,918.3086370106541,Platinum,27,13,6722.900000000001,517.1461538461539,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17696,Loyal,0.9575940067055265,907.8925133278636,Platinum,38,27,7679.59,284.42925925925925,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17049,Champions,0.9573441404029166,1326.756272569301,Platinum,3,19,9947.48,523.5515789473684,"Protect margin with VIP service, early access, and referral prompts."
+15719,Loyal,0.9573166314068188,1191.8856327040342,Platinum,33,31,10223.06,329.77612903225804,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13538,Loyal,0.9568967288462938,396.55399989697514,Platinum,43,12,3112.73,259.39416666666665,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16265,Champions,0.9566382092694207,1467.07708815752,Platinum,9,12,6935.17,577.9308333333333,"Protect margin with VIP service, early access, and referral prompts."
+15114,Loyal,0.9566271009381021,695.3402006169819,Platinum,30,12,3400.12,283.3433333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17314,Champions,0.9562918011392225,572.7353566397712,Platinum,25,17,4904.43,288.4958823529412,"Protect margin with VIP service, early access, and referral prompts."
+14239,Loyal,0.9562049080476506,499.1588666744697,Platinum,43,21,4263.17,203.00809523809525,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16466,Loyal,0.9560486125089054,514.4689687136298,Platinum,34,15,3838.59,255.906,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14898,Champions,0.9553838948959739,409.80633998906814,Platinum,23,14,3507.81,250.55785714285713,"Protect margin with VIP service, early access, and referral prompts."
+14796,Champions,0.9552530072733829,1291.3276168706302,Platinum,1,27,10889.64,403.32,"Protect margin with VIP service, early access, and referral prompts."
+17071,Loyal,0.9552275022408163,477.7645765154988,Platinum,28,13,3801.2000000000003,292.40000000000003,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14221,Loyal,0.9552235599374401,915.5382352436275,Platinum,42,17,6517.49,383.38176470588235,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16293,Champions,0.9545832806675714,548.9384187883351,Platinum,22,15,4657.95,310.53,"Protect margin with VIP service, early access, and referral prompts."
+17442,Loyal,0.9540368001586063,599.2662545310465,Platinum,37,15,4620.3,308.02000000000004,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14064,Loyal,0.953887667224859,416.4306995650827,Platinum,29,15,3332.42,222.16133333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16360,Loyal,0.9535961120091156,3425.6607456634556,Platinum,5,6,3512.53,585.4216666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13728,Loyal,0.9535423319080286,335.6538238102002,Platinum,37,16,2855.17,178.448125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13081,Champions,0.9532975204783497,6948.852315334321,Platinum,12,28,59205.15,2114.469642857143,"Protect margin with VIP service, early access, and referral prompts."
+15953,Champions,0.953162892402187,427.7052992707881,Platinum,15,18,3669.5499999999997,203.86388888888888,"Protect margin with VIP service, early access, and referral prompts."
+12431,Loyal,0.9527877432939986,1341.6147924709717,Platinum,36,27,10857.97,402.147037037037,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14146,Champions,0.9523308668535899,1165.443331212062,Platinum,9,12,9450.3,787.525,"Protect margin with VIP service, early access, and referral prompts."
+16126,Loyal,0.9523296035687577,1703.3545608949516,Platinum,29,15,14646.800000000001,976.4533333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14217,Champions,0.9521627433384687,555.6151462006077,Platinum,2,23,3416.89,148.5604347826087,"Protect margin with VIP service, early access, and referral prompts."
+16401,Champions,0.9520794853052897,1057.448952450604,Platinum,1,23,6849.15,297.7891304347826,"Protect margin with VIP service, early access, and referral prompts."
+17220,Champions,0.9519124204654649,557.2728797357021,Platinum,24,21,4481.75,213.41666666666666,"Protect margin with VIP service, early access, and referral prompts."
+14040,Loyal,0.9518809752666763,1465.9498990477296,Platinum,41,35,12645.57,361.30199999999996,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16668,Loyal,0.9518548265417969,117.08538439866224,Gold,15,13,862.42,66.34,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17469,Champions,0.9516029180785863,598.3548846403891,Platinum,16,17,5051.25,297.13235294117646,"Protect margin with VIP service, early access, and referral prompts."
+17063,Champions,0.951497238485865,421.6300571628115,Platinum,21,13,3638.53,279.8869230769231,"Protect margin with VIP service, early access, and referral prompts."
+17930,Loyal,0.9514969113223447,566.7295298299015,Platinum,36,13,4275.22,328.86307692307696,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14395,Champions,0.9514775403337963,1171.4605748752806,Platinum,2,20,8208.01,410.4005,"Protect margin with VIP service, early access, and referral prompts."
+14505,Champions,0.9514389346270431,1407.824120116138,Platinum,17,19,12001.84,631.6757894736842,"Protect margin with VIP service, early access, and referral prompts."
+15727,Champions,0.9514389346270431,1180.7508575573977,Platinum,17,15,9445.51,629.7006666666667,"Protect margin with VIP service, early access, and referral prompts."
+14329,Champions,0.9514389346270431,1175.7440191628557,Platinum,17,15,9927.22,661.8146666666667,"Protect margin with VIP service, early access, and referral prompts."
+12685,Loyal,0.9514177208967312,2608.0707909686294,Platinum,28,6,2863.08,477.18,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12957,Champions,0.9513410173727925,1022.6293454363436,Platinum,10,13,8706.97,669.766923076923,"Protect margin with VIP service, early access, and referral prompts."
+16791,Loyal,0.9510906648996869,469.70710892409573,Platinum,29,15,4038.69,269.246,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17338,Champions,0.9510064557052756,1626.4313322328464,Platinum,17,17,12142.57,714.2688235294117,"Protect margin with VIP service, early access, and referral prompts."
+14426,Champions,0.9510064557052756,1556.280928203367,Platinum,24,17,11727.94,689.8788235294118,"Protect margin with VIP service, early access, and referral prompts."
+17213,Loyal,0.9509988554617534,611.7965836956553,Platinum,40,13,5182.3,398.63846153846157,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17287,Champions,0.9509947206518536,477.5314825479561,Platinum,26,21,4111.96,195.80761904761906,"Protect margin with VIP service, early access, and referral prompts."
+14422,Champions,0.9509038905141568,1215.837551389291,Platinum,1,19,10271.52,540.6063157894737,"Protect margin with VIP service, early access, and referral prompts."
+15187,Champions,0.9507511413871086,1928.1690584200476,Platinum,2,16,4777.18,298.57375,"Protect margin with VIP service, early access, and referral prompts."
+14868,Champions,0.9505969791052784,852.2801285456306,Platinum,3,12,4184.01,348.6675,"Protect margin with VIP service, early access, and referral prompts."
+13634,Loyal,0.9505651493496565,621.8334371696135,Platinum,33,16,5073.47,317.091875,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17402,Champions,0.9503359143609913,602.8733875578669,Platinum,5,23,5096.18,221.57304347826087,"Protect margin with VIP service, early access, and referral prompts."
+16327,Champions,0.950302478230061,1265.9609789043373,Platinum,14,16,10731.34,670.70875,"Protect margin with VIP service, early access, and referral prompts."
+16607,Champions,0.9500396276747792,828.451168928613,Platinum,18,25,5706.87,228.2748,"Protect margin with VIP service, early access, and referral prompts."
+12415,Champions,0.9499423786558682,23390.987661570936,Platinum,24,28,144458.37,5159.2275,"Protect margin with VIP service, early access, and referral prompts."
+14099,Champions,0.9498138344159532,675.1665768366254,Platinum,16,20,5765.71,288.2855,"Protect margin with VIP service, early access, and referral prompts."
+14525,Champions,0.9496306921861088,970.1113223871737,Platinum,20,17,8240.64,484.74352941176465,"Protect margin with VIP service, early access, and referral prompts."
+17191,Loyal,0.9495589241496987,560.0139555041646,Platinum,28,15,4836.05,322.40333333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13769,Champions,0.9494261949609993,684.580610607474,Platinum,2,20,5800.42,290.021,"Protect margin with VIP service, early access, and referral prompts."
+12627,Loyal,0.9490527516263332,2732.3750698335525,Platinum,11,7,4478.53,639.79,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13824,Loyal,0.9489825753493251,444.4402721065049,Platinum,33,12,3314.76,276.23,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15034,Champions,0.9489659295086774,1230.540731809306,Platinum,16,14,8313.4,593.8142857142857,"Protect margin with VIP service, early access, and referral prompts."
+17528,Champions,0.9489305240295124,4364.612627883066,Platinum,1,8,3628.5,453.5625,"Protect margin with VIP service, early access, and referral prompts."
+14401,Champions,0.9489243249081444,800.5400465764045,Platinum,4,22,6795.9,308.9045454545454,"Protect margin with VIP service, early access, and referral prompts."
+15854,Champions,0.9489162097969955,653.2480875731378,Platinum,4,21,5583.81,265.8957142857143,"Protect margin with VIP service, early access, and referral prompts."
+13971,Champions,0.9488604342358099,583.5995969726845,Platinum,19,14,4667.57,333.3978571428571,"Protect margin with VIP service, early access, and referral prompts."
+15373,Champions,0.9488045114396199,497.7184396345759,Platinum,8,17,3421.39,201.25823529411764,"Protect margin with VIP service, early access, and referral prompts."
+17157,Champions,0.9487665191878861,598.5245179841719,Platinum,8,19,5151.9,271.15263157894736,"Protect margin with VIP service, early access, and referral prompts."
+14334,Champions,0.9484841276616777,647.8750021198525,Platinum,17,12,4318.48,359.8733333333333,"Protect margin with VIP service, early access, and referral prompts."
+14744,Champions,0.9481670914386966,581.6376321484186,Platinum,16,14,3885.08,277.5057142857143,"Protect margin with VIP service, early access, and referral prompts."
+18075,Champions,0.9481260683980838,988.9697813818352,Platinum,23,20,5783.29,289.1645,"Protect margin with VIP service, early access, and referral prompts."
+12910,Champions,0.9478647667950663,796.2778373946287,Platinum,23,13,5796.52,445.8861538461539,"Protect margin with VIP service, early access, and referral prompts."
+18144,Champions,0.94767136297525,596.6790565056616,Platinum,8,19,5058.0,266.2105263157895,"Protect margin with VIP service, early access, and referral prompts."
+15712,Champions,0.9476507805508033,400.7535645741778,Platinum,9,12,3472.4100000000003,289.3675,"Protect margin with VIP service, early access, and referral prompts."
+12856,Loyal,0.9476141915423901,2904.9364751751596,Platinum,8,6,2179.93,363.32166666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13953,Champions,0.9474695223458818,777.837598473443,Platinum,7,12,6640.68,553.39,"Protect margin with VIP service, early access, and referral prompts."
+14047,Champions,0.9474493794806689,535.9354475412803,Platinum,9,14,4255.03,303.93071428571426,"Protect margin with VIP service, early access, and referral prompts."
+12484,Loyal,0.947362185052919,797.5558444645179,Platinum,33,12,6370.15,530.8458333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15365,Champions,0.9472716029057867,577.2891316159054,Platinum,26,13,4557.13,350.54846153846154,"Protect margin with VIP service, early access, and referral prompts."
+13709,Champions,0.9470823201580526,927.0789374862329,Platinum,4,18,7591.75,421.7638888888889,"Protect margin with VIP service, early access, and referral prompts."
+16767,Loyal,0.9468961048749333,1166.1940329466634,Platinum,31,15,8073.8,538.2533333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17659,Champions,0.9467805713857069,846.5373576709263,Platinum,17,14,3834.79,273.9135714285714,"Protect margin with VIP service, early access, and referral prompts."
+12594,Loyal,0.9466913511633118,671.3447062109748,Platinum,38,15,5090.110000000001,339.3406666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16255,Champions,0.9464405776279372,610.159877908655,Platinum,17,15,4906.8,327.12,"Protect margin with VIP service, early access, and referral prompts."
+16326,Champions,0.9455374974698458,604.0720647677608,Platinum,6,24,4826.99,201.12458333333333,"Protect margin with VIP service, early access, and referral prompts."
+14432,Loyal,0.9454740672751762,2156.487182170618,Platinum,10,6,2255.51,375.91833333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17644,Champions,0.9453743981743379,774.8271430740834,Platinum,1,20,6028.6,301.43,"Protect margin with VIP service, early access, and referral prompts."
+14503,Loyal,0.9452674182264931,1684.0197816059683,Platinum,3,6,3543.26,590.5433333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13230,Champions,0.9451533937627431,857.4836012013254,Platinum,4,30,6360.78,212.02599999999998,"Protect margin with VIP service, early access, and referral prompts."
+14113,Champions,0.9449917395961193,824.0726879725613,Platinum,4,16,7092.610000000001,443.28812500000004,"Protect margin with VIP service, early access, and referral prompts."
+16365,Champions,0.9446922606636978,385.71435116876313,Platinum,18,15,3307.2,220.48,"Protect margin with VIP service, early access, and referral prompts."
+16954,Champions,0.9442060561612308,749.0279907190261,Platinum,1,20,6081.88,304.094,"Protect margin with VIP service, early access, and referral prompts."
+18077,Champions,0.9441188240356034,502.9337719900569,Platinum,8,18,4338.56,241.03111111111113,"Protect margin with VIP service, early access, and referral prompts."
+17416,Loyal,0.9438727131874731,2026.866405778491,Platinum,30,22,17298.45,786.2931818181819,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17069,Loyal,0.9438229656067719,667.828640412538,Platinum,28,14,5794.28,413.8771428571428,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14825,Champions,0.9436625159397725,683.4725564712727,Platinum,4,24,4925.08,205.21166666666667,"Protect margin with VIP service, early access, and referral prompts."
+16156,Champions,0.9433254700827094,716.3081159298523,Platinum,9,20,6218.18,310.909,"Protect margin with VIP service, early access, and referral prompts."
+17218,Champions,0.9432572656904744,521.1271281762262,Platinum,4,18,4192.68,232.92666666666668,"Protect margin with VIP service, early access, and referral prompts."
+15271,Champions,0.9431917393633976,814.215743743655,Platinum,7,24,4709.54,196.23083333333332,"Protect margin with VIP service, early access, and referral prompts."
+16918,Loyal,0.9427193849605574,369.9196330054163,Platinum,50,16,3213.29,200.830625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12678,Loyal,0.9424930630334609,4148.187861389625,Platinum,42,21,34281.18,1632.4371428571428,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18241,Champions,0.9420045619978183,409.77061261774713,Platinum,10,21,2986.9900000000002,142.23761904761906,"Protect margin with VIP service, early access, and referral prompts."
+12949,Loyal,0.9419781468865926,1788.4824570567464,Platinum,31,22,15526.7,705.7590909090909,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15150,Champions,0.9419192883955565,1402.6584157265308,Platinum,17,13,9001.08,692.3907692307693,"Protect margin with VIP service, early access, and referral prompts."
+13735,Champions,0.9419192883955565,1145.8588263556665,Platinum,25,13,9813.22,754.8630769230768,"Protect margin with VIP service, early access, and referral prompts."
+13174,Champions,0.9419192883955565,1095.1068901505714,Platinum,16,12,9494.84,791.2366666666667,"Protect margin with VIP service, early access, and referral prompts."
+16170,Loyal,0.9418629014628426,883.5645892463489,Platinum,51,20,6869.0,343.45,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15059,Loyal,0.9418262636953042,406.91167454659086,Platinum,41,19,3523.57,185.45105263157896,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14713,Champions,0.9416439851267799,623.96490591244,Platinum,9,21,5418.87,258.0414285714286,"Protect margin with VIP service, early access, and referral prompts."
+12472,Loyal,0.9409778114456673,2085.7733610194978,Platinum,32,19,17880.59,941.0836842105264,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16717,Champions,0.9408598284896734,808.1635032282063,Platinum,24,14,6986.2300000000005,499.0164285714286,"Protect margin with VIP service, early access, and referral prompts."
+17526,Champions,0.940829920888249,488.5847057140655,Platinum,5,12,4166.04,347.17,"Protect margin with VIP service, early access, and referral prompts."
+14560,Champions,0.9407308087605339,701.4215105714839,Platinum,7,44,6114.03,138.95522727272726,"Protect margin with VIP service, early access, and referral prompts."
+16843,Loyal,0.9406471310267135,2269.702538579608,Platinum,43,35,19571.43,559.1837142857142,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15444,Potential,0.9405631385084599,3001.416922847269,Platinum,9,2,1418.26,709.13,Use welcome-back merchandising and low-friction second-purchase offers.
+13021,Champions,0.9405530023727007,562.8622353448111,Platinum,4,17,4887.24,287.48470588235296,"Protect margin with VIP service, early access, and referral prompts."
+13117,Champions,0.940542689212273,359.2222392375071,Platinum,22,18,2643.81,146.87833333333333,"Protect margin with VIP service, early access, and referral prompts."
+13521,Potential,0.9405401401079733,9257.595518061766,Platinum,1,3,1093.65,364.55,Use welcome-back merchandising and low-friction second-purchase offers.
+13695,Loyal,0.9400543640711324,405.56628812223664,Platinum,31,16,2770.73,173.170625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17738,Champions,0.9397783154975956,560.7697420958493,Platinum,19,13,4183.56,321.81230769230774,"Protect margin with VIP service, early access, and referral prompts."
+16841,Loyal,0.939646989256922,486.06226628469534,Platinum,37,12,4006.06,333.8383333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13448,Champions,0.9396156140609838,1064.6565620649799,Platinum,17,13,9240.87,710.8361538461539,"Protect margin with VIP service, early access, and referral prompts."
+15804,Champions,0.939594337997122,1787.4724646567552,Platinum,1,13,4206.39,323.5684615384616,"Protect margin with VIP service, early access, and referral prompts."
+13536,Loyal,0.9393709627728893,3887.0681966641514,Platinum,1,7,3448.29,492.61285714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13110,Loyal,0.9393584965220187,338.7956795986555,Platinum,31,12,2957.4700000000003,246.45583333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17975,Champions,0.9393282410549777,1210.2119487814691,Platinum,15,24,7028.83,292.86791666666664,"Protect margin with VIP service, early access, and referral prompts."
+12931,Champions,0.9391525936858626,10562.303043692988,Platinum,22,57,92347.34,1620.1287719298246,"Protect margin with VIP service, early access, and referral prompts."
+16790,Loyal,0.9388309694808039,3436.7587651158638,Platinum,4,6,1545.6200000000001,257.60333333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17590,Loyal,0.9388288902219065,3124.652559736609,Platinum,2,3,1479.22,493.0733333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17412,Champions,0.9388000056157068,506.4384017268315,Platinum,3,16,4417.52,276.095,"Protect margin with VIP service, early access, and referral prompts."
+13527,Loyal,0.9386526942063855,575.111141419476,Platinum,34,12,4683.74,390.31166666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17612,Loyal,0.938242518289112,630.0855226826388,Platinum,53,18,5394.86,299.71444444444444,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14227,Champions,0.9381700875087059,802.6029695844497,Platinum,26,15,6368.71,424.5806666666667,"Protect margin with VIP service, early access, and referral prompts."
+15696,Loyal,0.9380562505318605,482.18189561055925,Platinum,33,13,3906.57,300.5053846153846,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18044,Champions,0.93769410463185,528.2983655579668,Platinum,4,18,3505.61,194.75611111111112,"Protect margin with VIP service, early access, and referral prompts."
+14530,Champions,0.9375771991373036,760.0998314738623,Platinum,26,16,6197.4,387.3375,"Protect margin with VIP service, early access, and referral prompts."
+13949,Loyal,0.9374171772108942,2155.6529645566247,Platinum,3,6,2427.32,404.55333333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18065,Champions,0.9369004653777113,677.6443204765696,Platinum,6,29,5866.63,202.29758620689657,"Protect margin with VIP service, early access, and referral prompts."
+16011,Champions,0.9369004653777113,670.9695723371468,Platinum,8,29,5880.46,202.77448275862068,"Protect margin with VIP service, early access, and referral prompts."
+16458,Champions,0.9366349885321539,857.2720060180826,Platinum,3,30,5715.34,190.51133333333334,"Protect margin with VIP service, early access, and referral prompts."
+16905,Champions,0.9365592611119518,582.0715807810781,Platinum,5,17,5034.15,296.1264705882353,"Protect margin with VIP service, early access, and referral prompts."
+16143,Champions,0.9361052462293833,566.7600484529559,Platinum,3,12,4910.83,409.23583333333335,"Protect margin with VIP service, early access, and referral prompts."
+16686,Loyal,0.9361003571878725,582.8377927618028,Platinum,47,16,5070.92,316.9325,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16019,Loyal,0.9358650289654298,2029.1186751090024,Platinum,47,27,17465.85,646.8833333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13557,Loyal,0.9357882125606004,349.3567508723811,Platinum,28,13,3032.26,233.25076923076924,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17888,Loyal,0.9351466285184147,213.39004116686024,Gold,21,25,1820.44,72.8176,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14732,Champions,0.9346590787021536,634.8729968538662,Platinum,8,19,5517.07,290.3721052631579,"Protect margin with VIP service, early access, and referral prompts."
+17001,Champions,0.934525071759025,893.6631499013761,Platinum,1,19,6640.8,349.5157894736842,"Protect margin with VIP service, early access, and referral prompts."
+14180,Champions,0.9341751561767805,969.5178321356037,Platinum,11,33,6319.25,191.49242424242425,"Protect margin with VIP service, early access, and referral prompts."
+13097,Loyal,0.934120594525692,1525.261725199425,Platinum,33,28,13389.22,478.18642857142856,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12867,Champions,0.9339159115343358,919.9602626869972,Platinum,26,13,7913.29,608.7146153846154,"Protect margin with VIP service, early access, and referral prompts."
+17211,Loyal,0.933864395983518,468.47384603388883,Platinum,27,13,4046.65,311.28076923076924,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13305,Champions,0.9336853808178008,493.7630755225922,Platinum,4,16,3754.71,234.669375,"Protect margin with VIP service, early access, and referral prompts."
+17596,Champions,0.933603636773693,571.0718047827191,Platinum,23,13,4920.67,378.51307692307694,"Protect margin with VIP service, early access, and referral prompts."
+17799,Champions,0.933361106833016,733.7942317950293,Platinum,22,20,6341.89,317.09450000000004,"Protect margin with VIP service, early access, and referral prompts."
+16710,Champions,0.933361106833016,725.6318779325429,Platinum,19,22,6349.09,288.595,"Protect margin with VIP service, early access, and referral prompts."
+17685,Champions,0.9332643344571657,749.5335938669991,Platinum,17,12,5943.17,495.26416666666665,"Protect margin with VIP service, early access, and referral prompts."
+13704,Champions,0.9328344092912548,2201.9704636794277,Platinum,5,9,2308.06,256.4511111111111,"Protect margin with VIP service, early access, and referral prompts."
+16904,Champions,0.9328013567823372,1048.3536568267803,Platinum,4,21,5132.37,244.39857142857142,"Protect margin with VIP service, early access, and referral prompts."
+13266,Champions,0.9327455932051097,712.33587437391,Platinum,11,19,6135.04,322.89684210526315,"Protect margin with VIP service, early access, and referral prompts."
+17700,Champions,0.9326849016449692,758.7654189712057,Platinum,17,14,6679.97,477.1407142857143,"Protect margin with VIP service, early access, and referral prompts."
+13680,Champions,0.9326441320448652,1305.9686352858982,Platinum,1,12,11435.67,952.9725,"Protect margin with VIP service, early access, and referral prompts."
+14209,Champions,0.9324992080374551,609.9851948275787,Platinum,11,15,4993.27,332.8846666666667,"Protect margin with VIP service, early access, and referral prompts."
+13148,Loyal,0.932269257724186,988.2600502793806,Platinum,29,26,8621.81,331.6080769230769,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12935,Champions,0.9322666300258396,586.6174883774817,Platinum,2,15,4243.86,282.924,"Protect margin with VIP service, early access, and referral prompts."
+13995,Champions,0.9322582385016783,453.450536328856,Platinum,15,14,3902.01,278.71500000000003,"Protect margin with VIP service, early access, and referral prompts."
+15916,Champions,0.9320439727141747,394.3547088847949,Platinum,16,13,3427.17,263.6284615384615,"Protect margin with VIP service, early access, and referral prompts."
+15796,Champions,0.9315404208477567,702.1594451121035,Platinum,1,17,5175.83,304.4605882352941,"Protect margin with VIP service, early access, and referral prompts."
+13183,Champions,0.931509201700892,927.4905303995919,Platinum,8,15,7036.18,469.07866666666666,"Protect margin with VIP service, early access, and referral prompts."
+17491,Champions,0.9314429011422437,848.3794709748487,Platinum,1,17,5981.07,351.8276470588235,"Protect margin with VIP service, early access, and referral prompts."
+15521,Loyal,0.9314053701543371,846.2057254289649,Platinum,40,16,7106.69,444.168125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16258,Loyal,0.9310687034511506,1566.0995228647091,Platinum,45,15,11942.52,796.168,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18257,Loyal,0.931011500978822,584.9033840068217,Platinum,39,12,4600.15,383.3458333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17324,Loyal,0.9309663278829873,267.4989063866312,Gold,18,12,2301.87,191.8225,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16241,Champions,0.93092598144423,884.6927913789483,Platinum,10,16,4329.31,270.581875,"Protect margin with VIP service, early access, and referral prompts."
+12626,Champions,0.9308546032683609,1696.1571423429682,Platinum,23,9,6620.48,735.6088888888888,"Protect margin with VIP service, early access, and referral prompts."
+13381,Loyal,0.9307023827987181,933.4683848802798,Platinum,32,12,8224.37,685.3641666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17929,Champions,0.9305931274622001,353.127629320947,Platinum,11,12,3082.1,256.84166666666664,"Protect margin with VIP service, early access, and referral prompts."
+15156,Potential,0.9305424983440406,2368.3428707633248,Platinum,1,3,961.49,320.49666666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+15382,Champions,0.9304543415217962,1564.7070884089794,Platinum,15,12,13733.550000000001,1144.4625,"Protect margin with VIP service, early access, and referral prompts."
+17183,Loyal,0.9302656945402941,2669.046567421433,Platinum,8,6,3347.31,557.885,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18219,Champions,0.9293104874499328,407.0939806512899,Platinum,3,17,3562.89,209.58176470588234,"Protect margin with VIP service, early access, and referral prompts."
+17758,Champions,0.9291094567498122,737.9348807601975,Platinum,19,12,5012.53,417.7108333333333,"Protect margin with VIP service, early access, and referral prompts."
+14562,Champions,0.9290895435165717,839.8497995113994,Platinum,4,26,6729.400000000001,258.82307692307694,"Protect margin with VIP service, early access, and referral prompts."
+17131,Loyal,0.9288151541963741,2709.27192240223,Platinum,5,5,2463.17,492.634,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15179,Champions,0.9286058756411123,849.5708057869533,Platinum,18,13,7491.92,576.3015384615385,"Protect margin with VIP service, early access, and referral prompts."
+16145,Champions,0.9283820962011824,973.6718814202461,Platinum,9,19,6805.4400000000005,358.18105263157895,"Protect margin with VIP service, early access, and referral prompts."
+17340,Loyal,0.9282534593444828,2823.169910089202,Platinum,30,18,22404.82,1244.7122222222222,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17965,Loyal,0.9279551654965624,834.120595149182,Platinum,38,29,7240.9800000000005,249.6889655172414,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14049,Champions,0.9279294739506692,1791.9607016475552,Platinum,17,13,13239.03,1018.3869230769232,"Protect margin with VIP service, early access, and referral prompts."
+15606,Loyal,0.9278905623103316,675.1789223007341,Platinum,61,17,5230.99,307.70529411764704,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14243,Champions,0.9275574818775185,1303.2465174654078,Platinum,9,17,7431.05,437.1205882352941,"Protect margin with VIP service, early access, and referral prompts."
+15628,Champions,0.9271701478963049,649.6619925803762,Platinum,5,17,5652.26,332.4858823529412,"Protect margin with VIP service, early access, and referral prompts."
+17160,Loyal,0.9271662645855848,1157.4768841821892,Platinum,31,17,10209.16,600.5388235294117,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16775,Champions,0.9271416882332514,577.0934705450247,Platinum,10,16,3056.89,191.055625,"Protect margin with VIP service, early access, and referral prompts."
+16719,Champions,0.926428350067558,455.6918826672745,Platinum,15,14,3973.3,283.8071428571429,"Protect margin with VIP service, early access, and referral prompts."
+14852,Loyal,0.9264268073716554,795.8728427895968,Platinum,58,18,6147.18,341.51,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14032,Champions,0.9258860958415219,556.7104405880898,Platinum,2,16,4850.2699999999995,303.14187499999997,"Protect margin with VIP service, early access, and referral prompts."
+17293,Champions,0.9256891681623293,427.2265551953774,Platinum,8,17,3774.23,222.0135294117647,"Protect margin with VIP service, early access, and referral prompts."
+16242,Champions,0.9254347542819852,981.9183871710952,Platinum,8,14,7474.4,533.8857142857142,"Protect margin with VIP service, early access, and referral prompts."
+15965,Champions,0.9253420764128127,340.47829868613485,Platinum,17,13,3013.09,231.77615384615385,"Protect margin with VIP service, early access, and referral prompts."
+13507,Loyal,0.9252112299733602,1413.9534285004659,Platinum,3,4,2479.16,619.79,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17231,Champions,0.9249918033569601,818.5085666105134,Platinum,12,25,7197.04,287.8816,"Protect margin with VIP service, early access, and referral prompts."
+16764,Champions,0.9249246840851979,1629.5006151978612,Platinum,4,13,2799.25,215.32692307692307,"Protect margin with VIP service, early access, and referral prompts."
+15514,Champions,0.9249142617215281,747.317510410113,Platinum,12,18,6598.55,366.5861111111111,"Protect margin with VIP service, early access, and referral prompts."
+13742,Champions,0.9248948092759532,814.4617909891485,Platinum,17,12,3131.02,260.91833333333335,"Protect margin with VIP service, early access, and referral prompts."
+17372,Loyal,0.924684975920556,494.9833650640911,Platinum,41,28,4377.56,156.3414285714286,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13755,Loyal,0.924323710272435,2853.981501710468,Platinum,4,9,2161.35,240.14999999999998,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16759,Potential,0.9239644708642006,2118.5939016111397,Platinum,8,3,789.79,263.2633333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+14404,Loyal,0.9237562765968382,335.2244719249227,Platinum,34,13,2899.11,223.00846153846155,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16638,Champions,0.9235051113848772,422.62472605373586,Platinum,23,15,2430.53,162.03533333333334,"Protect margin with VIP service, early access, and referral prompts."
+13911,Loyal,0.9230970002285307,542.9592451385868,Platinum,57,20,4234.99,211.74949999999998,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15660,Champions,0.9229826075571903,347.7242203436117,Platinum,25,15,2812.99,187.53266666666664,"Protect margin with VIP service, early access, and referral prompts."
+17419,Champions,0.9229648048175229,790.5967870733768,Platinum,11,18,6500.52,361.14000000000004,"Protect margin with VIP service, early access, and referral prompts."
+15701,Loyal,0.9226815404309828,1153.7060357515427,Platinum,2,4,1542.14,385.535,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12913,Champions,0.9224516728565295,752.7872212340546,Platinum,5,13,6700.860000000001,515.4507692307693,"Protect margin with VIP service, early access, and referral prompts."
+14907,Champions,0.9223067355450287,850.1785186479343,Platinum,3,16,6165.79,385.361875,"Protect margin with VIP service, early access, and referral prompts."
+17365,Champions,0.9222741622276962,1008.4369106285969,Platinum,13,15,8224.98,548.332,"Protect margin with VIP service, early access, and referral prompts."
+14191,Champions,0.9222591412571355,548.534688206031,Platinum,2,15,4817.66,321.1773333333333,"Protect margin with VIP service, early access, and referral prompts."
+14112,Champions,0.9219676799178519,740.2711108585182,Platinum,23,13,5834.59,448.8146153846154,"Protect margin with VIP service, early access, and referral prompts."
+12473,Loyal,0.9217312556311066,1701.695923530888,Platinum,29,5,3938.5499999999997,787.7099999999999,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17954,Champions,0.921301778384957,450.484387170862,Platinum,5,19,3966.05,208.73947368421054,"Protect margin with VIP service, early access, and referral prompts."
+17086,Loyal,0.9211339816791008,2655.5601841322214,Platinum,7,6,2050.08,341.68,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17434,Champions,0.9207330413939937,2314.222420576119,Platinum,2,7,2373.82,339.1171428571429,"Protect margin with VIP service, early access, and referral prompts."
+17228,Champions,0.9204534085713499,412.547217721679,Platinum,16,13,3177.24,244.4030769230769,"Protect margin with VIP service, early access, and referral prompts."
+12518,Loyal,0.9201191551464379,1548.4777273874918,Platinum,1,5,2056.89,411.378,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17602,Champions,0.9200612024807979,996.760268962306,Platinum,2,14,7451.13,532.2235714285714,"Protect margin with VIP service, early access, and referral prompts."
+15249,Loyal,0.9198861921326318,1231.3481397545538,Platinum,32,18,9266.0,514.7777777777778,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15009,Potential,0.9193158712878811,4175.90776826504,Platinum,12,3,1261.78,420.5933333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+15152,Champions,0.9192548663555291,621.24410967923,Platinum,10,14,5263.83,375.98785714285714,"Protect margin with VIP service, early access, and referral prompts."
+14800,Loyal,0.9186464136075455,1477.624383359465,Platinum,48,17,7774.32,457.3129411764706,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14440,Champions,0.9182267830979101,743.3975233848279,Platinum,8,13,6638.7300000000005,510.6715384615385,"Protect margin with VIP service, early access, and referral prompts."
+12951,Champions,0.9180982348669319,379.894076312003,Platinum,9,15,3213.7200000000003,214.24800000000002,"Protect margin with VIP service, early access, and referral prompts."
+13394,Champions,0.9177132571405641,740.0730294082417,Platinum,2,19,6621.7,348.5105263157895,"Protect margin with VIP service, early access, and referral prompts."
+13590,Champions,0.9173495697519447,710.3406895855184,Platinum,11,18,6349.59,352.755,"Protect margin with VIP service, early access, and referral prompts."
+16085,Champions,0.9171660303147707,281.1723105118049,Gold,23,12,2343.53,195.29416666666668,"Protect margin with VIP service, early access, and referral prompts."
+14189,Champions,0.917067329973667,1233.6679695252008,Platinum,2,16,5814.39,363.399375,"Protect margin with VIP service, early access, and referral prompts."
+14593,Champions,0.9168271967249654,419.58144524158007,Platinum,22,12,3712.0099999999998,309.33416666666665,"Protect margin with VIP service, early access, and referral prompts."
+14841,Loyal,0.9165268829805271,801.7060863650697,Platinum,53,14,7163.0,511.64285714285717,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13644,Loyal,0.9164457156098508,2041.9741983789402,Platinum,16,4,2624.26,656.065,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13870,Champions,0.9161054970812424,702.9225520882151,Platinum,2,15,5712.08,380.80533333333335,"Protect margin with VIP service, early access, and referral prompts."
+13340,Loyal,0.9159412127644219,2781.4553215657384,Platinum,45,12,22100.56,1841.7133333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12536,Loyal,0.9157668341317456,17603.90536784714,Platinum,43,3,12601.830000000002,4200.610000000001,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13094,Champions,0.915523824808719,515.378250837206,Platinum,21,13,2433.1200000000003,187.16307692307694,"Protect margin with VIP service, early access, and referral prompts."
+15998,Loyal,0.9154138362756633,926.2533766216901,Platinum,37,16,8308.34,519.27125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17368,Champions,0.9150888575654205,321.4851245204342,Platinum,23,14,2826.14,201.86714285714285,"Protect margin with VIP service, early access, and referral prompts."
+13700,Champions,0.9150790681600721,320.77053462388375,Platinum,26,13,2613.46,201.03538461538463,"Protect margin with VIP service, early access, and referral prompts."
+16678,Champions,0.9150743362019036,905.0476435901421,Platinum,3,12,3109.99,259.1658333333333,"Protect margin with VIP service, early access, and referral prompts."
+15031,Champions,0.9140797828178557,355.2434151521844,Platinum,4,14,3156.58,225.47,"Protect margin with VIP service, early access, and referral prompts."
+14701,Champions,0.9138790506471202,547.777902240883,Platinum,11,15,4562.09,304.13933333333335,"Protect margin with VIP service, early access, and referral prompts."
+12963,Champions,0.9135643052925548,570.5694912656554,Platinum,8,12,3601.59,300.1325,"Protect margin with VIP service, early access, and referral prompts."
+18226,Loyal,0.9133704926678707,1513.928159712909,Platinum,44,26,11878.88,456.88,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17988,Loyal,0.9132880014589062,54.970205930433565,Silver,12,14,489.54,34.96714285714286,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14467,Loyal,0.9131837530932769,247.33804680276063,Gold,18,12,2220.9900000000002,185.0825,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14390,Champions,0.9128442726079374,1237.1396105995318,Platinum,10,13,6399.83,492.2946153846154,"Protect margin with VIP service, early access, and referral prompts."
+18118,Champions,0.9127676629278543,1451.779248042304,Platinum,11,29,6733.22,232.18,"Protect margin with VIP service, early access, and referral prompts."
+17651,Champions,0.912629945618492,888.9341238502057,Platinum,12,16,5703.52,356.47,"Protect margin with VIP service, early access, and referral prompts."
+14388,Champions,0.912629945618492,798.8359853455098,Platinum,10,16,6701.0,418.8125,"Protect margin with VIP service, early access, and referral prompts."
+14524,Loyal,0.9124784576093431,577.7583832819653,Platinum,32,13,2933.71,225.67000000000002,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15089,Loyal,0.9124656222268899,1553.15621032857,Platinum,10,6,2420.84,403.47333333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15967,Champions,0.9124056685625851,338.43574164633645,Platinum,23,12,3041.6,253.46666666666667,"Protect margin with VIP service, early access, and referral prompts."
+16359,Champions,0.9121369837312256,334.5386394372844,Platinum,7,16,2697.75,168.609375,"Protect margin with VIP service, early access, and referral prompts."
+17188,Champions,0.9119484871073933,515.6859108619896,Platinum,11,13,4592.93,353.3023076923077,"Protect margin with VIP service, early access, and referral prompts."
+15301,Loyal,0.9115417807263277,1386.170647449158,Platinum,51,17,7603.4400000000005,447.2611764705883,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16225,Loyal,0.9111224676466204,350.41810841417833,Platinum,45,15,2867.4100000000003,191.16066666666669,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15602,Champions,0.9108917589057237,358.85913854421096,Platinum,8,16,3230.51,201.906875,"Protect margin with VIP service, early access, and referral prompts."
+12700,Loyal,0.9108786352911223,1883.608471905401,Platinum,8,4,4939.99,1234.9975,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13882,Loyal,0.9105826893957621,1525.2501920905888,Platinum,3,5,1191.13,238.22600000000003,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14250,Potential,0.9105448011810681,1753.202860471833,Platinum,7,3,1904.05,634.6833333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+16379,Loyal,0.9105240355562839,2237.8836694660945,Platinum,4,4,2157.4,539.35,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14676,Loyal,0.9103087538576444,1069.7708096929723,Platinum,31,12,8356.79,696.3991666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12560,Potential,0.9100647850268325,1222.2927389549652,Platinum,5,3,2134.01,711.3366666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+12562,Champions,0.9098717565167371,935.0193568713336,Platinum,8,9,4966.92,551.88,"Protect margin with VIP service, early access, and referral prompts."
+14418,Potential,0.9098213058238467,1468.7927705893726,Platinum,4,3,1937.25,645.75,Use welcome-back merchandising and low-friction second-purchase offers.
+13209,Loyal,0.9098036152987805,1018.6819687396218,Platinum,30,13,8509.51,654.5776923076924,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15571,Champions,0.9091156546473458,451.64308363146364,Platinum,12,14,4051.63,289.40214285714285,"Protect margin with VIP service, early access, and referral prompts."
+16931,Champions,0.9086667624790121,1078.0994678339714,Platinum,5,23,5233.62,227.5486956521739,"Protect margin with VIP service, early access, and referral prompts."
+15356,Loyal,0.9086548296636663,671.469003990239,Platinum,31,13,3464.95,266.5346153846154,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12906,Loyal,0.9086514026357088,3061.257059918964,Platinum,12,5,2919.81,583.962,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13875,Loyal,0.9081259964797306,544.2391560587702,Platinum,54,14,4814.37,343.88357142857143,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12877,Champions,0.9076571155703678,349.3564356581874,Platinum,4,20,2955.17,147.7585,"Protect margin with VIP service, early access, and referral prompts."
+13994,Loyal,0.9072515227373751,1276.1755463339584,Platinum,4,6,2313.14,385.5233333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14698,Loyal,0.9071823540092315,2002.3542372363288,Platinum,2,5,1250.76,250.152,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17090,Champions,0.9070355243533044,506.1065391567363,Platinum,4,13,3149.48,242.2676923076923,"Protect margin with VIP service, early access, and referral prompts."
+13975,Loyal,0.9059636602356008,647.3219068022597,Platinum,31,12,5358.84,446.57,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12828,Loyal,0.9059344320438266,638.9200144158692,Platinum,3,6,1018.71,169.785,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17227,Loyal,0.9056532975753351,237.82573211639675,Gold,19,12,2022.03,168.5025,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12428,Champions,0.9055190115915588,2283.187751926407,Platinum,26,9,7956.46,884.0511111111111,"Protect margin with VIP service, early access, and referral prompts."
+13883,Champions,0.9053591996140282,731.225309300522,Platinum,11,15,6560.02,437.3346666666667,"Protect margin with VIP service, early access, and referral prompts."
+15858,Champions,0.9051482329551135,441.95201597446555,Platinum,16,13,3960.37,304.64384615384614,"Protect margin with VIP service, early access, and referral prompts."
+16434,Loyal,0.9048953221484555,323.138774311516,Platinum,29,12,2741.74,228.47833333333332,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17673,Champions,0.9047342070678647,547.1806634797672,Platinum,2,13,4233.58,325.65999999999997,"Protect margin with VIP service, early access, and referral prompts."
+17754,Champions,0.9047342070678647,511.99219469662455,Platinum,1,13,4577.53,352.11769230769227,"Protect margin with VIP service, early access, and referral prompts."
+16131,Loyal,0.9045937631803185,1098.465857239874,Platinum,52,12,9957.42,829.785,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15622,Loyal,0.9044808512412337,989.5173126221179,Platinum,43,17,7852.61,461.9182352941176,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16742,Loyal,0.9040045585106768,321.0090178821338,Platinum,47,14,2852.6099999999997,203.75785714285712,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12985,Potential,0.903850485100622,3476.526871729683,Platinum,1,2,1239.38,619.69,Use welcome-back merchandising and low-friction second-purchase offers.
+15529,Champions,0.9036350639685617,1055.1785631291066,Platinum,23,12,5111.95,425.99583333333334,"Protect margin with VIP service, early access, and referral prompts."
+14878,Champions,0.9029827512040044,507.8028643222913,Platinum,13,25,4105.24,164.2096,"Protect margin with VIP service, early access, and referral prompts."
+14901,Loyal,0.9015919439918965,372.32404711521866,Platinum,11,12,2289.65,190.80416666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12826,Champions,0.9015012030056975,332.15387295092535,Platinum,3,12,2955.75,246.3125,"Protect margin with VIP service, early access, and referral prompts."
+15681,Champions,0.9014334824225233,430.05569399977946,Platinum,25,14,2989.7,213.54999999999998,"Protect margin with VIP service, early access, and referral prompts."
+15021,Champions,0.9013314172100217,453.4614649105617,Platinum,9,12,2783.83,231.98583333333332,"Protect margin with VIP service, early access, and referral prompts."
+17867,Loyal,0.9005025374743393,178.2863064532914,Gold,30,15,1621.2800000000002,108.08533333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16295,Loyal,0.9001917877548381,1655.9304917838788,Platinum,10,4,1328.55,332.1375,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18245,Champions,0.8998756741235575,799.1460338824053,Platinum,7,20,6324.9800000000005,316.249,"Protect margin with VIP service, early access, and referral prompts."
+16600,Loyal,0.899789065370529,241.8659215164488,Gold,4,13,2153.41,165.64692307692306,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17346,Champions,0.8995468633743149,717.0481128730999,Platinum,4,26,5323.0,204.73076923076923,"Protect margin with VIP service, early access, and referral prompts."
+14125,Loyal,0.8993660261047204,2843.826506444029,Platinum,11,3,2740.43,913.4766666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13784,Champions,0.8990937787189632,522.1535962033613,Platinum,10,14,2910.23,207.87357142857144,"Protect margin with VIP service, early access, and referral prompts."
+14702,Champions,0.8988899231079241,749.5432464758029,Platinum,1,29,6754.22,232.90413793103448,"Protect margin with VIP service, early access, and referral prompts."
+14808,Loyal,0.8986749121192691,1288.999208121267,Platinum,40,8,2741.17,342.64625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17913,Loyal,0.8986677079167544,382.38262131221603,Platinum,59,14,3479.64,248.54571428571427,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14776,Loyal,0.8985552572971784,672.3993754644875,Platinum,51,15,3708.3,247.22,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12449,Loyal,0.8972091341818614,889.5043762890319,Platinum,22,6,4835.89,805.9816666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15861,Champions,0.8967026055481423,522.409839098262,Platinum,12,12,4401.79,366.81583333333333,"Protect margin with VIP service, early access, and referral prompts."
+12526,Potential,0.8966278616985844,1130.3176982400557,Platinum,1,3,1316.66,438.8866666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+15860,Loyal,0.8964955342953052,275.38400813688656,Gold,41,17,2505.21,147.36529411764707,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12843,Loyal,0.8962564527087503,731.0061180236274,Platinum,66,30,6588.41,219.61366666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13571,Champions,0.896190571868948,501.656587464096,Platinum,13,26,4546.54,174.8669230769231,"Protect margin with VIP service, early access, and referral prompts."
+17396,Loyal,0.895866884499548,1610.2018854032592,Platinum,39,14,8807.1,629.0785714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14251,Loyal,0.8949877471582397,3999.252748176595,Platinum,2,5,2879.7000000000003,575.94,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13126,Champions,0.8949744404745099,496.9904939760013,Platinum,5,13,3998.25,307.5576923076923,"Protect margin with VIP service, early access, and referral prompts."
+12952,Loyal,0.8943173497476105,1432.066932468734,Platinum,6,4,1387.79,346.9475,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13924,Loyal,0.8943143277452902,2055.637376968034,Platinum,2,6,1838.8500000000001,306.475,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17861,Champions,0.8938425116167582,565.0702161031398,Platinum,3,18,5127.69,284.87166666666667,"Protect margin with VIP service, early access, and referral prompts."
+12753,Loyal,0.8937770554313423,4748.701758815667,Platinum,23,6,21429.39,3571.565,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13984,Loyal,0.8937324051573743,224.8035722625999,Gold,27,12,2048.6,170.71666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16169,Loyal,0.8935532448657683,1928.985109096914,Platinum,8,4,1822.97,455.7425,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16928,Loyal,0.8929492490169194,489.72075193784843,Platinum,80,29,4113.23,141.8355172413793,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18237,Loyal,0.8928001380168404,591.9065034423738,Platinum,3,5,987.1,197.42000000000002,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12517,Loyal,0.8925024559355996,1058.111453753932,Platinum,28,5,2502.84,500.56800000000004,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17509,Loyal,0.8924429794660004,7796.305373502455,Platinum,58,8,6115.14,764.3925,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14482,Champions,0.8922992575525109,744.6178450494887,Platinum,18,12,4357.91,363.15916666666664,"Protect margin with VIP service, early access, and referral prompts."
+14132,Champions,0.8921403202655669,1564.8466072900749,Platinum,2,11,3586.0299999999997,326.00272727272727,"Protect margin with VIP service, early access, and referral prompts."
+17449,Champions,0.8918404235722842,544.3934440894416,Platinum,2,13,4951.15,380.8576923076923,"Protect margin with VIP service, early access, and referral prompts."
+13860,Loyal,0.8911079187797215,1148.5151958699882,Platinum,1,5,1245.9,249.18,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15708,Loyal,0.8907324397454823,824.0002708230293,Platinum,41,9,4378.72,486.5244444444445,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16817,Champions,0.889712291133731,519.9070844585422,Platinum,3,13,2804.9,215.76153846153846,"Protect margin with VIP service, early access, and referral prompts."
+16438,Potential,0.8895525228564073,779.4595499514287,Platinum,6,5,798.35,159.67000000000002,Use welcome-back merchandising and low-friction second-purchase offers.
+12364,Loyal,0.8892062782171204,938.263471012688,Platinum,8,4,1313.1,328.275,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15136,Loyal,0.8883645236503391,1071.6174680445856,Platinum,3,4,1286.7,321.675,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14534,Champions,0.888307930985195,790.7900747906166,Platinum,3,26,6271.11,241.19653846153844,"Protect margin with VIP service, early access, and referral prompts."
+15974,Loyal,0.8882846037956588,952.196527356299,Platinum,39,7,3442.15,491.7357142857143,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16992,Champions,0.8878419129796655,656.0779029669902,Platinum,11,13,5476.5,421.2692307692308,"Protect margin with VIP service, early access, and referral prompts."
+16712,Champions,0.8876661756333517,850.098859174359,Platinum,9,13,4266.99,328.22999999999996,"Protect margin with VIP service, early access, and referral prompts."
+14541,Loyal,0.8872501948039573,284.3386624291738,Gold,59,14,2499.68,178.54857142857142,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17790,Loyal,0.8871126406595466,408.53640733450163,Platinum,27,20,2783.61,139.1805,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15750,Champions,0.8865018004805694,734.8441536232099,Platinum,3,18,6797.191,377.6217222222222,"Protect margin with VIP service, early access, and referral prompts."
+15443,Champions,0.8864715574699675,642.2213461290788,Platinum,2,14,5175.93,369.7092857142857,"Protect margin with VIP service, early access, and referral prompts."
+16688,Loyal,0.8862009884390033,1648.5866236965269,Platinum,1,4,1260.86,315.215,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14653,Champions,0.8859518692176905,390.5254230929404,Platinum,1,12,3614.54,301.21166666666664,"Protect margin with VIP service, early access, and referral prompts."
+13437,Loyal,0.8849227584361322,1428.5699318443474,Platinum,14,7,3408.06,486.86571428571426,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16409,Loyal,0.8848907116700067,626.2656779197357,Platinum,36,12,5709.04,475.75333333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12684,Loyal,0.8846893548823327,853.6492189394119,Platinum,8,7,2283.63,326.23285714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13842,Loyal,0.884615788936993,678.1053780128351,Platinum,59,18,5629.91,312.7727777777778,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15113,Loyal,0.8843139321209399,5319.63467437012,Platinum,10,3,3609.33,1203.11,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13552,Loyal,0.8838963755074668,843.7352406779503,Platinum,66,22,6978.92,317.2236363636364,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16376,Potential,0.8834803705742672,4616.491555908569,Platinum,9,2,987.01,493.505,Use welcome-back merchandising and low-friction second-purchase offers.
+13808,Loyal,0.8833040594551763,1432.313046693495,Platinum,6,5,1747.66,349.53200000000004,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15518,Loyal,0.882452431798672,465.37673282658614,Platinum,64,15,4218.94,281.26266666666663,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16393,Champions,0.8822323343076189,597.565447358969,Platinum,2,23,5561.66,241.81130434782608,"Protect margin with VIP service, early access, and referral prompts."
+15898,Champions,0.8821302785921671,610.303166133148,Platinum,1,25,5596.31,223.85240000000002,"Protect margin with VIP service, early access, and referral prompts."
+12380,Champions,0.8820095071156612,1158.5414380592679,Platinum,22,11,9676.300000000001,879.6636363636364,"Protect margin with VIP service, early access, and referral prompts."
+16655,Champions,0.8818475301691725,767.6805790281409,Platinum,18,13,6548.37,503.72076923076924,"Protect margin with VIP service, early access, and referral prompts."
+17530,Champions,0.8816556929082814,340.07601067468835,Platinum,1,12,3141.51,261.7925,"Protect margin with VIP service, early access, and referral prompts."
+17451,Loyal,0.8806029327698923,1287.0593392670598,Platinum,1,7,1721.4,245.91428571428574,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17863,Loyal,0.8802615393587587,697.0215522712936,Platinum,59,12,5745.2,478.76666666666665,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16407,Champions,0.8791204907428206,516.7854859800999,Platinum,13,14,2821.65,201.54642857142858,"Protect margin with VIP service, early access, and referral prompts."
+16115,Champions,0.8787831012636479,354.20705458248057,Platinum,10,12,2575.14,214.595,"Protect margin with VIP service, early access, and referral prompts."
+17481,Loyal,0.8785990375750368,1056.2171798191025,Platinum,4,4,1255.59,313.8975,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14936,Loyal,0.8771577986018063,1677.6737843525266,Platinum,34,12,12410.81,1034.2341666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14810,Loyal,0.8771199559002155,466.84004276600655,Platinum,41,13,2537.02,195.1553846153846,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15500,Loyal,0.8770085902628916,1102.6531559976418,Platinum,8,4,1131.56,282.89,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15511,Loyal,0.8768565469845928,844.162176933319,Platinum,12,5,909.23,181.846,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15874,Loyal,0.8765008440359158,1269.8989298528484,Platinum,64,21,11284.76,537.3695238095238,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14963,Champions,0.8763646411844553,474.50846801556025,Platinum,10,12,3164.48,263.70666666666665,"Protect margin with VIP service, early access, and referral prompts."
+12488,Potential,0.876300731919148,1347.6513653456693,Platinum,10,3,1298.66,432.8866666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+17566,Potential,0.8760143624251904,2842.102452820341,Platinum,8,2,901.21,450.605,Use welcome-back merchandising and low-friction second-purchase offers.
+15755,Champions,0.875997240954494,641.9783867171573,Platinum,10,17,5993.12,352.53647058823526,"Protect margin with VIP service, early access, and referral prompts."
+16361,Potential,0.8757313748256971,995.3661480226599,Platinum,10,4,896.66,224.165,Use welcome-back merchandising and low-friction second-purchase offers.
+13890,Champions,0.8754924345886659,314.68064650062104,Gold,1,14,2927.38,209.09857142857143,"Protect margin with VIP service, early access, and referral prompts."
+13159,Loyal,0.8744934597703615,975.5615336359765,Platinum,9,4,1437.85,359.4625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13447,Potential,0.8743152867023407,2468.060907067703,Platinum,23,3,1129.14,376.38000000000005,Use welcome-back merchandising and low-friction second-purchase offers.
+17769,Champions,0.8740004086847953,809.7514986418429,Platinum,13,17,7103.08,417.82823529411763,"Protect margin with VIP service, early access, and referral prompts."
+16029,Loyal,0.8728246963210562,13114.814201822635,Platinum,39,107,122209.14,1142.1414953271028,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17351,Loyal,0.8726109180741877,214.19150686946202,Gold,36,12,1988.23,165.68583333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12557,Champions,0.871387319640052,2030.1668550134393,Platinum,16,8,18716.14,2339.5175,"Protect margin with VIP service, early access, and referral prompts."
+17870,Champions,0.8708100121304,637.6825458855478,Platinum,2,13,3108.15,239.08846153846156,"Protect margin with VIP service, early access, and referral prompts."
+15862,Champions,0.87075336406403,317.4047761562314,Platinum,8,13,2928.29,225.25307692307692,"Protect margin with VIP service, early access, and referral prompts."
+17725,Champions,0.8705486724077811,1009.1752342598264,Platinum,16,11,3439.08,312.64363636363635,"Protect margin with VIP service, early access, and referral prompts."
+14456,Champions,0.8703503710296812,1689.313294800821,Platinum,5,9,3062.4,340.26666666666665,"Protect margin with VIP service, early access, and referral prompts."
+16910,Loyal,0.8700537137805181,1299.3955823387564,Platinum,4,8,1510.06,188.7575,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16395,Loyal,0.8685227568590074,376.76197708695844,Platinum,61,14,3537.85,252.70357142857142,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17552,Loyal,0.8683529597192345,383.95041923295247,Platinum,60,12,3085.29,257.1075,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13429,Loyal,0.8670807929717882,1047.5723308367956,Platinum,11,4,1006.8,251.7,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12726,Loyal,0.8667363618146552,501.86535550112234,Platinum,28,11,4014.6,364.96363636363634,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14511,Loyal,0.8657506940584464,764.5282858578264,Platinum,11,5,1314.81,262.962,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15060,Potential,0.8655277921284209,2623.3281851620304,Platinum,8,4,303.09,75.7725,Use welcome-back merchandising and low-friction second-purchase offers.
+13136,Loyal,0.8652033628830428,668.3848661217896,Platinum,56,13,6274.56,482.65846153846155,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18122,Loyal,0.8646415894507729,941.1360300422559,Platinum,8,6,1826.21,304.36833333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17567,Champions,0.8634087297477153,941.628677129319,Platinum,7,9,5356.03,595.1144444444444,"Protect margin with VIP service, early access, and referral prompts."
+14971,Potential,0.862247627922755,2015.0787221366033,Platinum,35,3,1116.57,372.19,Use welcome-back merchandising and low-friction second-purchase offers.
+15081,Loyal,0.8615974465406913,284.3830968941363,Gold,22,12,1965.72,163.81,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17940,Loyal,0.8613197613116874,3196.801850837271,Platinum,49,16,30393.19,1899.574375,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15427,Potential,0.8606484648476863,2444.2892505080376,Platinum,33,3,1483.14,494.38000000000005,Use welcome-back merchandising and low-friction second-purchase offers.
+17100,Potential,0.8603747669380747,4180.302880122023,Platinum,18,2,971.74,485.87,Use welcome-back merchandising and low-friction second-purchase offers.
+15550,Loyal,0.8601280202611777,233.37049541031945,Gold,4,12,2218.8,184.9,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13324,Loyal,0.8599862980369962,1442.7830018334603,Platinum,36,18,10513.47,584.0816666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14140,Potential,0.8597728189415609,2261.0547403630494,Platinum,4,2,935.05,467.525,Use welcome-back merchandising and low-friction second-purchase offers.
+16173,Loyal,0.8590191350971806,1118.9057323693162,Platinum,16,6,1418.32,236.38666666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17461,Potential,0.8587901927336065,1951.4976581639928,Platinum,23,3,757.46,252.48666666666668,Use welcome-back merchandising and low-friction second-purchase offers.
+17835,Potential,0.8584162674501696,1177.8068348558902,Platinum,3,3,350.64,116.88,Use welcome-back merchandising and low-friction second-purchase offers.
+12572,Potential,0.8577829536651711,1514.9403719636778,Platinum,9,2,1020.42,510.21,Use welcome-back merchandising and low-friction second-purchase offers.
+17813,Loyal,0.8577559323758664,1925.4711872861926,Platinum,14,5,1770.8799999999999,354.176,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16652,Loyal,0.8573993891976477,2139.4825117792184,Platinum,59,16,17550.39,1096.899375,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13317,Loyal,0.8572601201359492,688.3411877421498,Platinum,66,19,6486.091,341.3732105263158,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18236,Loyal,0.857089792507387,229.66808342957276,Gold,30,12,1795.3500000000001,149.6125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12589,Loyal,0.8559522760980803,524.251417145571,Platinum,29,8,4695.66,586.9575,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16609,Champions,0.855532015164212,1671.8766061745425,Platinum,15,7,5493.46,784.78,"Protect margin with VIP service, early access, and referral prompts."
+16669,Loyal,0.8548735235787042,1356.1614938799842,Platinum,24,3,1374.8700000000001,458.29,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16206,Loyal,0.8510869390970096,291.42112675670137,Gold,55,13,2602.32,200.17846153846156,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14178,Loyal,0.8508125189007693,681.9762541954075,Platinum,9,7,1620.93,231.5614285714286,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15531,Potential,0.8503844820960076,5121.287474216429,Platinum,8,2,2007.44,1003.72,Use welcome-back merchandising and low-friction second-purchase offers.
+14277,Champions,0.8503520048913291,1815.8680251293933,Platinum,15,9,17225.81,1913.978888888889,"Protect margin with VIP service, early access, and referral prompts."
+16513,Potential,0.8498532050808141,1555.6879143452704,Platinum,5,4,874.59,218.6475,Use welcome-back merchandising and low-friction second-purchase offers.
+13549,Loyal,0.8496472849390537,198.22621527642528,Gold,26,8,1005.8,125.725,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12433,Champions,0.848164144567887,3293.6390154772207,Platinum,1,10,20581.26,2058.1259999999997,"Protect margin with VIP service, early access, and referral prompts."
+17884,Champions,0.848022636656902,319.0873812191789,Platinum,4,20,3072.89,153.6445,"Protect margin with VIP service, early access, and referral prompts."
+15398,Potential,0.847604583549285,1315.9354561189264,Platinum,16,2,1345.53,672.765,Use welcome-back merchandising and low-friction second-purchase offers.
+14952,Loyal,0.8466706828035062,1825.2212529475262,Platinum,60,32,17629.35,550.9171875,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12630,Potential,0.8462053541080766,2199.7338963317848,Platinum,10,2,1270.88,635.44,Use welcome-back merchandising and low-friction second-purchase offers.
+17655,Champions,0.8451273269578798,666.218127877795,Platinum,11,9,3652.48,405.8311111111111,"Protect margin with VIP service, early access, and referral prompts."
+16653,Potential,0.8438960782819425,1297.2156569865385,Platinum,16,2,1212.66,606.33,Use welcome-back merchandising and low-friction second-purchase offers.
+17387,Potential,0.8435344041151843,1750.8276042637692,Platinum,20,2,784.11,392.055,Use welcome-back merchandising and low-friction second-purchase offers.
+14903,Loyal,0.8431673113311986,764.4617226602603,Platinum,21,5,2810.63,562.126,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13804,Loyal,0.8427574978262137,556.8887547443541,Platinum,31,9,3208.52,356.5022222222222,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16474,Loyal,0.842351918005734,978.4934159261778,Platinum,7,7,1871.5,267.35714285714283,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14856,Potential,0.8419310941427485,1743.3025235319749,Platinum,36,3,1311.3799999999999,437.1266666666666,Use welcome-back merchandising and low-friction second-purchase offers.
+12546,Potential,0.8400851381909635,1125.8756400101586,Platinum,47,2,1161.5,580.75,Use welcome-back merchandising and low-friction second-purchase offers.
+14970,Loyal,0.8399753951186465,560.92302624121,Platinum,68,12,4919.35,409.9458333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14502,Champions,0.8399085526621513,596.6847212221141,Platinum,20,11,2470.67,224.60636363636365,"Protect margin with VIP service, early access, and referral prompts."
+13862,Champions,0.83976481155831,496.62287749575125,Platinum,18,9,2556.09,284.01,"Protect margin with VIP service, early access, and referral prompts."
+12408,Loyal,0.8392119424652608,658.3420524388426,Platinum,33,8,4340.7699999999995,542.5962499999999,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16871,Loyal,0.8390402021004076,783.6530220581382,Platinum,22,6,2812.34,468.72333333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17848,Loyal,0.8383328414976786,375.79842209024383,Platinum,81,30,3650.9,121.69666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13685,Loyal,0.8380431323324351,3921.3379030846368,Platinum,3,7,3119.44,445.63428571428574,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14179,Potential,0.8379745091477161,1043.9260826440554,Platinum,41,2,719.78,359.89,Use welcome-back merchandising and low-friction second-purchase offers.
+16745,Loyal,0.8375223071569521,1738.0923272247867,Platinum,87,17,7194.3,423.1941176470588,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17073,Loyal,0.8366900840955087,999.0240801272539,Platinum,18,4,1446.09,361.5225,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16200,Champions,0.8356732441536842,575.9120967092534,Platinum,4,12,5643.45,470.28749999999997,"Protect margin with VIP service, early access, and referral prompts."
+12783,Loyal,0.835427441488953,2231.5035555416107,Platinum,2,6,2225.91,370.98499999999996,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18180,Loyal,0.834544763864409,968.4074947814711,Platinum,5,6,1843.75,307.2916666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12766,Champions,0.8337318621091082,1851.6718748461528,Platinum,4,9,10068.28,1118.697777777778,"Protect margin with VIP service, early access, and referral prompts."
+16744,Loyal,0.8336817111686391,565.8838696635573,Platinum,11,7,1304.76,186.3942857142857,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18130,Loyal,0.8335878473045061,1394.3599414040855,Platinum,15,3,1059.39,353.13000000000005,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15274,Potential,0.8326613150133594,2983.3005924956146,Platinum,4,2,716.57,358.285,Use welcome-back merchandising and low-friction second-purchase offers.
+14451,Loyal,0.8318812605074994,357.9845928463091,Platinum,60,12,3308.77,275.73083333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12759,Loyal,0.8316708472316595,510.60363866533885,Platinum,52,8,5020.74,627.5925,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13467,Potential,0.8314299841710912,2252.572470365133,Platinum,11,2,1083.71,541.855,Use welcome-back merchandising and low-friction second-purchase offers.
+12723,Potential,0.8304597687887783,833.7343355386331,Platinum,4,5,725.07,145.014,Use welcome-back merchandising and low-friction second-purchase offers.
+18283,Champions,0.8296642418434115,310.55479980192933,Gold,4,22,2736.65,124.39318181818182,"Protect margin with VIP service, early access, and referral prompts."
+15906,Champions,0.8295916656722051,423.0873348143376,Platinum,20,10,2555.64,255.564,"Protect margin with VIP service, early access, and referral prompts."
+13991,Potential,0.8285057508495168,446.33458797146494,Platinum,12,6,855.97,142.66166666666666,Use welcome-back merchandising and low-friction second-purchase offers.
+12955,Champions,0.828318353744374,1323.2830767644505,Platinum,1,11,4757.16,432.4690909090909,"Protect margin with VIP service, early access, and referral prompts."
+12676,Champions,0.8277462439357658,438.5137395039758,Platinum,25,11,2843.09,258.4627272727273,"Protect margin with VIP service, early access, and referral prompts."
+13323,Potential,0.825960332296822,697.2137655000548,Platinum,3,5,787.85,157.57,Use welcome-back merchandising and low-friction second-purchase offers.
+15134,Loyal,0.8258386838227608,280.48468778711384,Gold,15,10,1596.29,159.629,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13610,Loyal,0.8249472910652255,229.79910106894772,Gold,12,14,2175.88,155.42000000000002,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16107,Champions,0.8245920140648744,1299.405613665299,Platinum,18,7,3204.1600000000003,457.7371428571429,"Protect margin with VIP service, early access, and referral prompts."
+15304,Loyal,0.8240275436996828,161.60215048060167,Gold,61,9,919.5500000000001,102.17222222222223,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14360,Loyal,0.8238506511422559,1661.0624254236157,Platinum,32,4,2128.23,532.0575,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12609,Loyal,0.8233679514346384,354.1139511341579,Platinum,78,9,3435.86,381.76222222222225,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15827,Loyal,0.823243280477347,401.0126062545819,Platinum,73,28,3794.07,135.5025,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12477,Champions,0.8222203340459371,2408.4236505899057,Platinum,23,9,20276.37,2252.93,"Protect margin with VIP service, early access, and referral prompts."
+15687,Champions,0.8221855157003474,671.1500364661936,Platinum,9,9,2993.1,332.56666666666666,"Protect margin with VIP service, early access, and referral prompts."
+12502,Loyal,0.821915757070026,888.5924797588136,Platinum,96,5,3723.87,744.774,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13596,Potential,0.821857217953561,3966.0047667855015,Platinum,6,2,697.04,348.52,Use welcome-back merchandising and low-friction second-purchase offers.
+14664,Potential,0.8215775465103342,1429.2984576640283,Platinum,20,2,637.89,318.945,Use welcome-back merchandising and low-friction second-purchase offers.
+14533,Champions,0.8213492081841459,419.3764696065385,Platinum,25,11,3466.37,315.12454545454545,"Protect margin with VIP service, early access, and referral prompts."
+15910,Champions,0.8212177736408682,288.0970411068419,Gold,1,15,2681.8,178.7866666666667,"Protect margin with VIP service, early access, and referral prompts."
+17554,Loyal,0.8211160601527081,974.911653027459,Platinum,1,5,1952.45,390.49,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13577,Champions,0.8194793647955743,354.95912581993264,Platinum,25,11,3489.28,317.20727272727277,"Protect margin with VIP service, early access, and referral prompts."
+12422,Loyal,0.8161803096970754,532.2829542722775,Platinum,96,17,5231.8,307.7529411764706,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14234,Potential,0.8160460559061256,999.1753808099435,Platinum,22,4,775.46,193.865,Use welcome-back merchandising and low-friction second-purchase offers.
+13435,Champions,0.8159527204488165,657.2836967641484,Platinum,5,9,4475.2300000000005,497.24777777777786,"Protect margin with VIP service, early access, and referral prompts."
+15088,Potential,0.8156542658232638,1271.0364772212451,Platinum,21,2,1160.07,580.035,Use welcome-back merchandising and low-friction second-purchase offers.
+16531,Loyal,0.8152161401645238,381.5095340004292,Platinum,22,11,2298.33,208.9390909090909,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15811,Champions,0.8145660502789223,735.0971543654736,Platinum,22,7,3890.52,555.7885714285715,"Protect margin with VIP service, early access, and referral prompts."
+17873,Loyal,0.8140366415179304,660.269511004214,Platinum,80,18,6515.88,361.99333333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13268,Champions,0.8132726437037114,881.2649780858037,Platinum,18,11,3214.69,292.24454545454546,"Protect margin with VIP service, early access, and referral prompts."
+13362,Loyal,0.8126136815891739,928.2271937187633,Platinum,9,7,5394.07,770.5814285714285,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17502,Potential,0.8123294342629191,1737.236523570758,Platinum,9,4,689.1,172.275,Use welcome-back merchandising and low-friction second-purchase offers.
+13118,Champions,0.8121213737364661,402.1515896590246,Platinum,20,9,2415.41,268.37888888888887,"Protect margin with VIP service, early access, and referral prompts."
+15497,Champions,0.8120083613114949,877.5153620556268,Platinum,18,9,8657.39,961.9322222222222,"Protect margin with VIP service, early access, and referral prompts."
+12628,Potential,0.8117426377835819,883.9427744925358,Platinum,4,3,786.46,262.15333333333336,Use welcome-back merchandising and low-friction second-purchase offers.
+16350,Loyal,0.8109435703425472,384.34575779986613,Platinum,21,9,2253.89,250.4322222222222,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15787,Loyal,0.8098431288373478,1132.7780335488899,Platinum,26,3,948.05,316.01666666666665,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14005,Loyal,0.8087548916323167,968.726609197189,Platinum,10,5,2874.72,574.944,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12836,Loyal,0.8085478484162173,649.3644977422937,Platinum,59,15,6585.62,439.04133333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15296,Loyal,0.8081605712899785,1095.021930334733,Platinum,51,12,10342.83,861.9025,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12637,Loyal,0.8075139407767351,1116.2845185745211,Platinum,67,12,8340.31,695.0258333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12539,Loyal,0.8072611139459014,1137.9760362936197,Platinum,22,7,11214.75,1602.107142857143,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16877,Potential,0.8049157553477905,297.3343321105597,Gold,12,6,853.72,142.28666666666666,Use welcome-back merchandising and low-friction second-purchase offers.
+14397,Champions,0.8045890794204924,884.1697069468752,Platinum,3,19,2612.96,137.52421052631578,"Protect margin with VIP service, early access, and referral prompts."
+14629,Potential,0.8045412474428413,1477.461258593922,Platinum,4,2,959.01,479.505,Use welcome-back merchandising and low-friction second-purchase offers.
+13523,Loyal,0.8044831103446727,918.8253754669151,Platinum,33,6,5101.52,850.2533333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14102,Loyal,0.8044289212218502,2188.4971459193166,Platinum,5,5,1360.28,272.056,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14177,Loyal,0.8033883408898748,247.2274827440936,Gold,86,13,2229.34,171.48769230769233,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12704,Champions,0.8021783161598717,994.114106258651,Platinum,7,8,2340.84,292.605,"Protect margin with VIP service, early access, and referral prompts."
+17203,Loyal,0.8020416952277459,1037.3400574298546,Platinum,36,10,5575.88,557.588,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17382,Loyal,0.8016820380790818,114.2118425238938,Gold,65,8,902.28,112.785,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13032,Loyal,0.8011478320720402,445.71598393469674,Platinum,52,9,2843.55,315.95000000000005,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12656,Champions,0.801099918557669,820.6005119037744,Platinum,17,8,6407.83,800.97875,"Protect margin with VIP service, early access, and referral prompts."
+12936,Loyal,0.8008679691656895,983.1270373792812,Platinum,17,4,1063.9,265.975,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12668,Champions,0.8004438121349298,1217.8347059199334,Platinum,12,10,11444.68,1144.468,"Protect margin with VIP service, early access, and referral prompts."
+12657,Loyal,0.7991434549146599,1495.9783392683592,Platinum,11,4,1643.18,410.795,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13107,Loyal,0.7989517171856599,560.4234966315767,Platinum,44,9,5253.07,583.6744444444444,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17589,Loyal,0.7987117642657253,1573.149035804311,Platinum,60,18,14049.87,780.5483333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12423,Champions,0.7983164719941436,404.323480620912,Platinum,1,10,2622.39,262.239,"Protect margin with VIP service, early access, and referral prompts."
+14387,Potential,0.7972428292885921,1165.5134288465033,Platinum,33,3,1770.56,590.1866666666666,Use welcome-back merchandising and low-friction second-purchase offers.
+15707,Loyal,0.7970984863231688,788.7771488694369,Platinum,35,4,945.58,236.395,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15453,Loyal,0.7952654563612438,528.569378448635,Platinum,2,7,1388.37,198.3385714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18210,Champions,0.7932233161911827,516.1019485933862,Platinum,2,7,2768.83,395.54714285714283,"Protect margin with VIP service, early access, and referral prompts."
+17937,Champions,0.7930392382619282,848.0476820876447,Platinum,9,7,4301.22,614.46,"Protect margin with VIP service, early access, and referral prompts."
+12619,Champions,0.7927690960087498,481.78305068553743,Platinum,16,10,3781.38,378.13800000000003,"Protect margin with VIP service, early access, and referral prompts."
+17523,Potential,0.7912061271501374,2446.351045749382,Platinum,11,4,652.74,163.185,Use welcome-back merchandising and low-friction second-purchase offers.
+16015,Potential,0.7908127762692048,1024.588330259757,Platinum,4,3,705.39,235.13,Use welcome-back merchandising and low-friction second-purchase offers.
+15621,Loyal,0.7904748967706855,4181.3499099739065,Platinum,4,4,1293.03,323.2575,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13092,Loyal,0.7903671666827928,227.91112807740467,Gold,71,12,2140.28,178.35666666666668,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14344,At-Risk,0.7902388785851272,378.750385716504,Platinum,127,20,3333.7000000000003,166.685,"Prioritize service recovery, win-back messaging, and friction diagnosis."
+16059,Loyal,0.7902167239427316,402.1901759263766,Platinum,66,12,3217.77,268.1475,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13139,Champions,0.7897429503277108,1331.1463616464118,Platinum,16,8,8202.98,1025.3725,"Protect margin with VIP service, early access, and referral prompts."
+15877,Potential,0.7888736375327394,1945.6779396107486,Platinum,2,2,493.28,246.64,Use welcome-back merchandising and low-friction second-purchase offers.
+12640,Potential,0.7887911702846112,1016.8884140409862,Platinum,24,3,1174.58,391.52666666666664,Use welcome-back merchandising and low-friction second-purchase offers.
+15399,Potential,0.7887140133788938,732.9978577527722,Platinum,1,3,815.77,271.92333333333335,Use welcome-back merchandising and low-friction second-purchase offers.
+12464,Loyal,0.7883015705450873,278.2895879356815,Gold,10,8,1212.05,151.50625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13673,Potential,0.7873226413594646,878.9177891486214,Platinum,19,2,396.92,198.46,Use welcome-back merchandising and low-friction second-purchase offers.
+16633,Loyal,0.7863112741598197,871.9284748192986,Platinum,17,6,2883.1,480.51666666666665,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14673,Champions,0.7861809575061869,588.6249962206122,Platinum,3,7,3410.81,487.25857142857143,"Protect margin with VIP service, early access, and referral prompts."
+17470,Loyal,0.7860129038170771,390.59008113709933,Platinum,45,11,2804.87,254.9881818181818,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12775,Loyal,0.7857025306015677,291.51830704355103,Gold,17,7,1686.12,240.8742857142857,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12597,Loyal,0.7846875126067321,1004.3115923945247,Platinum,19,4,3811.22,952.805,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14210,At-Risk,0.784672407152873,588.824424918526,Platinum,106,16,5861.52,366.345,"Prioritize service recovery, win-back messaging, and friction diagnosis."
+15306,Loyal,0.7845263629107698,373.36514375773027,Platinum,64,9,3484.73,387.1922222222222,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14141,Loyal,0.7844081551936224,615.2875157677197,Platinum,3,4,915.13,228.7825,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12530,Loyal,0.7836235437118959,412.9688751777171,Platinum,60,9,3759.26,417.6955555555556,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13813,Loyal,0.782771446401261,265.4302257072705,Gold,40,8,2765.47,345.68375,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13014,Champions,0.7823537365020583,875.0386235507727,Platinum,11,11,5381.08,489.1890909090909,"Protect margin with VIP service, early access, and referral prompts."
+15671,Champions,0.7811725656257535,689.3392447863627,Platinum,19,7,2657.13,379.59000000000003,"Protect margin with VIP service, early access, and referral prompts."
+16726,Loyal,0.7811083109544924,357.21337394462876,Platinum,26,7,2088.41,298.3442857142857,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15281,Loyal,0.7810497439465794,1403.1910852338106,Platinum,59,16,8543.57,533.973125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12727,Champions,0.7805390630405291,609.1275606472548,Platinum,11,10,5679.53,567.953,"Protect margin with VIP service, early access, and referral prompts."
+17750,Loyal,0.7781424140997387,767.6151910865492,Platinum,5,9,1797.57,199.73,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12635,Loyal,0.7779883694111229,448.9808332265742,Platinum,90,4,2930.41,732.6025,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17905,Loyal,0.7772531704043318,245.19685721322347,Gold,71,13,2383.52,183.3476923076923,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12823,Loyal,0.7771299501849775,669.699460090555,Platinum,75,18,6501.5,361.19444444444446,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14711,Champions,0.7765117384671585,765.2256441920327,Platinum,10,11,2868.8,260.8,"Protect margin with VIP service, early access, and referral prompts."
+16612,Loyal,0.776416736497307,308.1284717686697,Gold,33,9,3245.43,360.6033333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16316,Loyal,0.7762895285570036,814.1464762580474,Platinum,64,13,5744.91,441.91615384615386,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16571,Loyal,0.7753319759000437,469.10847806281583,Platinum,27,10,4248.74,424.87399999999997,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17420,Loyal,0.775145425201735,188.66131124847027,Gold,50,6,1084.43,180.73833333333334,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14262,Champions,0.7750344404823453,757.7994111177103,Platinum,8,8,2618.23,327.27875,"Protect margin with VIP service, early access, and referral prompts."
+14462,Loyal,0.7749667556860249,366.49630939059034,Platinum,66,12,2270.01,189.16750000000002,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16818,Champions,0.7748119622376082,1133.8632106393218,Platinum,11,11,3349.57,304.50636363636363,"Protect margin with VIP service, early access, and referral prompts."
+17459,Potential,0.7747565682979505,763.8712385133643,Platinum,43,2,657.3,328.65,Use welcome-back merchandising and low-friction second-purchase offers.
+16358,Loyal,0.7747007158500092,515.3593545641346,Platinum,1,5,2919.65,583.9300000000001,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16066,Loyal,0.7736367696307856,854.5460738211316,Platinum,17,5,1521.87,304.37399999999997,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12645,Loyal,0.7736096341708603,368.34572801178376,Platinum,34,8,3539.3,442.4125,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13588,Champions,0.7734886781412678,676.7434442393984,Platinum,16,9,2478.95,275.43888888888887,"Protect margin with VIP service, early access, and referral prompts."
+14004,Loyal,0.7732394878411609,998.9340838099913,Platinum,43,11,6258.45,568.9499999999999,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12721,Loyal,0.7729521240170806,591.4675506070803,Platinum,32,8,4013.08,501.635,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17015,Loyal,0.7728304821538644,692.7502053392875,Platinum,29,3,1842.56,614.1866666666666,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17744,Champions,0.7725844108845091,483.46872431116265,Platinum,4,7,2649.14,378.4485714285714,"Protect margin with VIP service, early access, and referral prompts."
+13314,Potential,0.7721781718402655,728.7128886377866,Platinum,2,3,775.94,258.6466666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+16533,Loyal,0.7716801333737077,1118.9407326867781,Platinum,19,3,1095.56,365.18666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14312,Loyal,0.7712903988732625,425.62696548822396,Platinum,47,11,3090.29,280.93545454545455,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12352,Loyal,0.7712289080403485,503.33106670756644,Platinum,36,10,2849.84,284.98400000000004,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12480,Loyal,0.7703205738401924,747.2816073285045,Platinum,28,7,5464.85,780.6928571428572,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15883,Potential,0.7699675677502199,832.5729307134743,Platinum,2,2,396.48,198.24,Use welcome-back merchandising and low-friction second-purchase offers.
+12613,Loyal,0.7696188039415199,653.014973576677,Platinum,57,10,6835.07,683.507,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16005,Champions,0.7692329462683374,374.8041376715698,Platinum,12,10,2436.22,243.62199999999999,"Protect margin with VIP service, early access, and referral prompts."
+17162,Loyal,0.7685356803828257,387.76241713809475,Platinum,29,10,1715.46,171.546,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17720,Champions,0.767925953334873,330.5157282044243,Platinum,26,10,2768.91,276.89099999999996,"Protect margin with VIP service, early access, and referral prompts."
+17357,Potential,0.7679001567321078,1117.697875627501,Platinum,24,2,388.14,194.07,Use welcome-back merchandising and low-friction second-purchase offers.
+12680,Potential,0.7674350115360377,538.3787515574793,Platinum,1,4,880.81,220.2025,Use welcome-back merchandising and low-friction second-purchase offers.
+13517,Potential,0.7673410918499927,816.6120633576808,Platinum,60,3,2128.42,709.4733333333334,Use welcome-back merchandising and low-friction second-purchase offers.
+17155,Loyal,0.7672805818328696,83.62150681903752,Gold,18,7,892.46,127.49428571428572,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17147,Champions,0.7672742506496556,316.57812529079206,Gold,23,9,3199.95,355.54999999999995,"Protect margin with VIP service, early access, and referral prompts."
+13198,Champions,0.7669367562150112,791.112405248999,Platinum,10,8,4974.2300000000005,621.7787500000001,"Protect margin with VIP service, early access, and referral prompts."
+13575,Potential,0.7663296148395342,286.8785392170568,Gold,23,5,732.0699999999999,146.414,Use welcome-back merchandising and low-friction second-purchase offers.
+16003,Loyal,0.7660048803836187,525.8422635705941,Platinum,30,10,5613.83,561.383,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15329,Loyal,0.7652125867145242,283.0967205260028,Gold,39,11,2984.33,271.3027272727273,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16989,Loyal,0.7651170139203136,516.7960069024343,Platinum,7,6,1133.25,188.875,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17593,Champions,0.764903592693889,758.2661027425943,Platinum,4,11,8095.8,735.9818181818182,"Protect margin with VIP service, early access, and referral prompts."
+17236,Loyal,0.7644995007854907,206.76424862879657,Gold,13,12,1929.26,160.77166666666668,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15674,Loyal,0.7644795695235796,653.981106896818,Platinum,73,13,6948.2300000000005,534.4792307692308,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16150,Loyal,0.7644653737477268,418.87101343110714,Platinum,43,10,4395.59,439.559,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13477,Loyal,0.7632871233915333,284.64282453981343,Gold,38,11,2834.17,257.6518181818182,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17634,Loyal,0.7623635288878874,479.470948489524,Platinum,36,9,2361.9700000000003,262.4411111111111,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17164,Loyal,0.7620238786499289,619.8394341715061,Platinum,33,7,2467.35,352.4785714285714,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15568,Potential,0.7618317459395709,712.2198015968021,Platinum,3,3,758.29,252.76333333333332,Use welcome-back merchandising and low-friction second-purchase offers.
+12633,Loyal,0.7609660715645837,739.315284795369,Platinum,59,7,5678.16,811.1657142857142,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17173,Champions,0.7605199827769896,1968.0283285610901,Platinum,5,8,3766.6,470.825,"Protect margin with VIP service, early access, and referral prompts."
+14261,Potential,0.7604673834413538,1007.9610120738719,Platinum,51,2,1163.45,581.725,Use welcome-back merchandising and low-friction second-purchase offers.
+14116,Loyal,0.7595369613639413,774.7687902956874,Platinum,20,5,1382.74,276.548,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15632,Champions,0.759004910712017,816.0762839600607,Platinum,16,8,3285.31,410.66375,"Protect margin with VIP service, early access, and referral prompts."
+16900,Potential,0.7587216947819634,961.5280037971821,Platinum,17,3,887.11,295.7033333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+17669,Loyal,0.7576211077592473,678.8033403760958,Platinum,43,10,6142.35,614.235,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16979,Champions,0.7573291463668864,433.1528906062479,Platinum,4,9,2859.74,317.74888888888887,"Protect margin with VIP service, early access, and referral prompts."
+15752,Loyal,0.7571652802588936,626.0311971551212,Platinum,40,9,4207.54,467.50444444444446,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15505,Loyal,0.7569191585976366,1587.0221447979031,Platinum,53,5,3610.96,722.192,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16837,Loyal,0.7568474576069892,878.0298113863211,Platinum,31,11,3170.98,288.2709090909091,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15370,Loyal,0.7565938901497876,619.4698075640054,Platinum,41,8,3739.01,467.37625,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16221,Loyal,0.7565196016096751,313.18650640637867,Gold,37,9,2235.5099999999998,248.39,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13558,Potential,0.7560840038514862,605.4831891666796,Platinum,6,4,605.06,151.265,Use welcome-back merchandising and low-friction second-purchase offers.
+14289,Loyal,0.7544643746329474,213.3661673880061,Gold,9,6,911.26,151.87666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14883,Potential,0.7543066844296076,243.87980425248603,Gold,19,6,761.59,126.93166666666667,Use welcome-back merchandising and low-friction second-purchase offers.
+15312,Loyal,0.7535385214564202,274.4765105204073,Gold,75,12,2930.19,244.1825,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18287,Loyal,0.7528243326649856,495.4809422665869,Platinum,43,7,4182.99,597.5699999999999,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14790,Champions,0.7524911077895524,235.04576572622457,Gold,17,10,2526.62,252.66199999999998,"Protect margin with VIP service, early access, and referral prompts."
+14107,Loyal,0.7522397482812576,452.33000436478903,Platinum,52,11,4877.3,443.39090909090913,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17629,Champions,0.7517089591644264,394.5968515597836,Platinum,6,10,2455.52,245.552,"Protect margin with VIP service, early access, and referral prompts."
+12421,Loyal,0.7513864794323171,147.11403320275426,Gold,16,6,1098.6,183.1,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15932,Champions,0.7511137740638422,583.8111078703977,Platinum,4,8,2495.87,311.98375,"Protect margin with VIP service, early access, and referral prompts."
+16076,Loyal,0.7510949706411771,722.7966590272067,Platinum,3,10,2234.73,223.473,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15027,Loyal,0.7504731649205111,345.89596814711325,Platinum,31,10,3195.6,319.56,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12528,Loyal,0.750124231284237,417.0336034610549,Platinum,9,6,1933.48,322.24666666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16240,Loyal,0.7484725567512969,3253.3477527818836,Platinum,24,2,3718.8,1859.4,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13790,Potential,0.7482424497153114,5872.206745365764,Platinum,4,1,348.8,348.8,Use welcome-back merchandising and low-friction second-purchase offers.
+14719,Loyal,0.7481002688468605,433.2122471304653,Platinum,2,5,1602.13,320.42600000000004,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14205,Champions,0.7479216213519339,252.73237020856217,Gold,17,9,2414.2,268.2444444444444,"Protect margin with VIP service, early access, and referral prompts."
+12577,Loyal,0.7475380363424231,151.17077783167855,Gold,35,8,1653.75,206.71875,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14001,Loyal,0.7466860286662933,616.2549434090688,Platinum,46,9,4530.09,503.34333333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15351,Champions,0.7457583485243443,579.4630205622549,Platinum,12,10,3738.29,373.829,"Protect margin with VIP service, early access, and referral prompts."
+16020,Potential,0.7457458203156299,878.728362295575,Platinum,17,3,851.01,283.67,Use welcome-back merchandising and low-friction second-purchase offers.
+15321,Loyal,0.7453611111198745,666.8229077485807,Platinum,71,12,6709.7300000000005,559.1441666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16950,Loyal,0.7447036473609217,370.27893836013516,Platinum,57,10,3784.37,378.437,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14842,Loyal,0.7444276548235496,614.4479276211621,Platinum,44,4,2824.69,706.1725,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16464,Loyal,0.7436610702034286,619.65401563207,Platinum,20,3,1314.68,438.2266666666667,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12381,Loyal,0.7432112412368945,1028.5913516751402,Platinum,5,5,1845.31,369.062,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16208,Loyal,0.742938213356875,352.2875342311324,Platinum,45,10,3440.45,344.04499999999996,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17837,Loyal,0.742275073664373,653.0390375385306,Platinum,42,8,1593.38,199.1725,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13316,Loyal,0.7417417752502128,1375.9788586130787,Platinum,37,10,13191.57,1319.157,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16094,Champions,0.7406209351137331,409.1874074206008,Platinum,12,11,3695.56,335.96,"Protect margin with VIP service, early access, and referral prompts."
+15255,Loyal,0.7394597956868919,336.7680510322317,Platinum,67,9,3729.42,414.38,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13200,Potential,0.7392159676482117,459.41744377930894,Platinum,19,4,870.09,217.5225,Use welcome-back merchandising and low-friction second-purchase offers.
+16735,Loyal,0.7386495486940097,569.4770058268905,Platinum,79,14,6270.56,447.8971428571429,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14035,Loyal,0.7386442370893653,309.80257560850544,Gold,29,9,2856.72,317.4133333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14639,Loyal,0.7379534427844098,499.51912479415085,Platinum,52,9,4978.96,553.2177777777778,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15996,Loyal,0.7379108914638424,282.1923663801814,Gold,88,7,1686.9,240.9857142857143,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12691,Loyal,0.7375898197190877,184.5481264843939,Gold,28,7,1170.4,167.20000000000002,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14138,Potential,0.7372512254104711,1018.4918327138512,Platinum,2,2,982.3800000000001,491.19000000000005,Use welcome-back merchandising and low-friction second-purchase offers.
+13384,Loyal,0.7365218480991639,883.9360344496414,Platinum,31,11,6680.83,607.3481818181818,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14659,Champions,0.7360330318336945,530.3483681659229,Platinum,9,9,2529.93,281.1033333333333,"Protect margin with VIP service, early access, and referral prompts."
+13028,Potential,0.7359457636316709,973.391304809793,Platinum,23,2,661.3199999999999,330.65999999999997,Use welcome-back merchandising and low-friction second-purchase offers.
+12948,Champions,0.7358796166986478,207.9694512348716,Gold,16,9,2317.43,257.4922222222222,"Protect margin with VIP service, early access, and referral prompts."
+16416,Loyal,0.7356008737845093,300.4836355863883,Gold,27,9,2972.88,330.32,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12950,Potential,0.7356000800865424,5083.9160534981165,Platinum,2,3,1843.0,614.3333333333334,Use welcome-back merchandising and low-friction second-purchase offers.
+17114,Loyal,0.7354009991908832,159.75939115497277,Gold,6,8,808.62,101.0775,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14305,Potential,0.7347532488670202,910.5845996758906,Platinum,71,3,1858.96,619.6533333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+15172,Loyal,0.734117274343133,452.750566859607,Platinum,9,5,1624.05,324.81,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12508,Potential,0.7340261226967286,907.2638810268396,Platinum,26,2,398.27,199.135,Use welcome-back merchandising and low-friction second-purchase offers.
+16098,Loyal,0.7337726647423967,405.17307186711577,Platinum,88,14,4448.1,317.7214285714286,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17728,Loyal,0.7336807983264008,617.8602955060956,Platinum,4,5,4238.76,847.7520000000001,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16794,Loyal,0.7336725599873781,221.25624409661663,Gold,1,15,2090.91,139.39399999999998,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12520,Loyal,0.733617732195196,634.7758622230896,Platinum,79,5,2634.26,526.8520000000001,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16657,Loyal,0.7332360043965082,241.6107523851769,Gold,10,4,933.62,233.405,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+18170,Loyal,0.733023581554795,271.2396687061757,Gold,33,9,2878.0,319.77777777777777,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15227,Loyal,0.7329935049646439,258.9341177369906,Gold,37,9,2488.4900000000002,276.4988888888889,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+14216,Loyal,0.7314653445194493,341.8869020283906,Platinum,3,5,2150.04,430.008,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13157,Loyal,0.7310254040069888,582.8417722055871,Platinum,49,9,5687.36,631.9288888888889,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15933,Loyal,0.7295885340979265,835.8518461780238,Platinum,21,3,1107.46,369.15333333333336,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15754,Loyal,0.7292135417475932,304.36026135772767,Gold,51,9,3037.61,337.51222222222225,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13138,Loyal,0.7286027629095508,242.35053049528173,Gold,22,7,1467.24,209.6057142857143,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12598,Champions,0.7284556968604338,458.0270141017152,Platinum,10,11,4534.09,412.19,"Protect margin with VIP service, early access, and referral prompts."
+12787,Potential,0.7280800948150905,136.7947909280647,Gold,10,4,862.18,215.545,Use welcome-back merchandising and low-friction second-purchase offers.
+14824,Champions,0.7277964022348296,413.66930644632134,Platinum,10,10,4022.9100000000003,402.29100000000005,"Protect margin with VIP service, early access, and referral prompts."
+15722,Loyal,0.7275487828767784,537.9643483937422,Platinum,36,11,5258.1,478.00909090909096,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17796,Loyal,0.7271193083015707,211.70933587702865,Gold,40,7,1361.99,194.57,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+12912,Loyal,0.7270520787163794,2652.977569281009,Platinum,3,5,1662.3,332.46,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17800,Loyal,0.7270425460556089,234.8976511471623,Gold,37,9,1199.01,133.22333333333333,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15288,Loyal,0.7248054517907503,380.9116412948864,Platinum,43,10,3883.13,388.313,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17686,Champions,0.7245423912862178,1013.1557119293377,Platinum,7,9,8296.81,921.8677777777777,"Protect margin with VIP service, early access, and referral prompts."
+17425,Potential,0.724481629184538,811.4823714511854,Platinum,19,2,759.17,379.585,Use welcome-back merchandising and low-friction second-purchase offers.
+15380,Champions,0.7240601866694467,307.20107719929337,Gold,9,11,3479.0600000000004,316.27818181818185,"Protect margin with VIP service, early access, and referral prompts."
+13822,Potential,0.7234059821383132,1028.6833066006814,Platinum,6,2,632.0,316.0,Use welcome-back merchandising and low-friction second-purchase offers.
+14976,Loyal,0.72327586624553,157.43393162723115,Gold,57,7,790.86,112.98,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17284,Loyal,0.7230532705271537,408.45912939214884,Platinum,60,8,2793.16,349.145,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+17653,Loyal,0.7227274129667955,654.5525361016377,Platinum,37,4,1207.56,301.89,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13815,Champions,0.7212310372076979,728.6129343371723,Platinum,22,8,7475.74,934.4675,"Protect margin with VIP service, early access, and referral prompts."
+16682,Loyal,0.7211122815472513,354.87929940825364,Platinum,5,5,1028.0,205.6,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+13212,Potential,0.7210415231511131,838.3845298498957,Platinum,20,3,788.08,262.6933333333333,Use welcome-back merchandising and low-friction second-purchase offers.
+12347,Champions,0.7205719356251153,904.2799670188384,Platinum,2,8,5633.32,704.165,"Protect margin with VIP service, early access, and referral prompts."
+16470,Loyal,0.7204041489604281,218.6648939054455,Gold,52,11,2458.6,223.5090909090909,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+15907,Loyal,0.7202205565038796,298.6188760241479,Gold,4,3,967.45,322.48333333333335,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.
+16455,Loyal,0.7201239779108602,458.3162852467314,Platinum,64,11,4384.37,398.5790909090909,Nudge replenishment and bundles; avoid over-discounting customers already likely to return.

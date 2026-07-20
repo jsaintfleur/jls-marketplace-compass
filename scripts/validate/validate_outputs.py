@@ -4,10 +4,12 @@
 import json
 import os
 import sys
+import csv
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 PROC = os.path.join(ROOT, "data", "processed")
 META = os.path.join(ROOT, "data", "metadata")
+PUBLIC = os.path.join(ROOT, "public", "data")
 
 LEAKAGE_TOKENS = ["future", "post", "after", "label", "target", "next", "outcome", "_post"]
 
@@ -70,6 +72,13 @@ if mm:
     split = mm.get("split", {})
     check(split.get("test_cutoff", "") > split.get("train_cutoff", ""),
           "split: test_cutoff must be after train_cutoff")
+    check(len(mm.get("calibration", [])) >= 5, "model_metrics.calibration must contain bins")
+    check(len(mm.get("lift_curve", [])) >= 5, "model_metrics.lift_curve must contain points")
+    policy = mm.get("threshold_policy", {})
+    check(len(policy.get("rows", [])) >= 10, "threshold_policy.rows must contain threshold grid")
+    for row in policy.get("rows", []):
+        check(0 <= row.get("threshold", -1) <= 1, "threshold out of range")
+        check(row.get("expected_net_value") is not None, "threshold row missing expected_net_value")
 
 # ---- segments sum to customer count ----
 if seg:
@@ -87,10 +96,14 @@ if seg:
         overall_avg = sum(r["total_monetary"] for r in rows) / n
         if c["avg_monetary"] < overall_avg:
             warnings.append("Champions avg_monetary below overall average -- unexpected")
+    check(len(seg.get("playbook", [])) >= 5, "segments.playbook must contain segment actions")
+    for row in rows:
+        check("recommended_action" in row, f"segment {row.get('segment')} missing recommended_action")
 
 # ---- summary ----
 if summ:
-    for k in ("customers", "orders", "revenue", "model_roc_auc", "repeat_rate_overall"):
+    for k in ("customers", "orders", "revenue", "model_roc_auc", "repeat_rate_overall",
+              "calibration_mean_abs_error", "threshold_default_expected_net_value"):
         check(k in summ, f"summary missing '{k}'")
     check(0.0 <= summ.get("repeat_rate_overall", -1) <= 1.0, "repeat_rate out of [0,1]")
 
@@ -108,6 +121,22 @@ if src:
 if seg and summ:
     check(seg.get("n_customers") == summ.get("customers"),
           "segments.n_customers != summary.customers")
+
+# ---- scored export + public copies ----
+csv_path = os.path.join(PROC, "scored-customers.csv")
+if not os.path.exists(csv_path):
+    errors.append("MISSING artifact: scored-customers.csv")
+else:
+    try:
+        rows = list(csv.DictReader(open(csv_path)))
+        check(len(rows) >= 100, "scored-customers.csv should include at least 100 scored customers")
+        check({"customer_id", "segment", "p_repeat", "clv_90d_proxy", "recommended_action"}.issubset(rows[0].keys()),
+              "scored-customers.csv missing required columns")
+    except Exception as e:  # noqa: BLE001
+        errors.append(f"MALFORMED csv scored-customers.csv: {e}")
+
+for rel in ("model_metrics.json", "segments.json", "summary.json", "sources.json", "scored-customers.csv"):
+    check(os.path.exists(os.path.join(PUBLIC, rel)), f"missing public copy {rel}")
 
 print("=== VALIDATION ===")
 for w in warnings:

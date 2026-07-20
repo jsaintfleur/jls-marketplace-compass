@@ -11,8 +11,9 @@
       "avg_frequency": 24.446293494704992,
       "avg_monetary": 14567.994574886534,
       "total_monetary": 9629444.413999999,
-      "avg_clv_90d_proxy": 2013.968834596116,
-      "avg_predicted_repeat_prob": 0.8785872882307604
+      "avg_clv_90d_proxy": 2009.610231369612,
+      "avg_predicted_repeat_prob": 0.879566260314349,
+      "recommended_action": "Protect margin with VIP service, early access, and referral prompts."
     },
     {
       "segment": "Loyal",
@@ -22,8 +23,9 @@
       "avg_frequency": 8.103885135135135,
       "avg_monetary": 3456.7133141891895,
       "total_monetary": 4092748.5640000002,
-      "avg_clv_90d_proxy": 728.7711660528447,
-      "avg_predicted_repeat_prob": 0.6268883778733294
+      "avg_clv_90d_proxy": 757.6475359789057,
+      "avg_predicted_repeat_prob": 0.624666801649971,
+      "recommended_action": "Nudge replenishment and bundles; avoid over-discounting customers already likely to return."
     },
     {
       "segment": "At-Risk",
@@ -33,8 +35,9 @@
       "avg_frequency": 7.15843023255814,
       "avg_monetary": 3358.7366642441857,
       "total_monetary": 2310810.8249999997,
-      "avg_clv_90d_proxy": 110.938427333848,
-      "avg_predicted_repeat_prob": 0.22601475999525938
+      "avg_clv_90d_proxy": 114.67083418712447,
+      "avg_predicted_repeat_prob": 0.22940816243365272,
+      "recommended_action": "Prioritize service recovery, win-back messaging, and friction diagnosis."
     },
     {
       "segment": "Potential",
@@ -44,8 +47,9 @@
       "avg_frequency": 2.1976534296028882,
       "avg_monetary": 599.4835216606498,
       "total_monetary": 664227.742,
-      "avg_clv_90d_proxy": 457.54625495065255,
-      "avg_predicted_repeat_prob": 0.39699044452116256
+      "avg_clv_90d_proxy": 445.4032685658112,
+      "avg_predicted_repeat_prob": 0.39112178070460063,
+      "recommended_action": "Use welcome-back merchandising and low-friction second-purchase offers."
     },
     {
       "segment": "Hibernating",
@@ -55,8 +59,46 @@
       "avg_frequency": 1.7232901206973625,
       "avg_monetary": 467.6788703620921,
       "total_monetary": 1046197.633,
-      "avg_clv_90d_proxy": 14.181072763713015,
-      "avg_predicted_repeat_prob": 0.1042970364982114
+      "avg_clv_90d_proxy": 13.896707375455062,
+      "avg_predicted_repeat_prob": 0.10422079023540011,
+      "recommended_action": "Use low-cost reactivation only; suppress expensive incentives unless predicted value clears the threshold."
+    }
+  ],
+  "playbook": [
+    {
+      "segment": "Champions",
+      "customers": 661,
+      "avg_predicted_repeat_prob": 0.879566260314349,
+      "avg_clv_90d_proxy": 2009.610231369612,
+      "recommended_action": "Protect margin with VIP service, early access, and referral prompts."
+    },
+    {
+      "segment": "Loyal",
+      "customers": 1184,
+      "avg_predicted_repeat_prob": 0.624666801649971,
+      "avg_clv_90d_proxy": 757.6475359789057,
+      "recommended_action": "Nudge replenishment and bundles; avoid over-discounting customers already likely to return."
+    },
+    {
+      "segment": "At-Risk",
+      "customers": 688,
+      "avg_predicted_repeat_prob": 0.22940816243365272,
+      "avg_clv_90d_proxy": 114.67083418712447,
+      "recommended_action": "Prioritize service recovery, win-back messaging, and friction diagnosis."
+    },
+    {
+      "segment": "Potential",
+      "customers": 1108,
+      "avg_predicted_repeat_prob": 0.39112178070460063,
+      "avg_clv_90d_proxy": 445.4032685658112,
+      "recommended_action": "Use welcome-back merchandising and low-friction second-purchase offers."
+    },
+    {
+      "segment": "Hibernating",
+      "customers": 2237,
+      "avg_predicted_repeat_prob": 0.10422079023540011,
+      "avg_clv_90d_proxy": 13.896707375455062,
+      "recommended_action": "Use low-cost reactivation only; suppress expensive incentives unless predicted value clears the threshold."
     }
   ],
   "clv_proxy": {
@@ -72,6 +114,6 @@
       "Silver": 1469,
       "Bronze": 1470
     },
-    "platinum_avg_clv_90d": 1729.847520759986
+    "platinum_avg_clv_90d": 1743.995253031953
   }
 }

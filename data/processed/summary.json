@@ -11,11 +11,14 @@
   "revenue": 17743429.178000003,
   "avg_order_value": 479.9542637885797,
   "repeat_rate_overall": 0.7238856753997959,
-  "model_roc_auc": 0.7829297390507658,
-  "model_pr_auc": 0.7514843693338991,
-  "model_brier": 0.19484459666487106,
-  "model_top_decile_lift": 2.1414929559507874,
+  "model_roc_auc": 0.7835056241514521,
+  "model_pr_auc": 0.7515003637854003,
+  "model_brier": 0.19465600572417224,
+  "model_top_decile_lift": 2.1504158432672487,
   "baseline_roc_auc": 0.7879246002924227,
+  "calibration_mean_abs_error": 0.10003479897566478,
+  "threshold_default": 0.5,
+  "threshold_default_expected_net_value": 25156.0,
   "top_segments_by_revenue": [
     {
       "segment": "Champions",
