@@ -17,7 +17,7 @@ function MetricRow({
   better: Dir;
 }) {
   const hgbWins = better === "up" ? hgb > base : hgb < base;
-  const win = "font-semibold text-brand-700";
+  const win = "font-semibold text-[var(--data-primary)]";
   const dim = "text-ink-soft";
   return (
     <tr className="border-t border-slate-100">
@@ -39,7 +39,7 @@ export function ModelCard({ m }: { m: ModelMetrics }) {
     <div className="rounded-xl border border-slate-200 bg-panel p-6 shadow-card">
       <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-wide text-brand-700">
+          <p className="text-xs font-semibold uppercase tracking-wide text-[var(--accent-text)]">
             Model card
           </p>
           <h2 className="mt-1 text-lg font-semibold tracking-tight text-ink">
@@ -50,7 +50,7 @@ export function ModelCard({ m }: { m: ModelMetrics }) {
             Evaluated on a strict temporal holdout (no shuffle, no leakage).
           </p>
         </div>
-        <span className="rounded-full bg-brand-50 px-3 py-1 text-xs font-medium text-brand-700">
+        <span className="rounded-full bg-[var(--accent-badge-bg)] px-3 py-1 text-xs font-medium text-[var(--accent-text)]">
           Temporal holdout · n={m.n_test.toLocaleString("en-US")}
         </span>
       </div>

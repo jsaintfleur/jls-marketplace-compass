@@ -20,7 +20,7 @@ export default function OverviewPage() {
   return (
     <div className="mx-auto max-w-7xl px-6">
       <section className="pt-14 pb-10">
-        <p className="text-sm font-semibold uppercase tracking-wider text-brand-700">
+        <p className="text-sm font-semibold uppercase tracking-wider text-[var(--accent-text)]">
           Retail Analytics · Retention Intelligence
         </p>
         <h1 className="mt-3 max-w-3xl text-4xl font-semibold tracking-tight text-ink sm:text-5xl">

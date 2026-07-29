@@ -42,7 +42,7 @@ export default function MethodologyPage() {
                   <td className="px-4 py-2.5">
                     <a
                       href={d.url}
-                      className="font-medium text-brand-700 underline-offset-2 hover:underline"
+                      className="font-medium text-[var(--accent-text)] underline-offset-2 hover:underline"
                       target="_blank"
                       rel="noreferrer"
                     >
